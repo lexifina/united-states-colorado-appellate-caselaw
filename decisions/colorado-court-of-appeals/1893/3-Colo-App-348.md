@@ -1,0 +1,29 @@
+---
+court: "Colorado Court of Appeals"
+decided: "1893-04"
+citations: ["3 Colo. App. 348"]
+reporter: "colo-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Rizer, Plaintiff in Error, v. McCarthy, Defendant in Error."]
+source_url: "https://static.case.law/colo-app/3/cases/0348-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4468529
+---
+
+# Rizer v. McCarthy
+
+## Majority (Thompson, J.,)
+
+Thompson, J.,
+delivered the opinion of the court.
+In the early part of -the year 1891, the Rosenfeld Construction Company, a corporation, being the owner and in possession of the goods and chattels in controversy in this action, sold the same to E. I. Rosenfeld, its president. After-wards, and in the same year, J. E. Rizer, the plaintiff below, brought an attachment suit against Rosenfeld before a justice of the peace, attached these goods and chattels as the property of Rosenfeld, obtained judgment against him in the suit, and caused the property to be sold under execution issued on the judgment. At the execution sale Rizer became the purchaser.
+The sale from the company to Rosenfeld was not followed by any change of possession of the things sold, nor were they delivered to the plaintiff under the purchase made by him, but remained continuously in the possession of the original vendor until they were attached by the Chieftain Publishing Company.
+In December, 1891, the Chieftain Publishing Company commenced its action against the Rosenfeld Construction Company, and caused a writ of attachment to be issued therein, and delivered to the defendant, T. G. McCarthy, the sheriff of Pueblo county, who, in pursuance of its commands, levied it upon the goods and chattels mentioned. This is an action in replevin, brought by the plaintiff, Rizer, against the sheriff, T. G. McCarthy as defendant, to recover the possession of the property. That the Chieftain Publishing Company was a Iona fide creditor of the Rosenfeld Construction Company, is not controverted.
+• It is earnestly contended that where personal property has been sold under judicial process, it may remain in the possession of the vendor or judgment debtor, and cannot be reached by subsequent creditors of the vendor, and forms an exception to the general rule, which requires that such sale must be accompanied by an immediate delivery, and followed by an actual and continued change of possession of the thing sold. Numerous authorities are cited by counsel for the respective parties on both sides of this proposition.
+We are unable to perceive that any such question is involved in the case. If the suit of the Chieftain Publishing Company had been against E. I. Rosenfeld, and the property had been attached by it while in his possession, then the controversy would have been between two creditors of the same debtor, and it might become important to inquire whether the law warrants the distinction contended for, between purchasers at private sale and purchasers under judicial process; and whether the purchase by the plaintiff, Rizer, at execution sale, became fraudulent and void as against the creditors of Rosenfeld, because the property sold remained in the possession of the judgment debtor. But we have no such state of facts before us. Rizer did not permit the property to remain in the possession of the judgment debtor. He did not find it there and he did not leave it there. It never had been in Rosenfeld’s possession, and the Chieftain Publishing Company was not a creditor of Rosenfeld.
+The sale by the Rosenfeld Construction Company to Rosenfeld was, because it was not accompanied by an immediate delivery and followed by an actual and continued change of possession, conclusively fraudulent and void as against the creditors of the company; and the statute makes the term “creditors” include all persons who are creditors of the vendor or assignor at any time whilst such goods and chattels remain in his possession or control. 2 Mill’s Ann. Stats. 2028.
+If there had been no sale of Rosenfeld’s interest in the property, and the rights which he acquired by his purchase from the Rosenfeld Company had remained unchanged, he would not now be heard to say that he was its owner as against the claim of the Chieftain Publishing Company. He could assert no title to the property as against the creditors of his vendor. In what better or different position is the plaintiff Rizer ? By his purchase he stepped into Rosenfeld’s shoes. He acquired no rights which Rosenfeld did not have. He assumed the relations to the creditors of the Rosenfeld Construction Company which had been held by Rosenfeld. As to them he became the representative of Rosenfeld — nothing more and nothing less. By suffering the property still to remain in the custody of the original vendor, he simply continued the same course in relation to it which was commenced by Rosenfeld, and if Rosenfeld could not be heard to assert ownership in the property, neither can he.
+Our statute of frauds provides that every sale by a vendor of goods in his possession, unless the same be accompanied by au immediate delivery and followed by an actual and continued change of possession of the thing sold, shall be conclusively presumed to be fraudulent and void as against the creditors of the vendor, who shall be such creditors while such goods remain in his possession. The sale from the Rosenfeld Construction Company to Rosenfeld, was not accompanied by any delivery or followed by any actual or other change of possession. The Chieftain Publishing Company was a creditor while the property remained in the possession of Rosenfeld’s vendor; and it is entirely immaterial how many subsequent sales were made, or in what manner, so long as the possession of the original vendor remained undisturbed.,
+The judgment of the court below is correct, and should be affirmed.
+Affirmed.
