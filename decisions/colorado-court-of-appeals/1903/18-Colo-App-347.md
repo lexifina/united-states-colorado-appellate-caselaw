@@ -1,0 +1,38 @@
+---
+court: "Colorado Court of Appeals"
+docket: "2256"
+decided: "1903-01"
+citations: ["18 Colo. App. 347"]
+reporter: "colo-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ingham v. Ryan, Executor."]
+source_url: "https://static.case.law/colo-app/18/cases/0347-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2359812
+cites_cases: ["103 N. Y. 414", "15 Kan. 88", "44 Ala. 690", "69 Pac. 272", "78 Tex Rep. 519"]
+---
+
+# Ingham v. Ryan
+
+## Majority (Gunter, J.)
+
+Gunter, J.
+General demurrer to complaint sustained. Judgment of dismissal. Plaintiff appeals.
+The gist of the complaint pertinent to this ruling is: One Cassell died leaving a will whereby he appointed appellee Ryan as his executor, and whereby he authorized tiim as his executor to sell the real estate of which he died seized at such times and prices as might seem to him wise. The testator died owning real estate. His executor authorized plaintiff to sell thirty acres at a net sum to the executor of $687.50 per acre. In pursuance of this power plaintiff set about to secure, and secured, a purchaser who bought the thirty acres at $850 per acre. • Such price per acre being paid to appellee, and a conveyance being executed conveying to the purchaser the land sold. Upon these facts plaintiff asks judgment for the difference between the price at which he was authorized to find a purchaser and the price at which he effected the sale.
+The court below held the complaint did not state facts sufficient to constitute a cause of action.
+If the complaint stated facts sufficient to entitle plaintiff to recover in any sum the judgment should be reversed. It is unnecessary, therefore, for us to consider or determine what should be the amount of plaintiff’s recovery, it is only necessary to determine whether the complaint stated facts sufficient as to the two objections here urged against it to entitle plaintiff to recover in any sum.
+Appellee contends that the judgment below should be sustained for two reasons: (1) That the contract sued on was that of the executor, and that no action will lie against the executor, as such, upon a contract made by him. (2) That the statute prescribes the fees an executor shall receive for the sale of real estate, and, therefore, an executor has no power to contract to pay commissions to an agent in excess of such statutory rate,- that the commission sought to be recovered here exceeds such statutory rate.
+If the facts alleged in the complaint are true, that is, if plaintiff (the agent) under the contract with appellee, (the executor) sought for a purchaser for the land to he sold, and secured such purchaser upon terms fixed by defendant, and such terms according to his agreement with the executor entitled him to compensation fob effecting the sale, then he ought to recover commission or compensation in some amount for the services he thus beneficially rendered under contract with the defendant.
+It was in the power of testator to authorize appellee, his executor, to sell his real estate; it was in his power to leave the time of sale, the manner of sale, and the terms of sale to his executor. Under this power the executor could have an abstract prepared to effectuate the sale, could have contracts or deeds prepared for the same purpose, and likewise, if he deemed it necessary, could employ an- agent and contract to pay him commissions for aiding him in such sale. If empowered by the will to make these contracts, and he made them, he is liable as executor for their violation.
+2 Mills’ Ann. Státs., sec. 4805, p. 2463, prescribing the compensation of executors would not control the power given to the executor by the will in this case to employ an agent to aid in effecting the sale, and to agree with him on a compensation. The principle declared by the authorities is if the will authorizes the executor to make a contract, and he makes a contract within the power conferred by the will and defaults in its performance, he can be sued as executor on the contract.
+In Wade v. Pope et al., 44 Ala. 690, 695-6, Mrs. Pope was appointed by her husband at his death executrix of his will; the will gave her as such executrix power to carry on the farm and manage it as her husband did in his lifetime. Mrs. Pope qualified as such executrix and managed the farm under the will. As such executrix in carrying on the farm she employed Wade as overseer, and had him to purchase for the use of the plantation certain mules which were used and worked thereon. Wade procured judgment against Mrs. Pope in her individual name, and then sought by an equitable proceeding to subject the estate for the amount of the judgment. The court dismissed the bill and said:
+‘ ‘ The executrix is a trustee, and if the will gives her authority to contract debts for expenses incident to the management of the estate she represents, -then she is liable at law for such debts, as such executrix. * * * If the executrix had authority under the- will to bind the estate, then the estate was bound at law, and there was no need for a resort to equity; if she had not such authority to bind the estate, then she alone was liable.! ’
+In Brown v. Evans, 15 Kan. 88, an administrator was authorized by the court to sell lands belonging to the estate. The law authorized him to pay taxes on the lands, he agreed in effecting a sale that taxes on the land had been paid. The taxes had not been paid, a deed was made for the land, a mortgage given by the purchaser to secure a note for the purchase money. When foreclosure proceedings were instituted on the note and mortgage the- court permitted the defendant to recover as an offset the amount he had paid to discharge the tax lien. The court in ruling said:
+“Neither do we think that the estate can be held liable for the promises of the administrator, unless the administrator has the right in law to make such promises, or to perform the thing which he promises. But we know of no good reason why an estate should not be held liable- for promises made by the administrator where in law he has the right to make such promises, * # * .”
+In Murrell v. Wright, 78 Tex Rep. 519, the will authorized the executor to sell at private-or public sale the testator’s personal property. A contract was made between the executor and plaintiff therein in reference to an nnlocated land certificate, and a suit to enforce rights arising out of this contract was maintained.
+In Bostwick v. Beach et al., 103 N. Y. 414, 421, a will authorized the executrix and executors to sell and convey testator’s real estate; they entered into a contract to make such conveyance, but failed to carry it out. An action for specific performance was brought against the executrix and executors and maintained, the court saying:
+“We entertain no doubt that where the executors of the will of a deceased person, empowered by the terms of the will to sell his real estate, enter into an executory contract for such sale, performance of such contract may be enforced, in equity at the suit of the purchaser.” — See also Fleming v. Kelly, ante 23, 69 Pac. 272.
+We think the executor had the power to make the contract alleged in the complaint, having, according to the allegations of the complaint, broken such contract we think an action will lie against him therefor.- We have considered the sufficiency of the complaint only as to the two objections urged against it, and above discussed. We express no opinion as to its sufficiency on other points should they exist, and arise on a new trial, if one be had. -
+The judgment below should be reversed.
+Reversed.
