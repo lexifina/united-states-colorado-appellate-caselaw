@@ -1,0 +1,27 @@
+---
+court: "Colorado Court of Appeals"
+decided: "1897-01"
+citations: ["9 Colo. App. 320"]
+reporter: "colo-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Dye v. Dye."]
+source_url: "https://static.case.law/colo-app/9/cases/0320-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4457030
+cites_cases: ["21 Colo. 251", "4 Colo. App. 506", "6 Colo. App. 97", "8 Colo. App. 196", "9 Colo. 133"]
+---
+
+# Dye v. Dye
+
+## Majority (Bissell, J.,)
+
+Bissell, J.,
+delivered the opinion of the court.
+In 1894, Mrs. Dye filed a complaint against her husband, the appellant, Oliver W., wherein she alleged nonsupport and sought to obtain relief in the way of separate maintenance. By amendment subsequently filed, she sought ancillary relief against both her husband and other parties on the apparent basis of a transfer of the equity in the only property which the appellant owned, and on the rent of which she was entirely dependent for support. After the action was commenced, and in January, 1895, Mrs. Dye filed a petition wherein she sought temporary alimony until the determination of the suit and the payment of counsel fees to enable her to prosecute her action. She set up the fact of the' commencement of the suit, the grounds on which the suit was based, her destitution and her husband’s possession of an estate ample to entitle her to this relief. Issue was taken on this petition by a general denial of its allegations and proof was produced by both parties. It transpired that the appellant, Dye, was in receipt of an annual income of $2,500, payable quarterly. On the testimony the court ordered Dye to pay his wife $50.00 a month alimony and $100 counsel fees, and $25.00 court expenses. The order provided the times of payment. From this judgment, awarding alimony and fixing the amount of it, the appellant has prosecuted this appeal.
+The principal question suggested by the brief of appellant’s counsel is the impossibility to maintain a suit in equity to compel the payment of alimony where separate maintenance is the only relief prayed, and since the original complaint cannot be maintained the petition for alimony would not support these proceedings, nor the judgment which was entered. Some question is made in regard to the sufficiency of the petition, and also respecting a statute which has been passed relative to the bringing of quasi criminal proceedings against a husband who fails to support his family. We are of the opinion that neither of these contentions are well based.
+The petition is amply sufficient. It contains all the suggestions which the practice requires in order to permit the court to hear the matter and make such order as will be equitable. The courts have adjudged proceedings of this character sufficient so long as there is enough in the record to show that there was a proper basis on which the court could predicate its action. A similar question was presented to this court and decided at the May term in 1896. Whelen v. Whelen, 8 Colo. App. 196. That case is abundant authority for adjudging this petition sufficient in terms and in form to support the judgment.
+The other branch of the inquiry is that a suit for separate maintenance will not lie where this is the sole object of the action. This question has been settled by the supreme court and we have followed its decision. It was early considered, in what might he called the pioneer case in the state, that a suit for alimony may be brought independent of the statute regarding divorce, and relief may be granted on it although no divorce is prayed in the proceedings. Daniels v. Daniels, 9 Colo. 133; Hanscom v. Hanscom, 6 Colo. App. 97.
+The judgment awarding temporary alimony is undoubtedly appealable. People ex rel. Smith v. District Court, 21 Colo. 251. This was recognized and the appeal entertained in a prior case in this court. Kiefer v. Kiefer, 4 Colo. App. 506.
+The only other question suggested is based on the statute of 1893, Session Laws 1893, page 186, which in general terms provides that it shall be unlawful for any person living in this state to wilfully neglect, etc., to provide support for his wife, and any person upon conviction may be adjudged guilty of a misdemeanor. Other provisions in the act gives justices of the peace jurisdiction in such proceedings, and provide the punishment which shall be inflicted in case of a failure to give bonds or to furnish such support as may be adjudged. This statute was undoubtedly enacted to subserve a useful purpose, and in proper cases may be invoked to compel the husband to support and maintain his wife and children. We are, however, unable to see that it was designed or can be held operative to destroy or defeat the general powers of courts of equity to entertain suits of this description to compel the husband to pay the alimony which is consistent with his condition in life and reasonable for the maintenance of his wife or his family or both. If it affords a remedy, it is one which cannot by implication be taken to defeat the jurisdiction of courts having equity powers, and there is nothing in its scope or in its general terms which affords a remedy which is equivalent to what has always been exercised by these courts. These suggestions dispose of the only questions in the case, and since we believe the order of the court below was justified by the evidence, the judgment will be affirmed.
+Affirmed.
