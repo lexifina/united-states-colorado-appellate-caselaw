@@ -1,7 +1,8 @@
 ---
 court: "Colorado Court of Appeals"
 decided: "1895-09"
-citations: ["6 Colo. App. 521", "6 Colo. App. 528"]
+decided_precision: "month"
+citations: ["6 Colo. App. 521"]
 reporter: "colo-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +10,7 @@ parties: ["The Rockwell Stock and Land Company v. Castroni."]
 source_url: "https://static.case.law/colo-app/6/cases/0521-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4481585
-cites_cases: ["10 N. Y. 489", "18 Ga. 364", "18 Ill. 58", "21 Wis. 401", "22 Ohio St. 138", "24 Me. 374", "39 N. Y. 377", "39 Penn. St. 447", "43 Mich. 476", "52 Mo. 343", "55 N. Y. 319", "56 Wis. 123", "7 Mass. 107", "79 Ga. 444", "8 Mo. 574"]
+cites_cases: ["10 N. Y. 489", "39 Penn. St. 447", "56 Wis. 123", "8 Mo. 574"]
 ---
 
 # Rockwell Stock & Land Co. v. Castroni
