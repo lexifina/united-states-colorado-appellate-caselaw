@@ -1,0 +1,36 @@
+---
+court: "Colorado Court of Appeals"
+decided: "1895-01"
+citations: ["5 Colo. App. 432"]
+reporter: "colo-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Wallace et al. v. Axtell."]
+source_url: "https://static.case.law/colo-app/5/cases/0432-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4476491
+cites_cases: ["57 Wis. 534"]
+---
+
+# Wallace v. Axtell
+
+## Majority (Reed, J.,)
+
+Reed, J.,
+delivered the opinion of the court.
+■ The original indebtedness upon both note and for rent was' admitted by the pleading. The only issues to be determined' by the jury were those of payment. The cross complaint and its claim for a balance of $138.25 seems, very properly, to have been abandoned, as there was no evidence tending to show that any goods were sold by the defendants to the plaintiff. If it was intended to cover the sale of the goods to Murphy & Doyle, such sale must have been specially pleaded, as no recovery could have been had for the sale of goods to Murphy & Doyle under the allegation in the cross complaint.
+It is impossible from the course pursued upon the trial to determine upon what theory defendants sought to establish the claim against Murphy & Doyle as payment of the claim of plaintiff. ' If upon the theory that the goods were sold and delivered to Murphy & Doyle upon the order and credit of plaintiff as a guarantor, and the goods not having been delivered or charged to the plaintiff, there not having been an instrument in writing signed by the plaintiff, it was void under the statute of frauds.
+The trial judge appears also to have been at a loss in regard to the theory of the defense, and gave the fourth instruction to cover the case, if plaintiff was claimed to be a guarantor. Complaint is made of this instruction. It is contended in argument that it was misleading; that the court was misled as to the issues being tried; “ that there was no claim made by the pleadings; that there was a guaranty,” which was true, as the pleadings failed in any way to mention the Murphy & Doyle’s indebtedness; that “there was no argument by counsel with reference to a guaranty; not a scintilla of evidence of guaranty. What induced the trial court to give such an instruction we are unable to guess.” It was probably owing to the first testimony offered, that of appellant Fraser, “ that plaintiff had induced the firm of Wallace & Fraser to trade with Murphy & Doyle, and had agreed to take the bill off the hands of defendants at any time.” This would seem to have been relied upon as a guaranty. If not, I am in the same mental situation counsel think the trial court was in. I really don’t 7cnow wTiat issues were being tried.
+The claim against Murphy & Doyle was pleaded and treated by defendants as the debt of appellee, although the goods were sold and delivered to Murphy & Doyle, and charged to them. Fraser testified that appellee, in advance, induced the sales by agreeing to take the bill off their hands at any time. This was probably “what induced the trial court to give such instruction” (No. 4), although the attempt to establish a guaranty seems to have been abandoned and very properly by counsel, as, 1st, it was void under the statute of frauds; 2d, it could not be admitted under the plea of payment, which was the only plea. It must, to have been admissible, have been pleaded as a set-off or counterclaim.
+After Fraser’s evidence, the instruction was properly given, and it is not amenable to the criticism indulged in by counsel in regard to it.
+Subsequently, defendants by their evidence attempted to establish a novation or substitution, by which the note and rent.of appellants was paid by the debt of Murphy. & Doyle, but an examination of the evidence will show that it fell far short of the legal requirements. What was apparently attempted to be proved was a new contract substituted for the old, whereby the debts from appellants were discharged,.and the debt of Murphy & Doyle substituted. “ A novation takes place by the intervention of a new debtor where another person becomes debtor in my stead, and is accepted by the creditor who discharges me from the original debt. Pothier on Oblig., No. 546.
+“When several persons are mutually indebted to each qther, they may by agreement amongst themselves, vary their respective liabilities, and substitute one debt in the place of another. By a mutual contract and arrangement between all the parties interested, creditor, debtor, and payee, the original debts are extinguished and the annihilation of those debts is a sufficient consideration for the promise to pay the new debt’’ 3 Add. on Cont., 1226; Tatlock v. Harris, 3 T. R. 180; Fairlie v. Denton, 8 Barn. & C. 400; Guichard v. Brande, 57 Wis. 534.
+To establish the claim against Murphy & Doyle, as payment of the claims of plaintiff, it was necessary to show the participation in and joint action of the three parties, the plaintiff, the defendants, and Murphy & Dojde, and that by the mutual contract of all, the plaintiff took the claim against Murphy & Doyle in the place of those against appellants, released the. latter, and canceled the obligations, and that Murphy & Doyle agreed to pay appellee instead of appellants.
+It will readily be seen that no such transaction was'proved; hence, that there was no payment, but that appellants, if it could have been legally established, had only a claim against the plaintiff that could have been made available as a set-off or counterclaim.
+Objections are ably and elaborately urged in argument to the third instruction. The error assigned is, “ that the court erred in charging the jury in the third instruction, the same being misleading.”
+In argument counsel say: “ While we think the third instruction contained the correct legal proposition, it was so unfortunately worded as to mislead the jury,” ete. In the supplemented argument it is discussed at great length, the discussion being confined to the closing paragraph, which is:
+“The burden of proof rests with the defendants, and they must establish such payment to your satisfaction, by a preponderance of tbe evidence, before you would be warranted in finding that tbe assignment of said account or the execution and delivery of said order was a payment, as fey the defendants in this case claimed.”
+The criticism is too technical, refined, and subtle for me to grasp it. It is contended that the court should not have said “ to your satisfaction.” It might possibly be open to the charge of tautology. The jury, if honest as juries are supposed to be, could not have been satisfied of the fact unless there was a preponderance of the evidence. The jury were to judge of the preponderance, and if found, it must, or at least should have been satisfactory. A careful examination of the charge fails to show it erroneous in any respect.
+The first and seeond instructions are discussed at considerable length in the supplemental argument, although not excepted to nor errors assigned upon them. I have carefully examined them and do not think the criticisms warranted.
+The judgment of the district court will be affirmed.
+Affirmed.
