@@ -1,0 +1,28 @@
+---
+court: "Colorado Court of Appeals"
+decided: "1895-09"
+citations: ["6 Colo. App. 521", "6 Colo. App. 528"]
+reporter: "colo-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The Rockwell Stock and Land Company v. Castroni."]
+source_url: "https://static.case.law/colo-app/6/cases/0521-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4481585
+cites_cases: ["10 N. Y. 489", "18 Ga. 364", "18 Ill. 58", "21 Wis. 401", "22 Ohio St. 138", "24 Me. 374", "39 N. Y. 377", "39 Penn. St. 447", "43 Mich. 476", "52 Mo. 343", "55 N. Y. 319", "56 Wis. 123", "7 Mass. 107", "79 Ga. 444", "8 Mo. 574"]
+---
+
+# Rockwell Stock & Land Co. v. Castroni
+
+## Majority (Bissell, J.,)
+
+Bissell, J.,
+delivered the opinion of the court.
+Had the case been brought on the proper theory and tried on the correct basis and resulted in a judgment, it could very readily be sustained. The chief trouble is the case was not correctly conceived arid it was tried on a wholly erroneous hypothesis. Nothing is more generally settled than that a refusal to carry out an agreement to form a copartnership gives rise to a cause of action. In the present case it is quite clear from the evidence some kind of an arrangement was made between the company and Mrs. Castroni which contemplated the erection of a hennery and the carrying on of its incidental traffic. She went to the farm in the execution of the projected agreement and remained there for several months superintending the erection of the buildings and the preparation of the plan, and when the company refused to put the agreement in writing or to carry it out it was guilty of a breach of contract for which it must respond in damages. This is clearly settled by many authorities. Bates on Partnership, vol. 2, sec. 870; Lindley on Partnership, vol. 2, *p. 917; Bagley v. Smith et al., 10 N. Y. 489 ; Addams v. Tutton, 39 Penn. St. 447; Byrd v. Fox, 8 Mo. 574; Hill v. Palmer, 56 Wis. 123.
+The damages, however, do not take the form of theyier diem value of the labor of the person against whom the wrong was committed. The court clearly erred in admitting ¡woof concerning the value of her time for one hundred days and permitting her to state that she could probably have earned that amount of money had she been disengaged and able to procure employment. Of course the difficulty to prove what her loss was is readily appreciated. The damages, however, could not take that form, nor was this evidence admissible to show what loss she had sustained. If such testimony could have been offered, there was no attempt on the part of the plaintiff to show the value of her time, or that she liad ever worked or earned money, or the kind of employment out of which she could have made that sum. If the agreement between the parties had been that she should receive out of the profits of the business a specified compensation per diem, a somewhat different question would have been presented, though even then the authorities seem to indicate the recovery could not take the form of the value of the per diem for a fixed period, though the proof might be admissible as tending to show the damages sustained because of the breach of the agreement.
+The court instructed the jury on the theory which the plaintiff adopted as to her right to recover for the time, and the jury was virtually compelled to find for the plaintiff in that sum if they found for her at all. The defendant asked for some instructions concerning this matter, which the court refused, which was necessarily an error, because the defendant was éntitled to have the jury correctly instructed with reference to the measure of damages.
+The court was equally at fault in permitting Mrs. Castroni to testify as to the contents of the letter without calling upon the defendant to produce it or laying some foundation for the introduction of this secondary proof.
+The appellant complains of the refusal of the court to compel the plaintiff to give a bond for costs. By the terms of the affidavit and motion, the plaintiff was not shown to be a nonresident, but the motion was in reality based upon the danger of the-court’s officers with respect to the collection of their proper fees and charges. We do not regard the error as well laid, because the motion and the affidavit are not in apt form or sufficient in substance to necessarily compel the court to exercise discretion in this direction.
+The appellant complains of the refusal of the court to give him ample time to present his cause to the jury. The right of the court to fix the time which arguments shall consume is conceded by both counsel; the only difference between them being as to whether the present record showed the court exercised a reasonable discretion in the premises. If the court committed an error in this regard, it is not of the gravity or of the sort which would necessitate the reversal of the judgment. The exercise of a discretion by the trial judge is rarely interfered with unless it has manifestly worked harm to the complaining party and it is apparent the court has abused its authority in the premises. We are not clear as to either of these propositions in the present case. We are very frank to say, however, the limit was exceedingly short, and considering the volume of the testimony was much less than what would seem to be reasonable under the circumstances.
+Since the court erred in admitting testimony concerning what should constitute the measure of damages and instructed the jury erroneously as to the plaintiff’s right of recovery, the judgment must be reversed and sent back for a new trial in conformity with this opinion.
+Reversed.
