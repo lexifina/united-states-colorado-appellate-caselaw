@@ -1,0 +1,25 @@
+---
+court: "Colorado Court of Appeals"
+decided: "1894-01"
+citations: ["4 Colo. App. 201"]
+reporter: "colo-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Fugate, Appellant, v. Smith, Appellee."]
+source_url: "https://static.case.law/colo-app/4/cases/0201-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4473934
+---
+
+# Fugate v. Smith
+
+## Majority (Thomson J.,)
+
+Thomson J.,
+delivered the opinion of the court.
+Robert S. Smith brought his action against J. H. Fugate for trespass to real estate. The complaint alleges that the plaintiff was the owner in fee of certain lands, describing them by their legal divisions and subdivisions; and that the defendant forcibly broke down a fence standing upon these lands, so that horses and cattle entered upon the premises, and ate up plaintiff’s grass and hay, and trod down and injured his crop of'growing potatoes; by reason of all of which he suffered damage. The answer was a general denial. The plaintiff had verdict and judgment.
+We are asked to say that the verdict is not sustained by the evidence. The principal controversy at the trial was over the location of the fence which was broken down; the plaintiff and defendant each claiming that it was on his own land. This was an important question to be determined, because, the plaintiff having charged trespass upon certain specified real estate, could not recover except upon proof of trespass to that land. The witnesses, all testified from certain maps or plats made by the surveyors of the respective parties. The surveyor on each side testified to the correctness of his own plat. These plats were before the jury, and the witnesses designated, by pointing to the plats, the several lines, points and locations, concerning which they testified. Neither of these plats is in the record, and as to what they contained or looked like, we are in total darkness. The witnesses in their testimony refer to the various portions of the plats as “ here,” “ there,” “ this line,” “ the red line,” “ the black line,” “ the next line,” “ the other line,” etc. As the maps were before the jury, and all this occurred in their presence and hearing, they probably clearly understood the testimony, but it is absolutely unintelligible to us. It is true that the defendant’s surveyor testified that the fence was not on the plaintiff’s land; but as his statement was a conclusion from his plat, upon the contents and structure of which his testimony casts no light whatever, we have nothing by which to test the correctness of his conclusion. As it is impossible for us to understand the evidence in the shape in which it is presented to us, manifestly we cannot say that it did not warrant the verdict.
+Defendant assigns error upon the refusal of the court to instruct the jury that the proper position of the monuments marking the boundary line between the lands of plaintiff and defendant must be determined and the line re-established by reference to the field notes of the original United States surveys, and by surveys made in the usual and proper manner in accordance therewith. It is unnecessary to decide whether the proposition embraced in the refused instruction is correct or not in the abstract. The nature of the evidence must determine the character of the instructions given. The surveyor on each side testified that he made the survey in accordance with the field notes of the original United States surveys; and this is about the only intelligible portion of the testimony of either. Whether the surveys or either of them were made in the usual or proper manner, or otherwise, or what was shown by the testimony in respect to that, on account of the condition of the evidence in the record, we have no means of ascertaining. The court heard the testimony and saw the plats, and, presumptively, the refusal complained of was right.
+Fault is also found with the instructions given. The first declares the long established law of trespass to real estate as applicable to the pending case, and is unobjectionable. The second defines a lawful fence under the statute. This instruction should not have been given. The statute prescribes the character of fence which must be maintained to enable a party to recover damages from the owner of animals breaking through it, but it has no applicability where the fence is willfully broken down by the defendant himself. In such case he is a trespasser, and liable for the consequent injury, no matter what the character of the fence. But we are unable to see what harm could come to the defendant from the giving of the instruction. It required the finding of a better fence than the plaintiff was obliged to maintain for the purposes of his case, and in so far was against him. The only party who could possibly have been injured by the instruction was the plaintiff.
+We see no reason for reversing the judgment, and shall therefore affirm it.
+Affirmed.
