@@ -1,0 +1,38 @@
+---
+court: "Colorado Court of Appeals"
+decided: "1894-04"
+citations: ["4 Colo. App. 477"]
+reporter: "colo-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Farmers’ Independent Ditch Company et al., Plaintiffs in Error, v. Maxwell et al., Defendants in Error."]
+source_url: "https://static.case.law/colo-app/4/cases/0477-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4474461
+cites_cases: ["17 How. 225", "22 Ohio St. 469", "3 Colo. App. 170", "37 Pa. St. 237", "5 Wall. 563", "7 Iowa, 186", "7 Iowa, 390", "9 Wall. 298"]
+---
+
+# Farmers' Independent Ditch Co. v. Maxwell
+
+## Majority (Reed, J.,)
+
+Reed, J.,
+delivered the opinion of the court.
+The only question involved is the judgment of the court in sustaining the several demurrers.
+The supposed right to the writ must be based upon sec. 10 of the act of April 4,1887. (Sess. Laws 1887, 299).
+“In case any ditch, canal, or reservoir, in any district within such superintendent of irrigations division, shall fail to receive its regular supply of water, the owner or controller of such ditch, canal or reservoir may report Such fact to the water commissioner of that district, who shall immediately apportion the water in his district, and send forthwith by telegram, if necessary, a report of such fact to the superintendent of irrigation of his division, and thereupon it shall be the duty of said superintendent to compare such report with his register, and if any ditch, canal or reservoir of any other district of his division is receiving water to which any ditch, canal or reservoir of any other district is entitled, he shall at once order the shutting down of the postdated ditches, canals or reservoirs, and the water given to the ditches, canals or reservoirs having the priority of appropriation ; ” * * *
+By the act the superintendent is made a subordinate of, and assistant to, the state engineer; his acts are not conclusive unless acquiesced in. The state engineer is made the responsible party. Nor can the maladministration of his office be chargeable to him unless it is shown that notice was brought to him and he refused to right the wrong. There is no allegation in the complaint that he had any knowledge of the alleged wrongs or was asked to redress them. In Bright v. Canal & Reservoir Co., 3 Colo. App. 170, this court had occasion to examine the proceeding by mandamus in cases of this kind. The same reasoning controlling that case is applicable in this. The trouble grows out of the inadequacy of the remedy, and the narrow limits within which it may be applied.
+In addition to the discussion there had, and the authorities cited, we may here add : “ Since mandamus lies only to compel the performance of duties clearly prescribed by law, it will not be granted where there is any substantial defect in the proof of the relator’s right; especially will the courts refuse in such a case to interfere when it is apparent that the interests of third parties not before the court are involved, even though the officer should express his willingness to perform the duty required.” High, Ex. Rem., sec. 39.
+In this case it will be observed no proofs had been taken, and the right to invoke the writ rested only upon the allegations of the complaint, and it is apparent that the rights of a very large number of parties not before the court were to be affected.
+Again, it assumes that the duty sought to be compelled was an absolute duty fixed by law, in which the officers were invested with no discretion. I do not so construe the statute. Departing from the ordinary methods of proof, the statute substitutes printed data ordered to be in the possession of the office, where the rights of respective ditches and their relative priority are tabulated, and from' this data the officer is to determine whether or not the claimant is entitled to water, and if so from what source the extra demand is to be supplied; and although perhaps not investing him with any discretion in the premises, clearly requiring him to find the facts and determine : 1st. Whether or not water was being improperly taken by other ditches. 2d. Which if any ditches should be closed. 3d. If, when so closed, the applicant would be entitled to the water, and could make it available, — investing the officer, within prescribed limits, with judicial discretion. In such cases a writ of mandamus will not go as a matter of course, but only when the rights of the applicants and of third parties have been adjudicated and judicially determined.
+The rule is that in all matters requiring the exercise of official judgment, or resting in the sound discretion of the person to whom a duty is confided by law, mandamus will not lie. U. S. v. Seaman, 17 How. 225; U. S. v. Commissioner, 5 Wall. 563; Secretary v. McGarrahan, 9 Wall. 298.
+“ And where the official duty in question involves the necessity upon the part of the officer of making some investigation and of examining evidence and forming his judgment thereon, a proper case is presented for the application of the rule.” High, Ex. Rem., sec. 43; U. S. v. Seaman, supra.
+The prayer and relief sought are too broad, and could never be granted on an application for mandamus. The amount of water claimed for the two ditches amounted to only 119.43 cubit feet per second; no allegation in regard to the amount being received or the shortage. All petitioners could legally demand was that sufficient water be turned down to supply the deficiency, leaving the officer to determine from what sources the supply should come. Such was not the demand, but that all ditches postdating theirs in priority above them on the stream and its various tributaries should be closed, naming the respective districts.
+It is a well settled principle in this class of cases, that the relief sought should be fixed, defined and established by law.
+Incidentally the court is required to decide from what source or sources the supply of water is to be derived, whether from the main stream from which their appropriation was made or whether the affluents are to be invoked for a supply, and the entire valley of the river, from its sources in the “ Range ” to its “ Divides ” on either side, must unite to furnish the supply.
+It is clear that no such important question could be adjudicated and settled in an application for mandamus, where the writ only goes to enforce legally established rights.
+It is not alleged that any appeal was taken from the decision of the superintendent of irrigation, the subordinate, to the state engineer, the chief of the department, or that he had any notice whatever.
+There is a well marked distinction between duties of a public nature affecting only the public at large, and those of a private nature, specially affecting the rights of individuals. Where the person aggrieved has a private interest in or claims the immediate benefit of the act sought to be coerced, he must take a demand upon the officer to lay the foundation for relief by mandamus. High, Ex. Rem., see. 41; Commonwealth v. Allegheny, 37 Pa. St. 237; State v. County Judge, 7 Iowa, 186; State v. Bailey, 7 Iowa, 390.
+“ It must in all eases clearly appear that the officer against whom the jurisdiction of mandamus is invoked, is actually in default in the performance of some act which the law specially enjoins as a duty resulting from his office. Cincinnati College v. La Rue, 22 Ohio St. 469.
+For the reasons stated the judgment of the district court in sustaining the demurrers must be affirmed.
+Affirmed.
