@@ -1,0 +1,31 @@
+---
+court: "Colorado Court of Appeals"
+docket: "1991"
+decided: "1901-04"
+citations: ["16 Colo. App. 371"]
+reporter: "colo-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The People ex rel. The Board of County Commissioners of Ouray County v. Myers, et al."]
+source_url: "https://static.case.law/colo-app/16/cases/0371-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2358794
+---
+
+# People ex rel. Board of County Commissioners v. Myers
+
+## Majority (Gunter, J.)
+
+Gunter, J.
+But one question is before us: Does the amended complaint state facts sufficient to constitute a cause of action ?
+The suit is upon the bond of a county treasurer. The bond contains this provision : “ Now therefore, the condition of this obligation is such that if the said J. S. Myers shall well and faithfully perform and execute the duties of the office of county treasurer of said county during his continuance in his office by virtue of said appointment without fraud, deceit or oppression, * * * then the above obligation shall be void, otherwise to be and remain in full force and effect.” The complaint assigns a breach of the condition of the bond in the following language:
+“ That the said J. S. Myers, county treasurer, * * * did not well and faithfully perform and execute the duties .of his said office as county treasurer for and during the period from July 16th, A. D., 1892, to December 31st, A. D., 1892, * * * in this, that the said J. S. Myers as such treasurer of said county, failed to collect and account for the sum of $814.31, the same being the amount of interest due upon past due and delinquent taxes to said county of Ouray upon taxes, collected by said J. S. Myers during all of said time and which said interest in said sum the said J. S. Myers failed and refused and neglected to collect and account for as by law required during said period of time, the same being interest due upon taxes collected by the said J. S. Myers during the said time, but which interest upon such tax said J. S. Myers, as county treasurer, aforesaid, failed, neglected and refused to collect and account for, and did then and there issue his receipts as such county treasurer for such taxes in full and did make the entries on the tax roll showing such taxes to have been paid in full notwithstanding said interest was then and there due and unpaid, and the said interest so due and unpaid has by reason of the premises ceased to be a lien upon the property and the said county of Ouray has, by the acts of the said treasurer, been deprived of the means and ability to collect the same, contrary to the laws of the state of Colorado and contrary to the conditions of said bond.”
+If such assignment does not aver a breach of the condition of bond the complaint fails to state a cause of action.
+“ It is a rule, without an exception, that in a declaration such averments should be made as, if proved or admitted, will entitle the plaintiff to the judgment he seeks.” Murfree on Official Bonds, § 542, p. 378.
+“ In declaring on an official bond it is necessary for the plaintiff to set forth clearly and distinctly in what manner he has been damaged by the failure of the officer to discharge his duty.” Murfree on Official Bonds, § 557, p. 385.
+“ Of course, therefore, in a declaration upon such an instrument, not only must the facts supposed to constitute such a breach be distinctly stated, but the statement must be preceded by such allegations as effectually exclude any other conclusion than that a breach of the condition has actually taken place.” .Murfree on Official Bonds, § 540, p. 377.
+The above paragraph of the complaint relied upon as setting out a breach of the condition of the bond avers that during the period from July 16, 1892, to December 31, 1892, defendant Myers, “Failed, neglected and refused to collect interest on delinquent taxes collected by him during such time, and did then and there issue his receipts as county treasurer for such taxes in full and did make the entries on the tax roll showing such taxes to have been paid in full, notwithstanding interest was then and there due and unpaid, and the said interest so due and unpaid by reason of the premises ceased to be a lien upon the property and the said county has by the acts of the said treasurer been deprived of the means and ability to collect the same.”
+It can be admitted that defendant neglected to collect such interest; it can be admitted that he issued his receipts in full and that he made the entries charged showing payment in full, yet, it does not necessarily follow therefrom that the count}' lost its lien thereby, or sustained damage therefrom. The pleader gives no information as to the existence of the property, subject to the tax, its character, or the changes of ownership since the lien attached. If the property upon which the tax was originally a lien continued the property of the taxpayer owing the tax and continued in this jurisdiction, the lien would not be lost by the issuance of the tax receipt. The mere issuance of a tax receipt would not oust the lien of taxes as to personal property. Under certain conditions the issuance of a tax receipt operates as a discharge of the tax lien as to certain parcels of real estate. Tacts are not alleged showing the existence here of such conditions. Mills’ Ann. Stat. secs. 3770, 3771 and secs. 3869, 3870.
+Further, neglect in collecting and the loss of lien as to certain property by issuing a tax receipt might be admitted and yet the county not necessarily have sustained any damage therefrom. If the tax has since been collected from other property, the county would have sustained no damage from the alleged acts.
+Further, the averment that the county lost its lien by the issuance of the receipts is but a conclusion of law. The complaint contains no averment of any fact showing any damage to the county by reason of the acts complained of. The complaint contains no averment that the county has been damaged in any sum by reason of the acts complained of. The complaint does not disclose a breach in the condition of the bond. Judgment affirmed.
+Affirmed.
