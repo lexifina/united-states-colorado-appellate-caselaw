@@ -1,0 +1,40 @@
+---
+court: "Colorado Court of Appeals"
+docket: "2253"
+decided: "1903-09"
+citations: ["19 Colo. App. 159"]
+reporter: "colo-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Stoors v. The City of Denver."]
+source_url: "https://static.case.law/colo-app/19/cases/0159-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4524293
+cites_cases: ["130 Mass. 161", "130 Mass. 398", "22 Wash. 323", "88 Wis. 430"]
+---
+
+# Stoors v. City of Denver
+
+## Majority (Gunter, J.)
+
+Gunter, J.
+Action for personal injuries through defective sidewalk in defendant city. General demurrer to complaint sustained; judgment of dismissal, and therefrom this appeal.
+The complaint contained a copy of the notice advising defendant of the accident. ' The sufficiency of this notice is the sole question. If insufficient the demurrer was properly sustained and the judgment below should be affirmed.
+The charter of defendant provided:
+“Before the city of Denver shall he liable for damages to any person injured upon any of the streets, avenues, alleys, sidewalks, or other public places of the city, the person so injured, or some one in his behalf, shall, within thirty days after receiving-such injuries, give the mayor or city council notice in writing of such injury, stating fully in such notice when, where and how the injuries occurred and the extent thereof.”
+The following- notice was given:
+“This is to notify you that on December 14th, 1898, at about 10 o’clock p. m., Alfred Stoors, while going to his home, slipped and fell on the public highway of Denver, on the sidewalk bounding the southeast side of California and Seventeenth, about 160 feet northeasterly of the southwest corner of California and Seventeenth streets. * * * (Here follows description of injuries.)
+‘£ This notice is given and intended as the notice required by an act of the legislature of the state of Colorado, * * *. Dated at Denver, Colorado, this 11th day of January, A. D. 1899.
+“ALFRED STOORS.”
+It is necessary to consider but one of the objections urged to this notice, that is, that it fails to state how the injury occurred. One of the substantial reasons for requiring this notice is that the city may be properly advised in what its alleged negligence consists. In possession of this information recently after the accident it can investigate whether liability exists, and if necessary prepare for trial. Further, by the notice the accident while it is recent is assigned to a particular cause which cannot after the thirty •days be changed should the complaining party be so disposed. Plaintiff has six years from the accident within which to sue, and if the law did not require, soon after the accident, disclosure of its alleged cause, when the suit should he brought it might be almost impossible for the city to show the state of the walk, and more difficult, perhaps, that it did not have actual or constructive notice thereof.
+This accident occurred December 15, and in October of the following year this action was instituted. Then it was the city was first advised that the defect charged was the presence of ice and' snow. It can be readily realized how difficult at that time it might have been to ascertain the condition of the walk as to snow and ice in the preceding December, how long such condition had existed, and other facts pertinent to liability. The charter requires that the notice shall state fully how the injuries occurred. Whatever meaning “how” may have in other connections, here we think, because of the manifest purposes for which the statute was enacted, it was intended to mean the defect in the walk which caused the injury. Notice here simply says that the plaintiff “slipped and fell on the public highway of Denver.” The city is not advised of the alleged defect in the highway which caused the slipping. It may have been an incline in the walk, a wet condition thereof, a banana peel, or some other cause. This notice was fatally defective in not stating in what'consisted the defect in defendant’s walk.
+In Noonan v. City of Lawrence, 130 Mass. 161, plaintiff sued to recover for personal injuries caused by'a fall through snow and ice which it was alleged defendant had negligently let accumulate on the sidewalk. The statute required notice to be given the city in behalf of the complaining party within thirty days after the accident, of the “time, place and cause of the said injury.” The notice served stated that the injury was caused by “the defective and dangerous condition of the way, which the city negligently permitted to be out of repair.” The court held the notice insufficient and said:
+“It states no cause for this particular injury.. It. is equally consistent with an excavation in the way, an obstruction upon the way, an original maleonstruetion of the way, a worn, uneven and irregular condition of the surface of the earth, an accumulation of snow or ice, or both, or any of the many varieties of defects which may exist in a way. The notice must, to be sufficient, be so reasonably specific as to time, place and cause, as to be of substantial assistance to the proper authorities in investigating the question of their liability. ’ ’
+In Miles v. Lynn, 130 Mass. 398, plaintiff tripped on a ridge of ice on the sidewalk in defendant city, fell and was injured. The notice of injury served as an intended compliance with the statute, in assigning the cause of accident stated: “I met with an injury on Munroe street by reason of a defect in the street. ’ ’ This notice was held insufficient in stating the cause. The court said:
+“To say that the injury was caused by a defect in the road or street gives no information. It does not indicate whether the accident resulted from a gas pipe protruding from the pavement, a broken plank in the walk, absence of bricks, a hole caused by water flowing under the walk, or from what other bad condition of the way it resulted. The statute is intended to secure to the eit^r or town to which the notice is given such information as to the exact locality, ahd as to the nature of the alleged defect, that it will be able to judge for itself whether any cause of action really exists, and to repair the defect, if a real one, before further injury results from it.”
+In Van Loan v. The Village of Lake Mills, 88 Wis. 430, the notice given was that plaintiff had sustained a fall through a defective sidewalk. The defect .was not stated. The court held the notice insufficient and said:
+“There is no attempt to describe the defect. What was it! The question is not answered. This notice is a condition precedent to maintaining the suit, and it must have reasonable certainty to be of any use whatever. * * * This notice is a blank, so far as any description of the defect is concerned; and that is the very thing the village authorities wished and had the right to be informed of, so that they might repair it. * * * The case is too plain for argument.”
+In Mears v. Spokane, 22 Wash. 323, the action was for personal injuries received from a fall on a sidewalk of defendant city caused by alleged negligence in permitting snow and ice to accumulate. The statute as to the question before us was substantially the same as ours. The notice stated that the injuries were .caused by defects and obstructions in the sidewalk of said city. The court held this notice insufficient and said:
+‘ ‘ To state that the injury was caused by a defect and obstruction in the sidewalk is but to state the general ground upon which a city in every case is liable for injuries sustained upon its streets, but it states no cause for the particular injury. The charter provision is intended to require notice to be given of the cause of the particular injury, and a notice that fails so to do cannot be made the basis of an action against the city for personal injuries. ”
+We think the notice fatally defective in not stating how the accident occurred; that is, what alleged defect in the walk caused the fall. For this sufficient reason the judgment will be affirmed.
+Affirmed.
