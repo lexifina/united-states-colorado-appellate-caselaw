@@ -1,0 +1,25 @@
+---
+court: "Colorado Court of Appeals"
+docket: "2252"
+decided: "1903-01"
+citations: ["18 Colo. App. 369"]
+reporter: "colo-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Church et al. v. Baker et al."]
+source_url: "https://static.case.law/colo-app/18/cases/0369-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2359624
+cites_cases: ["15 Colo. 435"]
+---
+
+# Church v. Baker
+
+## Majority (Wilson, P. J.)
+
+Wilson, P. J.
+This is an action to recover upon an injunction bond. John B. Church, one of appellants, commenced suit against the appellees to secure an accounting, and also praying an injunction restraining defendants from doing and performing certain acts and things in the bill mentioned. The injunction was granted upon the execution by plaintiff Church of a bond, with William Church as surety. Thereafter the defendants appeared and filed at the same time a demurrer to the complaint on the ground that it did not state facts sufficient to constitute a cause of action, and also a motion to dissolve the injunction. Upon hearing, the demurrer was sustained, and the injunction thereupon dissolved. Soon thereafter, the defendants brought suit upon the injunction bond to recover the- sum of $250.00 alleged to have been expended by them in the matter of the dissolution of the injunction. Upon final hearing of this suit, the defendants therein, the makers of the injunction bond, prevailed, the court directing a verdict in their favor. The main action continued to be prosecuted, and after its final determination, the defendants therein, Baker and Pelt, again instituted suit to recover on the injunction bond, the sole damages claimed being,' as in the former suit, on account of the payment by them of the snm of $250.00 for attorneys’ fees, in the matter of dissolving the injunction. The defendants pleaded res adjudícala, claiming that the former suit, in which the court had directed a verdict for defendants, was upon the same cause of action,, and that the trial thereof was upon the merits. The plaintiffs in this suit disputed this, and claimed that the former suit was decided against them on the sole ground that the main action, in which the injunction had been issued, was still pending and undetermined at that time. In the view which we take 'of this case, we think it entirely unnecessary to go into or pass upon this question. In our opinion, upon the authority of Tabor v. Clark, 15 Colo. 435, the judgment in this action cannot be upheld.
+It seems clear to us that the injunction here was simply ancillary to the principal relief claimed. The main purpose and object of the suit was to secure an accounting, and this was ultimately had. Plaintiffs were entitled to recover the value of the attorneys’ services in the matter of securing the dissolution of the injunction, and in that matter alone. The parties to the bond could not be held for the value of any legal services rendered in the preparation and trial of the main case. The only evidence given in reference to the character of the legal services rendered was that of the attorney who rendered them, and is undisputed. We make the following excerpt from his evidence, as set forth in the abstract :
+“The $250.00 covers the total amount they paid us for services in the cause up to the time the injunction wa& dissolved. The question involved upon the hearing upon which that injunction was dissolved, was whether the facts set forth in the bill showed that the plaintiff was entitled to recover at all against the defendants, and it covered every allegation in the complaint, and necessitated an examination, presentation and argument of a number of different questions; the motion to dissolve the injunction and demurrer were all argued together. ’ ’ The injunction was dissolved because the demurrer to the complaint was sustained, and this demurrer was addressed to the main case involving the question as to whether plaintiff was entitled to recover at all against the defendants. It would appear from this testimony that the services were rendered in the main case, and hence plaintiffs would not be entitled to recover upon the injunction bond. In any event, however, even if some part of the services can be said to have been rendered in support of the motion to dissolve the injunction, and to be properly chargeable therefor, there was no attempt to apportion the value of the services, that it might be determined what portion were chargeable against the services in support of the demurrer, being in the main case, and what portion were chargeable against the motion to dissolve. The amount sought to be recovered in this suit was the entire amount paid to and received by the attorneys, both for services in support of the demurrer., and of the motion to dissolve the injunction. Hence, upon the case as presented, the plaintiffs were not in either event, upon the authority of the case cited, entitled to recover.
+For these reasons, the judgment will be reversed.
+Reversed.
