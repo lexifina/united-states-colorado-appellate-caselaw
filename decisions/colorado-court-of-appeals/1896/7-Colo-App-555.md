@@ -1,0 +1,40 @@
+---
+court: "Colorado Court of Appeals"
+decided: "1896-01"
+citations: ["7 Colo. App. 555"]
+reporter: "colo-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Fuller v. Estate of Fuller."]
+source_url: "https://static.case.law/colo-app/7/cases/0555-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4485429
+---
+
+# Fuller v. Estate of Fuller
+
+## Majority (Reed, P. J.,)
+
+Reed, P. J.,
+delivered the opinion of the court.
+Plaintiff in error was from April 9, 1893, until November 17th of the same year, administrator of the estate of Frank W. Fuller; on the latter date was removed; subsequently, his report and accounts were contested; and, on the 13th day of November, 1894, the following order was entered:
+“Now, on this day it is ordered by the court that judgment be entered herein against Fred H. Fuller, in the sum of nine hundred and sixty-seven and 40-100 dollars, the same being the amount found due the estate from Fred H. Fuller, former administrator.” And on the same date the following:
+“Now, on this day comes Fred H. Fuller, former administrator of said estate, and prays an appeal to the district court of Arapahoe county, which- is allowed without additional bond being filed by said Fred H. Fuller.”
+On December 81,1894, a motion was filed in the district court to dismiss the appeal, which, on January 21,1895, was granted, the appeal dismissed at the cost of appellants, and exception taken and case brought here by writ of error.
+The only question to be determined is the legality of the order of the district court in dismissing the appeal. The motion is not embraced,in the abstract. We find from the record and the argument of counsel that the appeal was dismissed for want of an appeal bond, none having been filed. Counsel for plaintiff in error and the county court supposed that the following paragraph (p. 109, act of 1891) controlled, as follows:
+“ All questions of law and fact, relating to probate matters in any county shall be determined by the county court of such county and from any and all such decisions upon any such questions appeals or writs of certiorari shall lie to the district court of the same county, to be prosecuted in the same manner as appeals or writs of certiorari, respectively, when prosecuted in civil or law cases from the decisions of such county courts; Provided, however, That when such appeal or writ of certiorari is prosecuted by the administrator or executor of any estate, no bond shall be required either by said county court or the district court to which such appeal or writ of certiorari may be prosecuted.”
+The general law in regard to appeals from the county to the district court is Gen. Stats., sec. 1986 (Session Laws 1885, p. 158) : “ The appellant, or some person for him, together with one or more sufficient sureties, to be approved by the judge, or clerk, of said court, must, within the time above limited, or within such further reasonable time as shall be fixed by the court, enter into an undertaking, payable to the adverse party, as follows: In case the judgment be for the payment of money, and against the party appealing, the undertaking shall be in double the amount of the judgment, or decree, appealed from, conditioned for the prosecution of the appeal, with effect and without delay, and for the payment of all costs, and whatever judgment may be awai’ded against the party so appealing, on the trial or dismissal of said appeal in the appellate court, and for the payment of the judgment appealed from, in case said appeal shall be dismissed ; and in case the judgment, or decree, appealed from be in favor of the party appealing, or shall not be for the payment of money, the penalty of the undertaking shall be in such sum as the county court shall deem sufficient to cover costs, expenses and damages, and be conditioned that the party appealing shall abide, fulfill and perform whatever judgment may be rendered against him in that cause by the district court, and for the payment of all damages which the opposite party may sustain by reason of such appeal, and the delay incident thereto, and for the payment of costs.”
+We find no conflict necessarily existing between the two statutes. The language of the first confines it entirely to probate matters, — matters pertaining to the settlement of the estate, — where the appeal, though taken and prosecuted by the executor or administrator, is in effect the appeal of the estate. In such case he acts not in an individual, but a representative capacity, and is relieved from the obligation of giving a personal bond. In this ease it was not probate matter, but an individual matter, — an appeal from a personal judgment, — not prosecuted for the estate, but in his own interest. He was not administrator prosecuting in behalf of the estate. He had ceased to act in that official capacity nearly a year before, and, in appealing from a personal judgment against himself, was bound to comply with the section of the general law above cited, and execute a bond double the amount of the judgment.
+II. It appears in argument, although we fail to find the fact in the record, that in the district court counsel for the appellant tendered, or at least offered to furnish, any bond required by that court, which was refused. This refusal is urged as error, for which the judgment of the district court should be reversed. Counsel for plaintiff in error rely upon the following, being section 1089, Mills’ Stats.: “ Provided, further, that no appeal shall be dismissed on account of a defect or informality in the undertaking, or the insufficiency thereof, if the appellant or appellants shall within a reasonable time, to be fixed by the court, file a good and sufficient undertaking.”
+The filing of the bond required by statute, in the county eourt, “ and its approval by the judge or clerk of said court,” is a condition precedent to the appeal, and unless such steps are taken the district court is without jurisdiction. If an honest attempt is made to perfect the appeal by the presenting and approval of what purports to be a bond, the jurisdiction would be conferred, and if the bond was found defective or informal, it could be reformed as provided by law. But here was no bond. The county court could not disregard the statute and allow an appeal without a bond, and such attempted action conferred no jurisdiction upon the district court; hence the dismissal must be sustained. The district court being without jurisdiction, there was no judgment from which a writ of error would lie to this court.
+The writ of error will be dismissed.
+Dismissed.
+
+## Rehearing (Per Curiam.)
+
+ON APPLICATION EOR REHEARING.
+Per Curiam.
+Plaintiff in error was the former administrator of the estate, who was removed. In the settlement of his administration, a year or more after his removal, judgment was entered against him in the county court for something over $900, for moneys received and unaccounted for. An appeal was prayed to the district court, which was granted, and an order entered in the county eourt allowing the appeal without other than his official bond. Motion was made in the district court to dismiss the appeal for want of a bond, which was allowed.
+We are not prepared to say how far the order of the county court dispensing with a bond would have protected the parties had an offer been made and bond tendered and refused in the district court before the dismissal of the appeal. The record does not show that any bond was offered. Had such an offer been made and refused, and an exception taken, such refusal might have been subject to review here.
+It is clear that the fact that he had been the former administrator did not allow him to appeal from a judgment in favor of the estate against himself without a bond, any more than if he had never held such position. As the record stands there is nothing before this court for review. The application for a rehearing must he denied.
+Rehearing denied.
