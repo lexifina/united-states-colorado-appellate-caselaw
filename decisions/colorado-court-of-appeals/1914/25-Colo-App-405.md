@@ -1,0 +1,29 @@
+---
+court: "Colorado Court of Appeals"
+docket: "3812"
+decided: "1914-01"
+citations: ["25 Colo. App. 405"]
+reporter: "colo-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["House v. Grable."]
+source_url: "https://static.case.law/colo-app/25/cases/0405-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2320874
+cites_cases: ["112 Pac., 542", "121 Pac., 171", "17 Colo., 476", "30 Pac., 56", "49 Colo., 197", "52 Colo., 207"]
+---
+
+# House v. Grable
+
+## Majority (King, J.,)
+
+King, J.,
+delivered the opinion of the court.
+The Colorado Investment and Agency Company, a corporation, brought its action to quiet title to certain lands in "Weld County, Colorado, making the usual allegations in actions of that kind under the code. After the institution of the suit, Jonathan S. Grable acquired, by deed from the plaintiff, any interest the plaintiff had in the lands, and continued the proceeding in the name of the original party plaintiff. For brevity, the appellant will be called the defendant, The Colorado Investment and Agency Company the plaintiff, and Jonathan S. Grable the appellee.
+Defendant denied plaintiff’s allegations of possession and ownership of the land; admitted defendant’s claim to an adverse interest therein, and alleged that he was in possession of said premises, and the owner thereof by virtue of certain tax deeds, and asked that his title be quieted. Plaintiff, by replication, denied that defendant was the owner of said land, and alleged that the tax deeds relied upon were void on their face, and for reasons aliunde.
+In an action to quiet title, when defendant has shown by his answer that he asserts such an interest, legal or equitable, adverse to the plaintiff, as, sustained by proof, will entitle him to relief in connection with the property, plaintiff must prove, by competent evidence, title in himself. — Wall v. Magnes, 17 Colo., 476, 30 Pac., 56; Clark v. Huff, 49 Colo., 197, 112 Pac., 542; Empire R. & C. Co. v. Webster, 52 Colo., 207, 121 Pac., 171. The authorities from other states cited by appellee, which hold that in a suit to quiet title, such as provided by our code, an answering defendant stands in the position of the plaintiff in ejectment, are opposed to the views announced by our supreme court in the cases hereinbefore cited. That rule does not obtain in this state.
+To sustain plaintiff’s title, several deeds, exhibits “A” to “H,” inclusive, were offered and received in evidence. To the admission of each of these deeds, defendant objected, on the ground that it was insufficient, and did not show or tend to show title or source of title in plaintiff. Exhibit “A” was a deed from plaintiff to appellee. Exhibit “B” was a deed from Francis C. Grable to plaintiff. Exhibit “F” was-a deed from the sheriff of Weld County to James F. Johnson, and all were offered and received upon counsel’s statement that they conveyed the lands mentioned in the complaint. Except for the defect in the sheriff’s deed hereinafter mentioned, the title to the land in litigation appeared to be vested in Francis C. Grable by Exhibit “ C, ” a deed from the Crow Creek Ranch and Reservoir Company to Francis C. Grable, conveying about 23,000 acres. The déed from Francis C. Grable to the plaintiff herein does not purport to convey the land described in the complaint, but instead conveys a parcel of land twenty-four miles north and twelve miles west of the tract in dispute, and, so far as the evidence discloses, the title to the land described in the complaint is still vested in Francis C. Grable. Appellee also wholly failed to show possession of the land in himself or his grantor. An abortive attempt to show possession was made by appellee’s testimony that he had known the land for eighteen years, during all of which time it -had been enclosed by fence, and pastured; but there is no evidence showing or tending to show that such possession inured to the benefit of plaintiff or of appellee. Neither the actual possession nor constructive possession was traced to them or either of them. As shown by the record here, the sheriff’s deed which is the alleged source of title, and which conveyed about 26,000 acres of land, makes no mention of the land described in the complaint; bnt as that defect is not mentioned by counsel for defendant or appellee, it may be inferred that the land was omitted from the transcript by clerical error.
+Under the evidence, judgment for plaintiff cannot be ' sustained.
+Under the cross-complaint and replication, defendant occupied the same position as the plaintiff with reg’ard to the requiréments of proof of title before he would be entitled to judgment. The tax deeds offered by him as evidence of his title were shown to be void, and were correctly so held by the court, and judgment cannpt be entered in his favor.
+Appellee contends that the objection made to his Exhibit “B” did not point out the defects in such deed, and therefore no advantage can be taken of such defect in this court. That rule is well established, but is not applicable. It applies1 to defects in such instruments, but not to such deeds as do not purport to convey title tp the land the subject-matter of the suit. The deed might have been admitted without objection. That would not estop defendant from denying its efficiency. It has no bearing on the case. It is of no more force in this suit than a blank piece of paper. It is quite impossible to believe that counsel would have offered the deed mentioned as evidence of title, or that the court would have quieted the title thereupon, if its utter insufficiency and irrelevancy had been pointed out or discovered. It has not been shown that plaintiff has not title; but, inasmuch as there is a failure of proof to show that title, the judgment is reversed and the cause remanded for a new trial.
+Reversed and Remanded.
