@@ -1,0 +1,29 @@
+---
+court: "Colorado Court of Appeals"
+docket: "3985"
+decided: "1914-04"
+citations: ["26 Colo. App. 225"]
+reporter: "colo-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Empire Ranch & Cattle Company v. McPherin."]
+source_url: "https://static.case.law/colo-app/26/cases/0225-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2323584
+cites_cases: ["127 Pac. 451", "132 Pac. 1145", "132 Pac. 387", "133 Pac. 1052", "133 Pac. 1125", "136 Pac. 1046", "138 Pac. 68", "23 Colo. App. 49", "24 Colo. App. 199", "24 Colo. App. 247", "24 Colo. App. 260", "24 Colo. App. 392", "24 Colo. App. 395", "25 Colo. App. 369"]
+---
+
+# Empire Ranch & Cattle Co. v. McPherin
+
+## Majority (Bell, J.)
+
+Bell, J.
+Action was brought in the District Court of Washington County, under sec. 255, Mills’ Ann. Code, December 30th, 1908, by defendant in error to quiet his title to the S'. E. %, sec. 25, tp. 5 S. R. 49 W. of the 6th P. M. The case was tried to the Court without a jury and resulted in a decree quieting the title to the premises in the defendant in error, upon his paying tO' the clerk of the .court, within 60 days from the date of the decree, for the use and benefit of the plaintiff in error the sum of $108.91, the amount of taxes, penalties and interest found due it.' The plaintiff in error set up and deraigned a fee simple title in himself from the United States. The defendant in error relied upon two tax deeds, which were alleged in the replication to be void upon their faces and “show á. non-compliance with the laws of the State of Colorado, regarding the sale of lands for delinquent taxes, and by reason thereof, are wholly void and form no basis for any plea of the five years’ statute of limitation.” The further defenses set forth in the answer were the five and seven-year statutes of limitation, and the laches of the defendant in error in the institution and prosecution of his action.
+Plaintiff in érror Contends that the replication', after setting forth a general denial of the new matter contained in the answer, admits affirmatively b.y implication the issuance, delivery and recording of the two' tax deeds and does not allege any fact in avoidance of them,, but simply states matters which are conclusions of law, and that, therefore, the tax deeds were admitted without being put - in issue. It is unnecessary for us to dwell upon the point thus urged, as it has been decided to the contrary in the cases-of The Empire Ranch & Cattle Co. v. Patterson, 24 Colo. App. 395, 133 Pac. 1125, and The Empire Ranch & Cattle Co. v. Langley, 23 Colo. App. 49, 127 Pac. 451.
+But one of the tax deeds was offered in evidence by the plaintiff in error, and was received as color of title only. This deed was issued to one H. Emerson and recorded October loth, 1894, and is void upon its face in that it shows that the lands therein attempted to be Conveyed together with other non-contiguous tracts were sold en masse for a gross sum: Johnson v. Gibson, 24 Colo. App. 392-3, 133 Pac. 1052; Foster v. Gray, 24 Colo. App. 247-50, 136 Pac. 1046, and Callahan v. Reinhardt, 24 Colo. App. 199-200, 132 Pac. 387.
+Any rights that might have accrued under this deed did not become vested in the plaintiff in error until December 27th, 1909, when, by sundry mesne conveyances, such rights were acquired by it, almost a year after this action had been’ commenced; and, therefore, the deed could not operate herein to the advantage of the plaintiff in error. The other tax deed pleaded in the answer was introduced in evidence by the defendant in error. It was issued to the’ plaintiff in error, recorded February 13th, 1901, and is also void upon its face in that it shows that the premises were sold to the County of Arapahoe and the certificate of' purchase assigned by the clerk more than three years after the issuance thereof: Callahan v. Reinhardt, supra. This is the only tax deed pleaded by the plaintiff in’error that could, have availed it in this action as color of title, and, being void upon its face, it Could not have prevailed against any laches of the defendant in error in the commencement of his action, nor set in operation the five-year statute of limitation: Callahan v. Reinhardt, supra.
+. The first payment of taxes under this deed that could have started the running of the seven-year statute of limitation was made April 17th, 1902, and between this date and the time of the commencement of the action, December 30th, 1908, seven years could not have expired to make the statute effective: Cristler v. Beardsley, 25 Colo. App. 369, 138 Pac. 68.
+Plaintiff in error objected to the introduction of a certain trustee’s deed in evidence in support of defendant in error’s title because it is said to have recited matters in pais of which there was no other proof offered. The objection was properly overruled, however, as it has been frequently held that the recitals in like trustees’ deeds are prima facie proof of the matters therein stated: Scott v. Lambert, 24 Colo. App. 260-263, 132 Pac. 1145.
+The result of the decree rendered by the trial court requires the defendant in error to return to' the plaintiff in error the taxes paid by it, with a large rate of interest and heavy penalties, and leaves the fee simple title to the premises in the defendant in error,' relieved of all blemishes or clouds by reason of the tax sales and attempted transfers of. the property by the treasurer. The decree does substantial justice to both parties, and’the broad and humane policy of the legislature, as construed by the courts, is carried out therein, and we should permit no mere technical objections raised by those showing no legal or equitable claim or estate in the fee simple title to' defeat those laudable purposes of the legislature.
+The decree of the trial Court is hereby affirmed.
+Affirmed.
