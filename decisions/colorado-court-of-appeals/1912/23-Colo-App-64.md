@@ -1,0 +1,40 @@
+---
+court: "Colorado Court of Appeals"
+docket: "3524"
+decided: "1912-09"
+citations: ["23 Colo. App. 64"]
+reporter: "colo-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Dodge v. Millett, et al."]
+source_url: "https://static.case.law/colo-app/23/cases/0064-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4515845
+cites_cases: ["17 Colo., 476", "22 Colo., 343", "32 Colo., 272", "32 Colo., 437", "36 Colo., 350"]
+---
+
+# Dodge v. Millett
+
+## Majority (Hurlbut, J.)
+
+Hurlbut, J.
+Action to quiet title, begun in the district court of Washington county by appellees (plaintiffs below) against appellant (defendant), under sec. 255, Mills’ Annotated Code.
+The question before this court for determination is one of law only, the judgment being one rendered upon the pleadings upon motion of plaintiffs.
+Under the first assignment of error appellant contends that the trial court committed reversible error in granting plaintiffs’ motion for judgment on the pleadings.
+The complaint is short and contains the usual allegations necessary to sustain a suit to quiet title under the practice in'this state. Defendant answers the complaint and sets up what purports to be three defenses. The first is a general denial of all the allegations in the complaint, aside from some admissions. The second defense sets up a decree of the county court of Washington county, which purports to quiet title to the disputed premises in The Empire Ranch & Cattle Company, and pleads the acquisition of title from that company, after the county court decree was rendered, and also alleges that its title to the premises antedates that claimed by the plaintiffs. In this defense the following excerpt is found:
+“That the defendant herein was at the time of the commencement of this action, and he still is, the grantee and holder of the title in and to the said lands formerly held hy the said The Empire Ranch & Cattle Company, which was quieted by a decree of court as aforesaid. ’ ’
+In the third defense of the answer defendant pleads title by virtue of a tax deed executed and delivered to said The Empire Ranch & Cattle Company by the treasurer of Washington county, and a conveyance from said cattle company to Mm subsequent to tax deed. In this third defense the following excerpt is found:
+“That defendant was at the commencement of this action, and he still is, the owner and holder of the lands described in the complaint herein, under, through, and by virtue of a certain treasurer’s tax deed heretofore issued to The Empire-Ranch & Cattle Company, and a warranty deed of said lands executed and delivered by said The Empire Ranch & Cattle Company unto the defendant
+To the answer a general replication was filed. The complaint, answer and replication, constituted all the pleadings in the ease. When the case was called for trial plaintiffs moved for judgment on the pleadings, which was granted by the court. The motion was based upon the contention that in the first defense of the answer there was nothing but denials and admissions of the matters set up in the complaint; in the second the defense did not contain a general or specific denial of plaintiff’s cause of action; the same contention being made as to the third defense.
+■It seems to be the settled practice in this state that in this class of cases each defense pleaded in the answer must be complete in itself, and further that a defense consisting wholly of admissions and denials is insufficient to put plaintiff to proof of his possession. Wall v. Magnes, 17 Colo., 476; Lambert v. Shumway, 36 Colo., 350; Travelers’ Ins. Co. v. Redfield, 6 C. A., 196; Weston v. Estey, 22 Colo., 343.
+It is equally well settled that plaintiff, in order to maintain his action, must iu.his complaint aver his possession, coupled with title. Defendant, in order to maintain a defense to such action, must plead an adverse interest to the premises in himself, and specify its nature, before he can require plaintiff to prove his possession and title. Wall v. Magnes, supra.
+The question as to what language, used in pleading a defense in an action to quiet title, constitutes a denial of plaintiff’s cause of action, has been before the supreme court and the court of appeals a number of times, but we will not attempt to cite all the cases.
+In Bessemer Irrigating Ditch Co. v. Woolley, 32 Colo., 437, being an action to quiet title, as well as to enjoin defendant from interfering with plaintiffs’ use of water rights, defendant contended that plaintiffs did not show possession, and therefore the action failed. In answer plaintiffs urged that their allegation of possession in the complaint was not denied. The court, speaking through Justice Campbell, uses this language:
+“The plaintiffs (appellees here) say that their allegation of possession in the complaint was not denied. In this they are mistaken, for the answer specifically alleges ownership and possession in the defendant, and this in effect is a denial of possession in plaintiffs. Hence, they were put upon their proof. ’ ’
+The case of McCroskey v. Mills, 32 Colo., 272, was also one to quiet title, wherein a motion for judgment on the pleadings was denied. It was there claimed that none of the defenses pleaded in the answer constituted a denial of plaintiff’s possession and title, but were in effect an admission of the averments of the complaint. The second defense pleaded facts from which, it appeared that defendant obtained title from one McCroskey, and was entitled to possession of the,premises in dispute. The third defense, denominated a cross-complaint, alleged practically the same facts, and in addition charged the plaintiffs with fraud and conspiracy. Justice G-abbert, rendering the opinion of the court, in passing upon the court’s refusal to sustain the motion for judgment on the pleadings, said:
+“It is next contended that the court erred in failing to sustain the motion of plaintiffs for judgment on the pleadings. The motion was based upon the ground that the denials were insufficient, or in effect amounted to an admission of the averments of the complaint. Had it not been for the second defense and cross-complaint, the motion might have been well taken, but these defenses set up title in the defendant, and each constitutes a complete defense to plaintiffs’ claim, irrespective of the denials. If defendant established these fact's, then he was entitled to a judgment giving him the relief demanded, so that the trial court was clearly right in denying the motion.”
+From these decisions it appears that the code does not require any specific form in pleading a defense. Any language which sets forth facts which show a good title in defendant, and which by fair and reasonable construction import a denial of plaintiff’s title and right of possession, will be held sufficient to put plaintiff to proof- of his possession as alleged in his complaint, and entitle defendant to judgment if, upon trial, he establishes such defensé by sufficient proof.
+The excerpt from the second defense, above quoted, wherein defendant pleads that at the time of the commencement of the action he was the “grantee and holder of the title,” under and by virtue of a decree of the county court of Washington county in full force and effeet at the time this action was commenced, is in effect a sufficient plea of ownership and denial of plaintiffs’ title and right of possession to require them to make proof thereof at the trial.
+The excerpt above quoted from the third defense, taken in connection with the* other matters pleaded, shows a good and sufficient defense to plaintiffs’ cause of action and is sufficient to put plaintiffs to proof thereof. Were it not for the second and third defenses, the motion for judgment on the pleadings would have been good, as the first defense consisted only of admissions and denials.
+For the reasons stated the court erred in sustaining plaintiffs ’ motion for judgment on the pleadings, and the judgment will be reversed.
+Reversed and Remanded.
