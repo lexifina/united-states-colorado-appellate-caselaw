@@ -1,0 +1,29 @@
+---
+court: "Colorado Court of Appeals"
+docket: "2185"
+decided: "1902-09"
+citations: ["18 Colo. App. 93"]
+reporter: "colo-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Campbell as Trustee v. Thompson et al."]
+source_url: "https://static.case.law/colo-app/18/cases/0093-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2360422
+cites_cases: ["3 Colo. 487", "7 Colo. App. 1"]
+---
+
+# Trustee v. Thompson
+
+## Majority (Thomson, J.)
+
+Thomson, J.
+In this proceeding Milton N. Campbell, as trustee in bankruptcy of the estate of John Thompson, a bankrupt, sought a decree vesting in him as such trustee certain shares of the capital stock of The John Thompson Grocery Company, a corporation, held by Flora Thompson and Philip Gomer. The complaint alleged the recovery of judgments against John Thompson for the satisfaction of which sufficient property was not found; the filing by him of a voluntary petition in bankruptcy; the entry of the proper order, adjudging him a bankrupt; the appointment of the plaintiff as trustee; the subsequent incorporation of The John Thompson Grocery Company with a capitalization of five thousand dollars, divided into five hundred shares, of the par value of ten dollars each; the naming of John Thompson and the defendants, Flora Thompson and Philip Gomer, as directors of the corporation, and the issuance to the defendant, Flora Thompson, the wife of John Thompson, oí the entire capital stock except two shares, one of which was issued to the defendant Philip Gomer, and the other to John Thompson. The complaint further alleged that all of the capital of the corporation was furnished by John Thompson; that the defendants had no interest in it whatever, and that the purpose of the issue of stock of which John Thompson was the real owner to the defendants was to put it beyond the reach of his creditors.
+The allegations that the capital was furnished by John Thompson, that the defendants had no interest in it and that their stock was issued to them to put it beyond the reach of the creditors of John Thompson were denied by the answer.
+The proof was that no part of the capital was furnished by John Thompson; and'that all the money which went into the business of the company was the separate property of the defendant, Flora Thompson, except, possibly, the price of the one share held by the defendant Gomer, and that was not furnished by John Thompson. The share held by the latter was given to him by Flora Thompson to qualify him to act as director. The judgment was for the defendants, and the plaintiff appealed.
+The case presented in the complaint was not sustained at the trial. In fact, it was disproved by the witnesses on both sides; and we are unable to find any evidence upon which a judgment different from the one rendered could have been based. However, counsel for the plaintiff, conceding that it was not shown that the capital was furnished by John Thompson, have furnished us with a carefully prepared argument based on the following allegation of the complaint, which they say was proved:
+“That the said bankrupt, John Thompson, has by his efforts, knowledge, skill, management and control of said business, so operated the business of said corporation that the said shares of stock have become valuable, and are now worth the sum of ten thousand dollars ($10,000).”
+Now, in the. first place, counsel are mistaken in supposing that this allegation was proved; and, in the second, it is a matter of no consequence whether it was or not. It appeared that the company prospered, and that as a consequence there was a very considerable increase in the value of the stock. That this result was due, in part at least, to the management of John Thompson is a safe conclusion from the evidence. It also appeared that Flora Thompson and Philip Gomer bore an important part in the conduct of the business, and that others were entitled to a portion of the credit for the company’s prosperity. Mr. Gomer, as a witness, found one of the reasons for the success of the enterprise in the ‘ ‘ loyalty, intelligence and honest service of about forty employees of high and low degree,” and another in the favorable location of the concern. While Mr. Thompson, without doubt, contributed to the general result, what proportion of the increase may be credited to him and what to other persons and causes there is no means of knowing, so that even if his creditors were entitled to the benefit of values imparted by his services the evidence furnishes no data for a judgment.
+But there is no way by which the services or abilities of a debtor can be reached by a creditor. When they are converted into tangible property of his own that property may be subjected to the payment of claims against him. When they are éxerted in behalf of another his creditors may, by some process, compel the application of his wages, not exempt from execution, upon his debts; but the benefit which accrues to that other from his services is not his. It belongs to the person for whom the services were rendered. The very purpose of employing skill is to enhance value. If, by means of services which John Thompson rendered to the grocery company, the defendants were the gainers, the results of the investment which they made and of the wisdom displayed in its management belong solely to them.
+Nor does the fact that Flora Thompson was the wife of John Thompson alter the situation in the least. In this state a married woman may own propertp and engage in business unfettered by any of the restraints or disabilities of coverture; and neither her property nor the proceeds of her enterprise can be subjected to the payment of any debts but her own. — Wells v. Caywood, 3 Colo. 487; Stramann v. Scheeren, 7 Colo. App. 1.
+The judgment below was correct and must be affirmed. Affirmed.
