@@ -1,0 +1,66 @@
+---
+court: "Colorado Court of Appeals"
+docket: "3931"
+decided: "1914-04"
+citations: ["26 Colo. App. 1"]
+reporter: "colo-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Larimer and Weld Irrigation Co. v. Landers."]
+source_url: "https://static.case.law/colo-app/26/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2323549
+cites_cases: ["71 Ill. App. 189"]
+---
+
+# Larimer & Weld Irrigation Co. v. Landers
+
+## Majority (Hurlbut, J.,)
+
+Hurlbut, J.,
+rendered the opinion of the Court.
+This was an action instituted June 9, 1910, by defendant-in error (plaintiff below) against plaintiff in error, to' recover the value of three and one-half acres of land claimed to have been destroyed by seepage, and for loss of crops thereafter planted.
+There are six causes of action set out in the complaint, the first alleging total destruction of the land, and demanding $700 damages for its value; the second, loss of crops on the same land for the year 1907, of the value of $100; the third, loss of crops thereon during the year 1908, of the value of $100; the fourth, loss of crops on the same land for the year 1909, of the value of $200; the fifth, loss of crops during the year 1909 on a different tract of land, of the value of $100, caused by defendant tearing out the flume which belonged to plaintiff. The sixth need not be mentioned, as the jury found in favor of defendant as to that.. The jury returned a verdict for plaintiff In the sum. of $1,050, upon which judgment was rendered.
+At the trial plaintiff insisted upon a verdict for the full value ©f the three and one-half ac'res, at $200 per acre. The highest price placed on the land by any witness was $700, or $200 per acre, although there was some testimony that it was only 'worth $50 per acre or thereabouts. Eight interrogátories were specially propounded to the jury, all of which were answered. Under the first and second, -the jury found for plaintiff for the full value of the land, in the sum of $700; under the third and fourth, they found for plaintiff in the sum of $70 for damages suffered by him in the loss of crops on the same land during the year 1907; under the fifth, they found for plaintiff in the sum of $80 for loss of crops on the same land during the year 1908; under the sixth, they found for plaintiff in the sum of $100 for loss of crops on the same land during the year 1909; under the seventh they found for defendant; under the eighth they found for plaintiff in the sum of $100 for loss of crops for the year 1909 upon land other than the three and one-half acres.
+It is alleged that during the irrigating seasons of 1907-8-9 the three and one-half acres bec'ame spoiled for farming purposes and were destroyed. As to' this the testimony of plaintiff himself shows that in 1907 he considered the three and one-half acres ruined, destroyed, and of no value for any purpose whatever by reason of the. seepage of water from defendant’s ditch, and the alkalying of the land caused by said seepage. The following is extracted from his testimony:
+Direct examination.
+“Q. Tell the jury what happened in 1907, in your own way, as to any of your land being drowned out by this water, if such is the case, seeping through the bank, and tell the jury where it is. A. You could not turn water in there to run it out * * * this having been seeped up' before, and being wet it stood there and failed to disappear, and consequently drowned out a very fine stand of alfalfa on about three and a half acres of ground. * * *
+“Q. And this same condition that you have spoken about, having drowned out the alfalfa in 1907, Continued through 1908 and 1909? A. Yes, sir.
+“Q: And, therefore, did it damage any of your land permanently ? A. Yes, sir, ruined the land. It is so seeped we can’t grow anything on it.
+“Q. Is it worthless for farming land? A. Yes, sir.
+“Q. Is it valuable for anything else? A. No, sir.
+“Q. Does it have any value for market purposes? A. No, sir. * * *
+“Q. In 1908, what, if anything, did you have planted on the same ground ? A. We plowed it up and put it in barley.
+“Q. Was it a good stand? A. Yes, sir. * * *
+“Q. What became of your crop of barley ? A. It gradually got wet all over the field in there.
+“Q. How much land? A. About three acres and a half, and the little rushes grew up and the barley got that high (illustrating) and we got about twelve bushel of barley. * * *
+“Q. You say you got about twelve bushels? A. Yes, sir.
+“Q. And testing- fifty-four pounds'? „A. Yes, sir.
+“Q. It would amount to 648 pounds? A. Something like that. * * * .
+“Q. Worth $1.25? A. Yes, sir.
+“Q. Or eight dollars and ten-cents? A. Yes, sir.”
+Cross-examination.
+“Q. You claim in 1907 your land was destroyed? A. Yes, sir, practically destroyed.
+“Q. And you Charge seven hundred dollars for the land ? A. Yes, 'sir. * * *
+“Q. So that piece of land, if you get all you ask, will bring you in two hundred per acre for its loss in 1907 and four hundred for the use pf it since that time?. A.- Yes, that is about what.
+“Q. What have you done with the land in 1911? A. Why, we have done the best we could with it, farmed it and tried to' go on as we could.
+“Q. That is this year? A. Yes,'sir, we have got it sowed to wheat this year,
+“Q. Got a good s,tand? A. Yes, sir, fairly. * *
+“Q. So you have continued to farm the three acres all alopg? A. Yes, sir, and we expect to as long as we can.
+‘*Q. And you have got a prospect of a good yield on it this year? A. Yes, sir, it looks pretty good, but it is very dry this year and was last year. There’is no water in the ditch, practically, only one day it Come above the level of the land this year.”
+In the light of this testimony we are not impressed with the force of plaintiff’s contention that he did not know until the latter part of 1909 that, as he now claims, the land was totally destroyed for farming, and all other purposes; or that its value has been totally destroyed. His testimony above quoted and such contention appear to be entirely inconsistent, and in conflict. If he became aware in 1907, as some of his testimony seems to> show, that the seepage and alkalying complained of had entirely destroyed his land for farming and all other purposes, and at the trial insisted upon and succeeded in recovering a judgment for the full value thereof, at the highest price placed upon it by any of the witnesses, it does not appear just or reasonable that he.should ask for and be permitted to recover for the loss of crops placed thereon during the year 1907, and the two succeeding years. We think his position in respect to such damage is somewhat analogous to that of an owner whose land has been condemned by statutory proceedings. In such case the owner cannot recover for subsequent damage or injury to- the premises condemned.
+In view of plaintiff’s own testimony, it was error to give portions of instruction No. 10, which reads in part as follows:
+“If the jury, find and believe from the evidence in this case that the 2>V acres of plaintiff’s land was completely destroyed in the year 1907, and that the plaintiff had reason to believe that no crops could thereafter be grown on.said land, the plaintiff is not entitled to recover for the loss of crops subsequent to the year 1907.
+Or if, on the other hand} the jury find and believe from the evidence that the plaintiff had no reason to believe or did not ascertain 'until the year ipop that said land could not be fanned or a crop produced thereon, and you -further believe from the evidence that the cause of such destruction of the land and the crops was the increased carriage of water in this ditch, or was caused by the negligent or careless operation of said ditch, then the plaintiff is entitled to recover for the doss of crops for the three years sued for, m addition to the value of the land.” (Italics ours.)
+The italicized part of the instruction, under the evidence, ought not to have been given, for it is undisputed that the crops planted in 1907-8-9 were substantially total failures, and plaintiff, from his own testimony, had good reason to> believe, and in fact knew, in 1907, that such would be the probable result. It cannot be the law that plaintiff, under such circumstances, c'ould, after the year 1907, continue year after year expending money and labor in seeding and planting crops, and thus build up and create a liability of enormous proportions against defendant, and then, at his pleasure, bring an action to recover therefor, plus the full market value of the land.
+Our attention has not been called by counsel to any case, nor do we know of any, where, under conditions similar to those found here, one has been permitted to recover for the full market value of land permanently destroyed, and also for loss of crops subsequently planted thereon. Counsel, however, have c'ited a number of cases permitting recovery for partial destruction of land, and at the same time for damages to Crops subsequently! planted on the same.
+From Farnham, Waters & Water Rights, Vol. 2, page 1876, wherein the author discusses the rule for estimating damages for injury to land by water, we quote the following: “The full value of the property cannot be allowed where the owner is hot deprived of its use,” citing Bailey v. Hciniz, 71 Ill. App. 189. The case cited is short, and is in some respects similar to> the one at bar. The action was brought to recover for injury to plaintiff’s land caused by defendant’s diversion of waters from their nature! channels, so^ as to> overflow plaintiff’s premises. Plaintiff recovered the full value of the land injured. The court said in part:
+“Trial by jury; verdict for plaintiff $2,000, and judgment thereon. * * *
+“The entire value of the plaintiff’s property was from $1,500 to $2,000, according to his proof. The overflow complained of was for the two- seasons preceding the trial, and the loss of the crops of fruit, etc., did not exceed two> or three hundred dollars per annum. In view of the size of the tract, three acres, of which two were devoted to- corn and other such crops, and of the character of the improvements, this estimate •of damage must be considered very high. * * *
+“The assessment here was for the full value of the property. Even if prospective _ damages were allowable, such a figure would be unreasonable and exorbitant, as the plaintiff has not been deprived of the whole property, and will not be in any event. * * * In no view of the case, as shown by the present record, can the legal damages be as great, or approximately so, as allowed by the verdict.”
+We may well apply in the instant case what was there said, that “the plaintiff has not been deprived of the whole property, and will not be in any event.” Notwithstanding-the statement of plaintiff that his land was totally destroyed for all future time for any purpose whatever, the record is full of testimony, given by himself and his witnesses, to the effect that, subsequent to 1907, crops of some value were raised on the premises, that there was a fair crop thereon at the time of trial, 1911, and that plaintiff intended to continue to- plant crops in the future upon the same land. It does not appear to us credible that patented agricultural land is of no value whatever, and never will be, because of its flooding for a limited period.
+As we read the record, we are convinced that the jury, after rendering- a verdict in favor of plaintiff for the highest market value of the land, was not warranted in allowing- him in addition, damages for the loss of crops planted during the years 1907-8-9. Under this record the judgment should not be sustained for anything- more than the full market value of the land in question.
+As. to the $100 allowed by the jury for loss of crops on the land other than the three and one-half acres, which was caused by defendant tearing out the flume placed across its ditch and right of way by plaintiff, we do not think the rec'ord sufficiently shows right or authority in plaintiff to construct his flume on or over defendant’s right of way. The evidence shows that the flume was torn out several times by defendant, which indicates that it was placed there without license and against the latter’s wish and consent. True, 'as suggested, a right of way may be obtained over lands possessed by another, for purposes of irrigation, etc., but an orderly and. peaceful procedure is provided by law to sec’ure such right, in case consent cannot be had. The law does not recognize a right of one to gO' upon land in peaceful possession of another, without the latter’s consent and against his wishes, and build a structure thereon. Such a rule would tend to legalize force and violence, and tend to invite a breach of the peace. An entry in such case must be made under proper judicial authority.
+If defendant in error will remit from the judgment below all sums in excess of $700, the judgment will be affirmed for the latter amount, with interest from July 25, 19x1, costs to be equally divided between the parties; if not, the judgment will be reversed and case remanded.
+Judgment affirmed conditiorially.
+Cunningham, P. J., dissents.
