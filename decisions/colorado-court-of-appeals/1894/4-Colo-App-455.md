@@ -1,0 +1,25 @@
+---
+court: "Colorado Court of Appeals"
+decided: "1894-01"
+citations: ["4 Colo. App. 455"]
+reporter: "colo-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["People, etc., for the use, etc., Plaintiff in Error, v. Barton et al., Defendants in Error."]
+source_url: "https://static.case.law/colo-app/4/cases/0455-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4472693
+---
+
+# People v. Barton
+
+## Majority (Thomson, J.,)
+
+Thomson, J.,
+delivered the opinion of the court. •
+This is an action upon a sheriff’s bond. The complaint alleges the election of the defendant Barton as sheriff of Arapahoe county, and the execution by him and the other defendants of a bond conditioned for the faithful performance of his official duties. On June 15, 1891, The Republican Publishing Company, in a suit instituted by it against The Continental Land & .Security Company, caused a writ of attachment to be issued, and delivered to Barton, as sheriff, commanding him to attach the property of The Continental Company in Arapahoe county, to satisfy The Republican Company’s demand; and the breach assigned is that although The Continental Company was a,t the time possessed of property subject to execution, sufficient to satisfy the demand, and of which Barton had notice, yet he failed to make any attachment of the property, and neglected to return the writ until November 5, 1891, at which time it was returned without any levy having been made under it. It is also alleged that on November 16,.1891, The Republican Company recovered judgment in its suit against The Continental Company, and that on July 8, 1891, during the lifetime of the writ of attachment, and while it was in Barton’s hands, The Continental Company became wholly bankrupt and insolvent, and has ever since so continued, so that satisfaction of the judgment could not be obtained. On January 19, 1893, the defendants demurred to the complaint for the reasons that there was no legal capacity to sue, and that the facts stated did not constitute a cause of action. Afterwards, on February 6, 1893, at the hearing upon the demurrer filed, the defendants obtained leave of court to amend it, by adding to it the additional ground that it appeared from the complaint that the cause of action which it stated was barred by the statute of limitations. The demurrer as- amended was sustained, and the defendants had judgment. The two original grounds of demurrer seem to have been abandoned, and the only questions argued here relate, first, to the right of the court to permit the amendment; and, second, to the time when the statute commenced to run. The conclusion which wé have reached upon the first question eliminates the second from the case.
+Section 75 of the Civil Code provides that the court may on motion, in furtherance of justice, amend any pleading or proceeding, adding or striking out the name of any party, or by correcting a mistake in the name of a party, or a mistake in any other respect; and may also, upon affidavit showing good cause therefor, allow an amendment to any pleading or proceeding in any other particular.
+Where amendments asked are in the interests of justice, courts should be liberal in allowing them; but where the effect of an amendment is to interpose a purely legal ohstruction to the enforcement of a just demand, the party making the application should be allowed only what the letter of the law gives him. By the ground of demurrer which the court permitted to be added as an amendment, the defendants admitted that through Barton’s neglect of his official duty, The Republican Company sustained a loss, which he” ought to make good; but they say that by reason of lapse of time he cannot now be compelled to do so. Such an amendment has little relation to the furtherance of justice. We do not decide whether the code section cited applies to a demurrer; but, in general terms, to authorize any amendment except one which is formal, there must be an affidavit showing good cause. There was no affidavit, or showing of any kind, in this case; and, even if the amendment proposed had been one which the law regards with favor, its allowance against the plaintiff’s objection would have been error; but the character of this amendment is such that a refusal of the court to permit it, upon any affidavit of which we can conceive, would not be held by us to be an abuse of its discretion. To allow it without any showing at all was manifestly erroneous.
+There is nothing in the present record to enable us to determine, to our satisfaction, when the statute commenced to run in this case. The defendants may plead the statute by answer, and it may contain such averments as would, if true, fix the time. In the absence of any reasons to the contrary, we think the .cause of action accrued when the writ was returned; but the answer may disclose facts from which it would appear that it accrued earlier.
+The judgment is reversed.
+Reversed.
