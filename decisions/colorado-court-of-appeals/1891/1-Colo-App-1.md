@@ -1,0 +1,33 @@
+---
+court: "Colorado Court of Appeals"
+decided: "1891-04"
+citations: ["1 Colo. App. 1"]
+reporter: "colo-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["M. J. Marks, Appellant, v. C. A. Anderson et al., Appellees."]
+source_url: "https://static.case.law/colo-app/1/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1769037
+cites_cases: ["14 Colo. 184"]
+---
+
+# Marks v. Anderson
+
+## Majority (Reed, J.)
+
+Reed, J.
+The records and abstract in this case are both defective. It appears, by an allegation in the petition of the intervenor, that at some time prior to the intervention of appellee Maynard appellant had obtained a judgment against Anderson & Son, but at what time and for what amount is not disclosed. An execution appears to have been issued and garnished process served', upon appellee Bradbury.
+On the 3d of June, 1887, Bradbury was a'contractor on the Midland Railroad. Anderson & Son were sub-contractors under Bradbury, and were indebted to the firm of Wood Brothers in the sum of $6,619, and to Maynard & Co. in the sum of $3,000; that ou that date Wood Bros., by an instrument in writing, assigned its claim and indebtedness to Maynard (appellee) ; that such claim was not: purchased by Maynard, or at least no consideration passed, the object of the assignment being to transfer the claim, allowing the assignee to collect it and pay it over to the assignor, or-a, due proportion of what should be collected,'"such‘payment to be applied ratably upon the entire indebtedness in-.the hands of Maynard, amounting to near $10,000.
+On the same date Anderson & Son, bjr an instrument in writing, assigned to Maynard all moneys due and to become due from Bradbury to them upon the sub-contract to pay or secure the two claims in the hands of Maynard. • It appears incidentally that Anderson & Son completed their, contract, and that upon its completion there was a considerable sum of money in the hands of Bradbury, due by him for the work of Anderson & Son. What the amount was is- nowhere shown.
+It also appears incidentally, in the judgment of: the court only, that before the determination of this case Bradbury had paid a. sum of money into court'to await the result. Whether it was all that was owing by Bradbury, or what the amount was, is not shown.
+The case was tried to the court without a jury, the only testimony introduced being that of the intervenor.
+The judgment of the court was as follows:—“It is ordered that the clerk of this court pay over to the said intervenor the amount of the deposit in his hands,- and it is further considered by the court -that the said.defendants do have and recover of and from- the said plaintiff all their costs in this behalf expended, to -be taxed, and have execution therefor.”
+The only assignment of error -is -the following: “ The court erred in rendering judgment in favor of the intervenor, because the testimony was not sufficient to entitle him to recover.”
+The only question is, “was the evidence sufficient to warrant the finding ? ” No question of fraud or collusion was made by the pleadings. It appears to have been conceded that the amounts claimed by Wood Bros, and Maynard were due and were just debts. The main contention on the part of the appellant is that the assignment of Wood Bros, to Maynard, being only for collection, no consideration having been paid, did not vest the intervenor with a title, so that he was entitled to the assigned fund to-the exclusion of other creditors.
+It is conceded that so far as the original claim of Maynard was concerned, it was by virtue of the assignment of Andetson & Son entitled- to priority from the fund assigned.
+The important question seems to have been overlooked by counsel, or made secondary. If the assignment of Anderson & Son of the entire -fund for the. payment of the two claims was legal and proper, there was a disposition by the assignors of the entire fund.sought to be reached by the appellant, and if that disposition was valid it is unimportant whether the payment of the claim-of-Wood Bros, was direct, or through the agency of the'intervenor; whether-'there was a’ consideration paid by Maynard or not. In other words, if the fund in the hands of Bradbury had been properly and wholly disposed of, and nothing undisposed of remained with him, there was an end of the process of garnishment, and the arrangement between Wood Bros, and Maynard, in regard to the distribution of the fund, was one in which appellant -had no concern, and the same may be said in regard to the' question of whether a consideration passed for a transfer of the claim of Wood Bros, to Maynard. It was a matter resting' entirely with them, which In no way affected the right, of appellant to reach the fund in the hands of Bradbury. “ The general rule is that the garnishee is not chargeable Imless the defendant could recover of him what the plaintiff seeks to secure by garnishment.” Wap. on Attach. 202; Drake on Attach. § 458; Sickman v. Abernathy, 14 Colo. 184.
+Numerous cases might be cited, if necessary, in support of this rule. There is one notable exception to this general rule-where the garnishee is in possession of effects of the defendant under a fraudulent transfer, but the principle is not involved in this case. Hence, if the assignment of Anderson & Son was such as to divest them of any interest in the fund remaining with Bradbury, and there was no money in his hands that Anderson & Son could reach by proceedings against him, there was nothing appellant could reach by garnishment.
+The execution of the instrument by which the assignment of Anderson & Son was made was properly proved, and it was put in evidence. All the evidence in regard to it was in support of its regularity,—no attempt was made to impeach it. The court was warranted in finding that the assignors had transferred all their present and future interest in the fund, and had no claim they could assert against the garnishee, consequently there was nothing appellant could reach by attachment and garnishment. That a debtor can prefer one creditor to the exclusion of others, where no question of bona fides or fraud is raised, is too well settled to need disposition.
+There being nothing in the record to show what the amount of the fund for distribution, was, and that there was a balance remaining after the payment of the two claims, it is to be presumed that there was no surplus. The only question presented for review by the assignment of error being as to the sufficiency of the evidence to support the finding, the judgment is affirmed.
+Affirmed.
