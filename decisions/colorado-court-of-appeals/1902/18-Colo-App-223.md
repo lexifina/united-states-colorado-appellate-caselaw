@@ -1,0 +1,32 @@
+---
+court: "Colorado Court of Appeals"
+docket: "2169"
+decided: "1902-09"
+citations: ["18 Colo. App. 223"]
+reporter: "colo-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Molique v. The Iowa Gold Mining and Milling Company."]
+source_url: "https://static.case.law/colo-app/18/cases/0223-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2360338
+cites_cases: ["23 Colo. 229", "47 Pac. 287"]
+---
+
+# Molique v. Iowa Gold Mining & Milling Co.
+
+## Majority (Gunter, J.)
+
+Gunter, J.
+Defendant had judgment on the pleadings. Plaintiff is here on error. The pleadings consisted of complaint, answer and replication. The complaint alleged that defendant as owner was operating a mine and mill, distant from each other about one mile and a half, and connected by a tramway conveying the ore from the mine to the mill where it was fed into the crusher; that the operation of the mine and the mill was one enterprise, and under one general manager with power to determine the number of men employed, to employ and discharge them; that plaintiff, a millwright, was superintendent of the mill with duty to operate it; that on several occasions prior to the date of the accident involved, through the negligence of defendant, miners’ tools and other like articles were mingled with the ore at the mine, conveyed to the mill, and to the peril of the mill and all the employees engaged therein, including plaintiff fed into the crusher; that plaintiff on several occasions reported to defendant through its general manager the fact that said implements, and other dangerous articles, were being carried into the mill and fed into the crusher, and that plaintiff was informed that such negligent practice of the defendant would be stopped;’ that plaintiff believing that such practice would be stopped, and relying upon defendant’s assurance to that effect, continued to discharge his duties as superintendent of the mill; that thereafter, through the carelessness of defendant a sledge hammer got into the ore at the mine, and through the negligence of defendant was carried with said ore to the mill and there fed into the crusher; that the said hammer became wedged between the jaws of the crusher and stopped the same; that defendant’s duty as superintendent was to keep the mill continuously running; that with the aid of other servants of defendant he attempted to remove the hammer; that while standing over the crusher attempting to effect the removal, the hammer flew out and struck him. To recover damages for injuries so sustained was the action.
+It appears from one of the grounds of defense, and is not denied by the replication, that such mill is used only for crushing of ore taken from defendant’s mine; that the mine and mill constitute one enterprise under one general manager, and that all employees working in said enterprise are under employment of, and their wages paid by, defendant.
+Plaintiff contends that the alleged negligence in permitting the hammer to get into the ore at the mine, and in permitting it to be carried by the tramway to the mill, was that of defendant, and was the prosimate cause of plaintiff’s injuries.
+Defendant contends that such alleged negligence was that of a fellow servant. Further, that such negligence was not the prosimate cause of the accident.
+If the alleged negligence was that of a fellow servant it is decisive of the case.
+“The personal duties that the law imposes upon the master are well-defined and understood, and are such as relate to the furnishing and keeping in repair of reasonably safe machinery and appliances for carrying on his business; a reasonably safe place in which to render the service, and the exercise of reasonable care in the selection of competent co-workmen; in brief, such acts as pertain to construction, preservation and management, as distinguished j;rom the work of operation.” — D. & R. G. R. R. Co. v. Sipes, 23 Colo. 229, 47 Pac. 287.
+“As between master and servant, the duty of planning a business, and all duties pertaining to the safety of .the service — such as the place to work, the implements and machinery, the plans and rules after which the work is to be conducted, the choosing of the fellow servants, and whatever else is within the same reason — must be discharged either by the master in person, or by a vice-principal for whose neglects and other wrongs therein he will be responsible as for his own. On the other side, the running of the business, with and in pursuance of the plans, rules, appliances, helps and helpers thus provided— in other words, the execution of the work — is of the assignable sort, rendering all persons engaged therein fellow servants, so that, if the master used due care in selecting his servants, he will not be responsible to one for an injury produced by the negligence or other default of another.” — Bishop on Non-Contract Law, § 665.
+It is not complained that defendant was negligent in providing machinery or other implements with which to. carry on the enterprise of mining and milling, nor is it charged that defendant failed to exercise the requisite care in the selection or retention of its employees. The charge is, that it was negligent in permitting in the course of the operation of the enterprise the hammer mentioned to be mingled with the ore, and to be conveyed with the ore to the mill, and to be fed into the crusher. This alleged negligence was in the operation of the enterprise, and not in the construction, preservation or management of the plant. This being true the negligence charged was that of a fellow servant.
+“The specific act in connection with which the negligence occurs is the criterion by which the liability of the company is fixed, rather than the rank of the servant who performs the act.” — D. & R. G. R. R. Co. v. Sipes, supra.
+If we assume, therefore, that the alleged negligence in permitting the presence of the hammer in the ore and its conveyance and feeding to the crusher was the proximate cause of plaintiff’s injuries — a point we do not decide — such negligence was that of a fellow servant for which defendant was not liable. —D. & R. G. R. R. Co. v. Sipes, supra, and authorities cited.
+We think the trial court was right in entering-judgment upon the pleadings. Its judgment will be affirmed. Affirmed.
+Thomson, J., dissenting.
