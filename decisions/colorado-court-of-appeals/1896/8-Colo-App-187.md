@@ -1,0 +1,28 @@
+---
+court: "Colorado Court of Appeals"
+decided: "1896-04"
+citations: ["8 Colo. App. 187"]
+reporter: "colo-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Klippel et al. v. Oppenstein."]
+source_url: "https://static.case.law/colo-app/8/cases/0187-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2361840
+---
+
+# Klippel v. Oppenstein
+
+## Majority (Reed, P. J.,)
+
+Reed, P. J.,
+delivered the opinion of the court.
+Appellee brought suit by attachment against George S. Hooper on the 25th day of January, 1893. The attachment was levied upon the stock in trade and fixtures of Hooper, who, wishing to retain the possession, executed to the sheriff a forthcoming bond, with Klippel & Turre (appellants) as sureties. The following is copied from the bond:
+“ By virtue of which said writ of attachment the following described property, to-wit: one Mosler safe, two showcases, one stove and pipe and all other fixtures now in store room at No. 1520 17th Street; also 49 chains, 52 plain rings, 69 rings with stone settings, 19 watch chains, 65 pair cuff buttons, 8 brooches and earrings; 21 watches, 17 collar buttons, 12 knives, one -belt and cartridges and $25.00 of lawful money of the United States of the value of $326.00 has been seized and attached, and, whereas the said defendant is desirous of releasing the said property of releasing the property from said attachment according to the form of the statute in such cases made arid provided:
+“ Now, therefore, we, the undersigned, residents and freeholders of the county of Arapahoe, state of Colorado, in consideration of the premises and of the releasing of said property, do jointly and severally undertake and promise to the effect that in case the said plaintiff recover judgment in said action, and said attachment is not dissolved, then the said defendant will, on demand, re-deliver to the proper officer, such attached property, or in default of such re-delivery, that the said defendant, and we, as his sureties will pay or cause to be paid to the said plaintiff the full value of the property so released.”
+The suit was brought against appellants as sureties on the bond, and alleged in the complaint that the property was released upon such undertaking on the 30th of January, 1893 ; that on the 21st of April, 1893, plaintiff (Oppenstein) recovered judgment against Hooper for $313.72; execution sued out; failure and refusal of Hooper to deliver goods; and the execution returned wholly unsatisfied. The following is from the answer:
+“ And as a further defense against said action these defendants allege that the property mentioned in said undertaking on release of attachment, the Hosier’s safe, two show cases, stove and pipe, were at that time the property of the defendant, Joseph Turre, and that he at that time began suit of replevin against the sheriff of this county for said goods ; that said suit was decided in his favor by George Stidger^ justice of the peace, before whom said suit was brought, and that, thereupon said suit was appealed by the sheriff aforesaid to this court and is now pending before this court. That as to other property, the forty-nine chains, fifty-two plain rings, stone settings, nineteen watch chains, sixty-five pair of cuff buttons and earrings, twenty-one watches, seventeen collar buttons, twelve knives, one belt and cartridges, which property was and is all the property of George E. Hooper mentioned in said undertaking, the rest belonging to Joseph Turre as aforesaid, the defendants are informed and believe were not worth a sum greater than the sum of '$60.00, which sum together with the sum of $25.00 mentioned in said undertaking, these defendants have ever been ready to pay over to the plaintiff herein.”
+Plaintiff moved for judgment on the pleadings. Defendants tendered for filing an amended answer, which was refused. The county court granted the motion of plaintiff and gave judgment for plaintiff. An appeal was taken to the district court, where the motion for judgment for plaintiff on the pleadings was again made. Defendants tendered the amended answer, which was denied, and judgment for plaintiff entered upon the pleadings, from which an appeal was taken to this court.
+The judgment of the court in refusing the amended answer is assigned for error. The granting and refusing of amendments in pleading rests almost entirely in the discretion of the court, and will not be reviewed in this court unless there was an abuse of discretion and injustice done. In this case the amended answer was properly refused. It set up, though in more apt language, the same supposed defenses set up in the former, and none other. An examination of either will show that it interposed no legal defense to the complaint. Defendant Turre covenanted for a return of the goods as those of Hooper, enumerating them, including the goods he afterwards claimed as his own, stipulating their value to be $326.
+In his answer he sets up that at the time of the levy by the sheriff, and at the time he executed the bond, he was the owner of the greater part in value, and had, on the 28th of January, two days before he executed the bond, instituted a suit before a justice of the peace for their recovery, and at some time — date not given — obtained judgment. Having covenanted to return the goods as those of Hooper, and fixed the value, he could not afterwards he heard to say that he had covenanted to deliver his own goods. The answer contained nothing in defense of the action. The judgment of the district court must be affirmed.
+Affirmed.
