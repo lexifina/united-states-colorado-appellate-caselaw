@@ -1,0 +1,24 @@
+---
+court: "Colorado Court of Appeals"
+docket: "1553"
+decided: "1899-01"
+citations: ["13 Colo. App. 77"]
+reporter: "colo-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Walton v. The City of Cañon City."]
+source_url: "https://static.case.law/colo-app/13/cases/0077-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4460138
+cites_cases: ["1 Colo. 328", "12 Colo. 94"]
+---
+
+# Walton v. City of Cañon City
+
+## Majority (Wilson, J.)
+
+Wilson, J.
+Defendant Walton was arraigned and prosecuted before the police magistrate of the plaintiff city upon three separate charges of violation of an ordinance prohibiting the sale of liquor within the city limits. He was found guilty, and a fine assessed against him in each of the three cases. He appealed to the county court, in which by consent of parties and for the purpose of trial, the three causes were consolidated and tried at the' same time. Trial was to a jury, which under the instructions of the court that it was simply to make a finding as to the guilt or innocence of the accused, returned a verdict of “guilty” as to the first of the three consolidated causes, and “ not guilty ” as to the remaining two. The court thereupon entered up judgment assessing a fine of $100 against defendant in the one' cause in which he was found guilty, and directed that he be imprisoned until the fine and costs were paid in full.
+The ordinance provided that for its violation a fine of not less than $50.00 nor more than $200 should be imposed for each offense. It is settled in this state that proceedings for the violation of town or city ordinances are civil actions. City of Greeley v. Hamman, 12 Colo. 94. In the first instance, before the police magistrate, these proceedings are of a summary character. The statute provides a- mode of procedure, and invests the police magistrate with summary power to hear and determine such matters without the intervention of a jury. In such proceedings, under ordinances like that in question, where the precise penalty is not fixed, but is left discretionary within certain limits, two things are to be determined, first, the guilt or innocence of the accused, and second, the amount of the penalty to be imposed according to the circumstances of each particular case. In trials in the first instance, the police magistrate determines both of these questions, he being empowered so to do by the statute. It is provided, however, that appeals may be taken from all judgments of the police magistrate to the county court of the county in which the city is situate. Laws, 1887, p. 861. The statute, however, does not provide any mode of procedure on the trial of such cases in the county court. It requires only that the trial shall be de novo, and of course it necessarily follows that the only form or mode of procedure to be followed is that generally prescribed for all actions in the county court. Section 504, Gen. Stats, provides that in any action pending before the county court, either party may have a jury summoned to try the same. In this proceeding upon appeal, therefore, the jury is substituted for the police magistrate. It must find all questions of fact at issue between the two parties, and in this instance this is the guilt or innocence of the accused, and equally so the amount of the penalty to be inflicted. In other words, this proceeding or civil action being in the form and nature of an action for the recovery of a debt, the jury must find not only the existence but the amount of the debt. We can see no other conclusion from the principles so positively and plainly announced by the supreme court in City of Greeley v. Hamman, supra. It follows therefore that this cause must be reversed for the error of the court in itself assessing the fine to be imposed, instead of permitting the jury to fix it.
+We cannot see from its text that Deitz v. City of Central, 1 Colo. 328, is in point. That case arose under a special charter of the city of Central, and turned upon the question of the judicial power vested in justices of the peace by the organic act of the territory. The legislature since the adoption of our constitution not having prescribed any specific method of procedure in the trial of causes like this upon appeal to the county court, we cannot see how we can hold otherwise than that the same procedure shall be followed as is prescribed for ordinary civil actions in that court. We see no reason why the jury should not be invested with the power to fix the penalty as well as to determine the guilt, and we find nothing in the statute tending even to raise a presumption that the legislature intended to take that power from it and invest it in the court. For this error, the judgment will be reversed.
+Reversed.
