@@ -1,0 +1,28 @@
+---
+court: "Colorado Court of Appeals"
+docket: "2162"
+decided: "1902-09"
+citations: ["18 Colo. App. 55"]
+reporter: "colo-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The Board of County Commissioners of Garfield County v. Beardsley."]
+source_url: "https://static.case.law/colo-app/18/cases/0055-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2359761
+cites_cases: ["17 Colo. App. 85", "23 Colo. 184", "26 Colo. 153", "28 Colo. 322", "65 Pac. 41", "66 Pac. 1073"]
+---
+
+# Board of County Commissioners v. Beardsley
+
+## Majority (Wilson, P. J.)
+
+Wilson, P. J.
+The plaintiff, Beardsley, judge of the county court of Garfield county, presented to the defendant commissioners for allowance certain bills for fees and costs taxed in misdemeanor cases pending in his court. The aggregate amount was $150.00. The bills were allowed to the total amount of about $110.00, and various items aggregating about $39.00 were disallowed. A warrant was drawn for the $110.00 and was received by the plaintiff.» Shortly after this he appealed from the decision of the board upon the items disallowed. Upon appeal the district court allowed the rejected items to the amount of $25.00, and disallowed the remainder. The question before this court is whether several items which were allowed by the district court are proper charges against the county.
+Two of these items were in the sum of four dollars each, charged for the trial or hearing of two misdemeanor cases in which there had been in reality-no trial or hearing, the district attorney having entered a nolle prosequi in each. It was attempted to sustain this charge under a clause of the fee and salary act which reads as follows: ‘ ‘ For each trial or hearing of a cause instituted in the county court for each day actually occupied by him in such hearing or trial, to be taxed as costs against the unsuccessful party in counties of the * * * fourth class, four dollars.” — 3 Mills’ Ann. Stats., sec. 1901, p. 565; Laws 1891, p. 208, sec. 5.
+We do not think the charge was a proper one. The evident intent of the statute was to provide that this sum might be taxed as costs to cover the time occupied by the court in the final trial or hearing of a cause. We do not see how this right could accrue —waiving all other questions — in a cause which did not come to trial at all, as was the case here. The nolle prosequi of course disposed of the case and so would a dismissal by a plaintiff in a civil suit. It certainly could not be contended in the latter case that the plaintiff must pay costs the same as if his case had come to trial and had been regularly heard. In each it would be proper to tax as costs only what is allowed for the consideration of a motion or the entry of an order of dismissal.
+Query — As the language .of the statute provides for the taxation of this item of cost against the unsuccessful party only', does it apply at all to other than a civil trial? To the prosecution neither for a crime nor a misdemeanor is the county a party. In such ease therefore, even after full trial to a jury, can this cost be taxed against it, and this too, whether the result be acquittal or conviction? — Boykin v. The People, 23 Colo. 184.
+Another item in the bill was:
+“To time, labor and expense in defending jurisdiction of county court in misdemeanor cases involving trip to Aspen to appear in district court, and appearance in district court in Glenwood Springs, $15.00.” Of this the district court allowed only five dollars, being the amount for expenses alleged to have been incurred. We are not advised by the record as to how the question of jurisdiction arose except that it was in a prosecution for misdemeanor. Neither are we informed why the judge felt called upon to personally appear in the district court and defend his jurisdiction. We can conceive of no circumstances which would require it. In such a case the duty, if any, to defend, would devolve upon the district attorney under the statute. It is sufficient to say, however, that the statute nowhere makes provision for an allowance for compensation for such services, and hence the judge was not entitled to demand it. — Garfield County v. Leonard, 26 Colo. 153.
+The contention on the part of the county that the plaintiff was precluded from any recovery on the disallowed balance because he had accepted the warrant for the part allowed which had been issued in full satisfaction of his claim, is without force under the circumstances of this case. It does not appear that the plaintiff had knowledge of the condition upon which the warrant had been issued at the time he received it, nor are any facts shown from which such knowledge may be presumed.. The mere fact that he subsequently appealed from the action of the board with reference to the disallowance of a part of his claim does not establish this knowledge. Because he appealed it does not necessarily follow that he knew the condition attached to the acceptance of the warrant was that it should be in satisfaction of the entire claim. Even if it were, he might have obtained this knowledge after he had accepted the warrant, and before he gave notice of appeal. The case therefore does not come within the rule recognized by both of onr appellate courts. — Board of Commissioners of La Plata County v. Durnell, 17 Colo. App. 85, 66 Pac. 1073; Board of Commissioners of La Plata County v. Morgan, 28 Colo. 322, 65 Pac. 41.
+Por error in allowing the items of charges.mentioned the judgment of the district court must be reversed. Reversed.
