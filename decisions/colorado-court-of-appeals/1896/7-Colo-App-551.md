@@ -1,0 +1,28 @@
+---
+court: "Colorado Court of Appeals"
+decided: "1896-01"
+citations: ["7 Colo. App. 551"]
+reporter: "colo-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Andrews v. Johnston."]
+source_url: "https://static.case.law/colo-app/7/cases/0551-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4487623
+---
+
+# Andrews v. Johnston
+
+## Majority (Reed, P. J.,)
+
+Reed, P. J.,
+delivered the opinion of the court.
+It appears from the pleadings that there was quite a marked difference of opinion in regard to the actual condition of accounts between the parties, such difference aggregating over $3,000. Each party filed an itemized account, showing the balance claimed; that of the plaintiff covering over three printed pages. With other items were six aggregating nearly $550, for merchandise sold the defendant. It will be observed that in the complaint there was no allegation of goods sold and delivered, but as no objection appears ■to have been made upon that ground, upon the trial, we are not called upon to give it attention. The itemized account of the defendant covers nearly eight closely printed pages, ranging in amount from 15 cents to $600.
+Before the trial, a certain portion of each account, amounting to from one third to one half, was stipulated to be correct, and such portion of each eliminated and the remainder tried item by item. An immense amount of evidence was heard, necessarily, principally from the parties. It is needless to say that the evidence was very conflicting. The court appears to have exercised infinite patience and to have reached its conclusion after a careful consideration of all the conflicting evidence, from which it seems almost impossible to have reached any satisfactory result. According to the well settled rule controlling courts of last resort, the amount found by the court as due will be considered conclusive upon this court. We have neither disposition, time nor mathematical ability to go through the trial item by item, sift the evidence, and verify the conclusion reached.
+Aside from the general statements tthat the court • erred and found a judgment for the wrong party, the errors assigned are to the refusal of the court to admit testimony as follows: “ Fourth. The court erred in refusing to permit the witness, E. H. Andrews, to answer the question, ‘You may state to the court, from your books, what the condition of business in your trade was from the 8th day of July, 1893, up to November 2d, 1893.’ Fifth. The court erred in refusing to permit the witness, E. H. Andrews, to answer the question, ‘ What would the services of Mr. Johnston be worth in this community, as help, or in the way he was employed in your house ? ’ Sixth. The court erred in refusing to permit the witness, E. H. Andrews, to answer the question, ‘ What would the services of any man, doing the work which Mr. Johnston did there, be worth in this community?”’ And the following for the admission of evidence: “ Seventh. The court erred in permitting the appellee’s witness, Ella S. Neathery, to testify in rebuttal in answer to the question asked by the appellee’s attorney, ‘ Will you go on and explain to the court how this Howie note has been settled and liquidated? ’ ”
+It appears that at a certain date plaintiff was informed that the former price for his services would not be paid, after which he continued to work in a desultory irregular way without any agreement as to price. The value of such services as were rendered were attempted to be fixed. In the attempt, the question in the fourth assignment was asked the defendant, and counsel stated to the court that he proposed to show “ that from the time of the drop in silver, the business decreased very rapidly in his line,” etc.
+The question to be determined was what the services rendered were worth, and having been informed by the defendant that he could not retain him in his former capacity at former wages, the cause of such inability was immaterial. Proof of general business depression, and the cause of it, would in no way assist in determining what the services at the time and under the circumstances were worth.
+The questions asked, in the fifth, and sixth assignments were very properly denied. It was not what his services would command in the community, but what they were worth to the employer. A modified question tending in that direction was afterwards allowed and answered. As to the seventh assignment, it would seem immaterial how the note had been settled and liquidated. The question was in regard to the transfer of the note and whether the proper credit had been given and the price agreed upon between the parties, and we cannot see how evidence of its subsequent payment could prejudice the plaintiff, even if immaterial.
+The case was tried to the court, where the same technical rules of evidence controlling trials by jury do not necessarily prevail. The court, in arriving at a conclusion, can disregard any testimony not considered pertinent. These supposed errors of law appear far more technical than substantial, and would under no circumstances warrant a reversal. The most of the argument of appellant’s counsel questions the correctness of the finding of certain facts. We think the court fortunate in being able to arrive at any conclusion on many of the questions. Admitting the honesty of the parties, the evidence shows such loose business habits, and slovenly and incompetent bookkeeping, that taken in connection with contradictions in regard to facts, it would seem almost impossible to arrive at any result, except as a guess.
+The judgment will be affirmed.
+Affirmed.
