@@ -1,7 +1,8 @@
 ---
 court: "Colorado Court of Appeals"
 decided: "1894-01"
-citations: ["4 Colo. App. 368", "4 Colo. App. 363"]
+decided_precision: "month"
+citations: ["4 Colo. App. 368"]
 reporter: "colo-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +10,7 @@ parties: ["Williams, Plaintiff in Error, v. Carr, Adm’r, Defendant in Error."]
 source_url: "https://static.case.law/colo-app/4/cases/0368-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4474412
-cites_cases: ["10 Pa. St. 273", "110 Mass. 345", "14 Colo. 138", "16 Ill. App. 139", "19 Vt. 496", "2 Swan, 550", "25 Tex. 667", "3 Chand. (Wis.) 34", "3 Colo. App. 419", "34 Ill. 388", "5 Johns. Ch. 174", "54 N. Y. 458", "6 Iowa, 515", "71 Ill. 410", "73 Ill. 619", "81 Ill. 86", "93 Ill. 39"]
+cites_cases: ["10 Pa. St. 273", "110 Mass. 345", "14 Colo. 138", "19 Vt. 496", "2 Swan, 550", "25 Tex. 667", "3 Chand. (Wis.) 34", "3 Colo. App. 419", "34 Ill. 388", "5 Johns. Ch. 174", "54 N. Y. 458", "6 Iowa, 515"]
 ---
 
 # Williams v. Carr
