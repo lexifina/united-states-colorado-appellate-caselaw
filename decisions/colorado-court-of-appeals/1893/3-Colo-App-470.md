@@ -1,0 +1,41 @@
+---
+court: "Colorado Court of Appeals"
+decided: "1893-09"
+citations: ["3 Colo. App. 470"]
+reporter: "colo-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Breene, Appellant, v. Booth, Appellee."]
+source_url: "https://static.case.law/colo-app/3/cases/0470-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4469495
+cites_cases: ["10 Colo. 220", "15 Colo. 44", "3 Colo. 296", "4 Colo. 348", "5 Colo. 76"]
+---
+
+# Breene v. Booth
+
+## Majority (Thomson, J.,)
+
+Thomson, J.,
+delivered the opinion of the court.
+The complaint in this case alleges that the defendants, George W. Purviance and Peter W. Breene, were copartners under the firm name of George W. Purviance & Co., and that the plaintiff, W. T. Booth, was the assignee and owner of sundry claims against the firm, aggregating $1,712.51. Summons was served upon both defendants. Purviance made default, but Breene answered denying the copartnership, and denying any and all liability against him on account of the claims, or any of them. The cause was tried by the court and judgment entered against Breene alone for the full amount claimed. The judgment was rendered on the 17th day of December, 1891. Breene prayed an appeal to this court, which was allowed, his appeal bond to be filed in thirty days and his bill of exceptions in sixty days. The appeal was duly perfected in accordance with the order, and a transcript of the record filed here on the 11th day of April, 1892. On the 12th day of May, 1892, the printed abstract of the record was filed, and on the 11th day of July, 1892, the appellant filed his printed brief. On the 22d day of July, 1892, the plaintiff and appellee filed in the court below his motion as follows :
+“ In the district court of the county of Lake, state of Colorado.
+“ W. T. Booth, plaintiff, v. George W. Purviance and Peter W. Breene as copartners, using the copartnership name of George W. Purviance & Co., defendants. Motion.
+“ Now comes the plaintiff by his attorneys, A. W. Stone and A. T. Gunnell, and show to the court that on the 17th day of December, 1891, judgment was entered in said court, against the defendants above, named for the sum of $1,820.55, which appears from the entry in the docket of said court. That by a clerical error, made by the clerk of said court, in recording the judgment so made by said court in the journal kept by said court, the judgment was recorded therein as against Peter W. Breene; from which judgment he alone appealed to the court of appeals of said state.
+“ Whereupon the plaintiff moves the court that judgment •now be entered in the journal of said court to correspond with the judgment rendered by the court in said case against ■'George W. Purvince nunc pro tune.
+“ A. W. Stone,
+“ A. T. Gunnell,
+“ Plaintiff’s Attorneys.’’
+This motion was sustained and the following order and ■judgment entered:
+“ March Term A. D. 1892.
+“ Monday, July 25th, A. D. 1892.
+“ W. T. Booth v. George W. Purviance and Peter.W. Breene, as partners, using the name of Geo. W. Purviance & Co. Motion to enter judgment in the journal of said court, nunc pro tune.
+“ This motion now coming on to be heard, A. W. Stone, Esq., appearing for the plaintiff, and John A. Ewing, Esq., for defendant Breene, and the said motion being argued by the respective counsel, and it appearing to the court that on the 8d day of August, 1891, default was regularly entered by the court against Geo. W. Purviance for having failed to plead to said action, and that afterwards on the 17th day of December, 1891, a judgment was by the court rendered against both of the defendants in said action for the sum of $1,820.55 and costs;
+“And it further'appearing to the court that by an error of the clerk of said court in entering said judgment in the journal of said court it was only entered as against one of the defendants, Peter W. Breene, when it should have been recorded against both the defendants, Peter W. Breene and Geo. W. Purviance, and the court now being fully advised in the premises doth grant said motion; and the defendant Purviance being still in default,— ■ •
+“ It is therefore now considered, ordered, and adjudged by the court that the plaintiff do have and recover of the defendants, Geo. W. Purviance and Peter W. Breene, the sum of 11,820.55 and costs of suit. And that the same be entered and recorded in the journal of said court as of the 17th day of December, 1891, the date of said judgment.”
+By leave of this court a supplemental transcript, containing the foregoing motion and judgment, was filed here on the 26th day of September, 1892.
+It is contended that the last order reaches back to the date of the original judgment; th|it its effect is the same as if judgment had in the first instance been given against the co-partnership ; and that in passing upon the case we must confine our consideration to the joint judgment, which, as is claimed, is now the only judgment of the court below. There is no doubt of the power of a court nunc pro túne tó amend its record so as to make it express what was done at the time. This power is inherent in courts, is not dependent upon statute for its existence, but has always been asserted. But the authority to reform judgments, while it unquestionably exists, must be exercised within limits and subject to conditions. Whether the proper limits and conditions were observed in this instance; whether the judgment as corrected is valid and can be enforced by process issuing out of the court which rendered it; and generally what its force and effect there may be, — it is not important at present to determine. No appeal from such judgment has been prosecuted to this court. The judgment from which the appeal was taken was an individual judgment against Breene and not against tlie firm. The prayer for appeal, the allowance of the appeal, the assignment of errors, and the joinder in error, all have reference solely to that judgment. It was the Only one from which the appeal could be taken. The other had no existence.
+It is true that after a cause has been appealed, clerical errors in the record may be corrected by the trial court, the corrections brought into the appellate court by supplemental transcript, and there considered as if they were part of the original record. This has been allowed where through inadvertence some evidence was omitted from the transcript, or some untrue statement inserted, or the judgment entry contained misrecitals ; the identity of the record meanwhile remaining unimpaired. Wolfley et al. v. Lebanon Mining Co., 3 Colo. 296; Knox et al. v. McFerran, 4 Colo. 348; Pleyte v. Pleyte, 15 Colo. 44.
+But we have found no case in which this was permitted where the character of the judgment was essentially changed, and in effect a new and different judgment substituted. The rights of a judgment creditor under a judgment against a copartnership, and under a judgment against an individual member, are not the same. In the former case he must exhaust the partnership property before having recourse to the individual, while in the latter it is the property of the individual only that is bound. In this instance not only has the effect of the judgment itself been changed, but the new judgment and the old are against different parties. We do not wish to be understood as questioning the efficacy of the reformed judgment in the court below ; we merely say that it is not in this court in any manner provided by law, and that the only appeal taken is from the judgment originally entered. The change having been made while the appeal was pending, and being so radical in its character, it does not come within any rule which would warrant us in considering it as a part of the record in this court. The only question left for determination is whether it was proper to render judgment against Breene alone for the amount of the indebtedness, and that question has been settled in this state by our supreme court and also by this court. Bissell et al. v. Cushman, 5 Colo. 76; Craig v. Smith, 10 Colo. 220; Dessauer v. Koppin, ante, 115.
+The judgment against Breene is therefore erroneous and must be reversed.
+Reversed.
