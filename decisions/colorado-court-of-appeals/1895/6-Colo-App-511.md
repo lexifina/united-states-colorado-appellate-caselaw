@@ -1,0 +1,51 @@
+---
+court: "Colorado Court of Appeals"
+decided: "1895-09"
+citations: ["6 Colo. App. 511"]
+reporter: "colo-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The Colorado Fuel and Iron Company v. Lenhart et al."]
+source_url: "https://static.case.law/colo-app/6/cases/0511-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4482056
+cites_cases: ["1 Colo. App. 313", "98 N. Y. 175"]
+---
+
+# Colorado Fuel & Iron Co. v. Lenhart
+
+## Majority (Thomson, J.,)
+
+Thomson, J.,
+delivered the opinion of the court.
+On the 21st day of June, 1889, The Trinidad Rolling Mills and Iron Company became indebted to The Colorado Fuel and Iron Company, for coal sold and delivered, in the sum of 1628.75. The latter company brought this suit to recover the amount, against the defendants in error, alleging that they were directors of the Rolling Mills Company from the 20th day of May, 1889, 'to the 1st day of May, 1890 ; that the capital stock of the company had not been fully paid in ; and that it did not within sixty days from the 1st day of January, 1890, or at any time since the 20th day of May, 1889, make and file in the office of the recorder of the county where the business of the company was carried on, any report as required by section 252 of the General Statutes of Colorado ; and that, by reason of its failure in that respect, the defendants became liable jointly and severally to the plaintiff for the amount of the indebtedness to it of the Rolling Mills Company. The complaint was filed August 7, 1890.
+The defendants answered, averring that they were directors of the Rolling Mills Company from the 1st day of April,
+1888, to the 1st day of May, 1890; that the company filed no report within sixty days from the 1st day of January,
+1889, as required by section 252, and that this action was not brought within one year after June 21,1889.
+The replication denied that the defendants were directors prior to May 20, 1889, and denied that the required report was not filed within sixty days from January 1, 1889.
+The evidence was that the defendants were directors from April 10, 1888, to May 1,1890. The plaintiff offered in evidence the following paper, filed on the 23d day of February, 1889, as being the report of the company for that year, which upon objection by the defendants, the court excluded.
+“ Annual statement of The Trinidad Rolling Mills and Iron Company, January 1, 1889 :
+Amount paid in on stock, .... $64,841.00
+Donations....... 5,000.00
+Indebtedness . . . $14,465.10
+1,500.00
+250.00
+333.33 — 16,548.43
+$86,389.43
+“ I hereby certify the above statement to be correct, to the best of my knowledge and belief.
+“ M. Lenhakt,
+“ (Corporate Seal) President.
+“ Attest:
+“ E. J. Adams,
+“ Secretary.”
+The following is section 252 of the General Statutes:
+“ Every such corporation shall annually, within sixty days from the first day of January, make a report, which shall state the amount of its capital and the proportion actually paid in, and the amount of existing debts; which report shall be signed by the president, and shall be verified by the oath of the president or secretary of said company, under its corporate seal, and filed in the office of the recorder of deeds of the county where the business of the company shall be carried on. And if any such corporation shall fail so to do, unless the capital stock of such corporation has been fully paid in and a certificate made and filed as provided in section twelve (12) of this act, all the directors or trustees of the company shall be jointly and severally liable for all the debts of the company that shall be contracted during the year next preceding the time when such report should by this section have been made and filed, and until such report shall be made.”
+This section is mandatory. A corporation must file its reports, executed and verified as required, and the liability of the directors for the company’s debts is in the nature of a penalty for a neglect to comply with the law. The liability covers all debts contracted by the company during the year preceding the time when the report should be made, and all debts contracted afterwards until the making of the proper report.
+Suit for the recovery of a penalty must be commenced within one year after the cause of action accrues. Section 2170, Gen. Stats.; Larsen v. James, 1 Colo. App. 313.
+If the report due within sixty days from January 1, 1889, was not made when this debt was contracted, the liability of the directors attached at the instant it was contracted, and the statute then commenced to run. The document which was filed as a report did not comply with the law. The lack of verification invalidated it, and it was not a report.
+It is contended, however, that because of the failure of the directors in office during the first sixty days of 1890 to make the statutory report, a cause of action then arose against them for the debt, it having been contracted during the year preceding the time when that report should have been made; and that, therefore, this action, having been commenced within one year from that time, was not barred. If this reasoning is sound, the logical conclusion is that it is at the option of a creditor of a corporation to determine when the statute shall commence to run against the peualt}r recoverable from the directors. If plaintiff could waive the default in 1889, and avail itself of the default in 1890, as the commencement of the directors’ liability, it might in like manner waive the latter default, and consider the liability as commencing with a failure to report the following year; and its waiver of defaults might continue indefinitely, as long as the corporation had an existence. This is- not the law. The statute determines how and when the liability arises. Directors in default are liable not only for corporate debts made during the preceding year, but for those made afterwards, during the continuance of the default. The ground of their liability for prior debts is the failure to comply with the law; and the ground of their liability for subsequent debts is the act of contracting them after neglect of the statutory duty. When the liability to the penalty is incurred, the creditor’s cause of action for its recovery accrues; and the statute is set in motion, and does not stop until the action is commenced or barred. Rector v. Vanderbilt, 98 N. Y. 175; Larsen v. James, supra.
+In this case the liability was incurred, and the cause of action accrued, on June 21, 1889; and this action, not having been commenced until August, 1890, must fail, unless the circumstances require us to hold that the defendants are bound by the report of February 28, 1889, and cannot be heard to deny that it fulfilled the requirements of the law. If, as is contended by the plaintiff, they are estopped to question the validity of that report, judgment must go against them, for their only defense is the failure of the plaintiff to commence this action in time; and the action was commenced in time, if that was a good report. The effect of the argument is, that, having made a report which binds them as being sufficient, then, if the plaintiff so elected, there was no liability against them on account of the debt until their failure to report in 1890. Counsel does not set forth very clearly the grounds of the estoppel claimed. It is simply asserted, as a legal proposition, that the defendants cannot take advantage of their own dereliction of official duty. But a general statement of this kind throws no light upon the question. If there is an estoppel here at all, it is an estoppel by conduct. But conduct alone does not create an estoppel. If no rights have been affected by the conduct, there is no one in whose behalf the doctrine of estoppel can be invoked. To create the estoppel some other person must have changed his position on the faith of the conduct. The foundation upon which the doctrine rests is, that it would be a fraud for one, who by his conduct has induced others to accept something as a fact, to deny that such was the fact, after they had acted upon their belief. But there can be no estoppel in favor of one who has not been misled, or to whom the assertion of the truth would do no injury.
+There is not here the slightest pretense that by any act of the defendants the plaintiff was induced to believe that the Rolling Mills Company had filed the report required by the statute, or that its transaction with the latter company was in any degree influenced by belief or disbelief upon the subject. So far as appears, it was not spoken or thought of, or deemed of any importance, by either side; and if the plaintiff did not have actual, it had constructive notice of what had in fact been done in that regard. The record discloses no reason why the defendant should not be permitted to say that what was attempted to be done was an utter failure of compliance with the law; that, therefore, the moment the indebtedness was contracted, they became individually liable for the amount; and that the statutory bar had interposed in their favor.
+But there is another light in which the question may be considered. The statute which is invoked is penal in its character. The debt was owing by the Rolling Mills Company, and not by the defendants. Its amount was recoverable from them as a penalty, and not as an indebtedness. They are therefore entitled to a strict construction of the statute. There are no equities in the plaintiff’s favor as against them. It is entitled to what the letter of the law gives it, and no more. On account of the failure to make the required report, the defendants ’ liability attached, and was absolute, immediately upon the contraction of the debt. The records were open to the plaintiff’s inspection, and if it was without knowledge of what had been done, its ignorance is chargeable to its own negligence. To enable it to recover, it must bring itself strictly within the law, and for its failure to do so, it alone is responsible. Larsen v. James, supra.
+We find nothing in the record to authorize a reversal of the judgment, and it will therefore be affirmed.
+Affirmed.
