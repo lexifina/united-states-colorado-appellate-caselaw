@@ -1,0 +1,26 @@
+---
+court: "Colorado Court of Appeals"
+docket: "2451"
+decided: "1904-09"
+citations: ["20 Colo. App. 320"]
+reporter: "colo-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Foot v. Smythe."]
+source_url: "https://static.case.law/colo-app/20/cases/0320-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4504517
+---
+
+# Foot v. Smythe
+
+## Majority (Thomson, P. J.)
+
+Thomson, P. J.
+Samuel J. Smythe brought this action against Robert E. Foot for money had and received to the plaintiff’s use. The plaintiff had judgment for $1,146.32, and the defendant brings error.
+The defendant was the plaintiff’s attorney in a protracted litigation in the circuit court of the United States, covering a period of seven years, instituted by certain stockholders of The Wendling Cattle & Land Company, of which the plaintiff was secretary and treasurer, to wind up its affairs. The bill charged the plaintiff, who was a party defendant, with falsifying the records of the company, and with a number of other fraudulent practices in connection with its management. The plaintiff had a claim against the company of $3,000 or $4,000; and he employed the defendant to push that claim, and instructed him to fight the charges of fraud to the bitter end. The company was insolvent, and other claims were urged against it. After the litigation had progressed for some time, the plaintiff, for an expressed consideration, gave the defendant a written assignment of his entire claim. The purpose of the assignment was to enable the defendant, without interference by the plaintiff, to settle and adjust conflicting claims according to his best judgment, having-in view the interests of the plaintiff.
+A receiver had been appointed for the concern, and when final settlement was reached, he deposited in court the sum total of $5,126.38, and the amount turned over to the defendant was $1,781.85. To avoid the expense attendant on threatened appeals, as well as the uncertainty of final results, the defendant entered into compromises with the other claimants, in pursuance of which he paid them certain sums. He also deducted some items of costs advanced by him, fees due him by the plaintiff for previous services, ■ $500 for the case in hand, and a debt from the plaintiff to George Foot, the defendant’s brother. A balance remained of $189.59, which he remitted to the plaintiff with a statement of the account. Attorneys of experience testified concerning the value of the defendant’s services in the case. The lowest estimate was $1,500.
+We have no knowledge, or means of knowledge, of the process by which the court reached the conclusion that the defendant owed the plaintiff $1,146.32. He was clothed with the fullest discretion in the matter of compromising- with adverse claimants. It is not hinted that he was guilty "of any abuse of the discretion; and it is apparent from the facts as they are laid before us, that his action was not only taken in good faith, but was, in view of the attendant circumstances, eminently judicious. After the settlement was effected, it was too late to revoke the authority ; and the defendant should have been allowed the amounts so expended. He was also entitled to compensation for his services -out of the money received. Respecting the payment, of the debt from the plaintiff to George Foot, we are not so well prepared to express an opinion. The defendant testified that it was made by express agreement with the plaintiff. The plaintiff admitted the debt and his assumption of its payment; but denied that it was to be paid out of this money. But conceding that it was proper to disallow the claim of the defendant on account of that debt, the .attitude which the plaintiff assumed relative to his obligations to the defendant, entitled the latter to an allowance of the full value of his services. The plaintiff, by his complaint, which was verified, demanded $1,781.85, the entire amount which the defendant had received, and averred that no part of it had ever been paid over to him. He undertook to repudiate the agreement under which the defendant had acted in effecting the settlements; also his obligation to the defendant for services; and even the very payment which the latter had made to him. Because of his refusal to recognize any of the defendant’s rights in the premises, the latter was not bound by the amount which he had named as his compensation in his statement to the plaintiff, but became entitled to all that his services were worth; so that even eliminating the debt which he paid to George Foot, there would still have been nothing due the plaintiff. To the contrary there would have been a balance on the other side of the account.
+The defendant makes the point that under the facts which the evidence disclosed, even on the supposition that the plaintiff might have been entitled to a recovery for something, an action for money had and received was not his remedy, and that the defendant’s motion for a nonsuit when the plaintiff’s evidence was in, should have been sustained. We are inclined to agree with the defendant, but we do not care to discuss the proposition, because we find that the merits of the controversy are with him.
+Let the judgment be reversed.
+Reversed.
