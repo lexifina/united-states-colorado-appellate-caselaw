@@ -1,0 +1,31 @@
+---
+court: "Colorado Court of Appeals"
+docket: "3798"
+decided: "1913-12-08"
+citations: ["25 Colo. App. 318"]
+reporter: "colo-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Church v. Myers."]
+source_url: "https://static.case.law/colo-app/25/cases/0318-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2320854
+---
+
+# Church v. Myers
+
+## Majority (Morgan, Judge.)
+
+Morgan, Judge.
+Petition for rehearing is denied; original opinion is withdrawn and the following substituted.
+The action was begun in the, county court of Logan county; application for change of venue to Denver county court denied, followed by the joining of issues on the pleadings, and a trial resulting in a judgment against defendant, Church; he appealed to the district court of said county, and renewed his application for change of venue, which was allowed, and the cause sent to the county court of Denver county, where another trial resulted in a verdict and judgment' against defendant, Church, who brought the ease here bn appeal.
+It is contended by appellant that the county court of Logan county had no further jurisdiction of the cause beyond carrying out an order granting Ms motion that he filed there, in apt time, for a change of venue to Denver county, where the defendant lived and was served with process; and that, as the district court, aforesaid, sustained his motion for a change of venue, renewed in that court, on appeal, and sent the case to the county court of Denver county, it was error for the latter court to set the case for trial without first giving him an opportunity £ito raise such issues of law and fact on the original complaint as he might be advised;” claiming that the cause was not at issue in the latter court, for the reason that all proceedings settling the issues in the county court of Logan county were void and of nq effect, because done after motion for change of venue was filed.
+■ Assuming, but not deciding, that the order of the district court, granting the change of venue, not being excepted to, but acquiesced in, by appellee, annulled all proceedings in the county court of Logan county, after the denial of the change of venue therein; nevertheless, the files which included the pleadings therein, joining the issues, were on file in the Denver court when the plaintiff moved to have the cause set for trial on the merits, and were not expunged or struck out by the order of the district court, as it is not a court of review. The defendant, Church, resisted this motion, Turman not appearing, on the ground that the cause was not at issue in that court, but he did not offer nor tender any pleadings to take the place of those on file, nor was any request made for time in which to do so, nor does he show to this court in what particular he was prejudiced by the action of the court in setting the cause for trial, on the issues as made by the pleadings on file, except to say that he was deprived of raising issues of law and fact on the complaint; nor does the record show what issues’ were intended to be raised. It must be concluded that the lower court examined the files and found therein an amended complaint, a bill of particulars thereupon, an answer of the defendant, Church, and an answer and cross-complaint of defendant, Turman, the alleged agent of Church; and, as Turman did not appear in any way, it must be further concluded that the lower court duly considered all objections raised by Church, including the form and regularity of the pleadings joining the issues, and found that no injustice would be done and no substantial right denied by adopting the issues made by the pleadings on file, and, for that reason, set the cause for trial upon the same. There is nothing in the record or in appellant’s contentions to show that the issues were not sufficient, or that any pleading was proposed by which to supply any insufficiency. Furthermore, he joined in the trial and produced his evidence, with no further objection than the objection to the setting; and nothing prejudicial to him appears throughout the trial, caused by reason of the court’s action, aforesaid, or otherwise. To reverse the case now simply to have the issues made up again, and permit the defendant to have a third trial would be an injustice to the appellee, as well as contrary to that statute which says:
+“The court shall.in every stage of an action disregard any error or defect in the pleadings which shall not affect the substantial rights of the parties, and no judgment shall be reversed or affected by reason of such error or defect.”
+Appellant further contends that the proof of agency was insufficient between Church, the defendant, and Turman, who employed the plaintiff and those who assigned their claims to him. The action was commenced against both Church and Turman to recover for men and teams used in cleaning a ditch on a ranch belonging to Church. The action was dismissed as .to Turman, and his cross-complaint struck from the files by the Logan county court, and no appeal was taken by him to the district court, nor does he appear in the Denver court, or in this court.
+The evidence has been carefully examined and considered, and it is concluded that it was sufficient to justify the court in submitting the issue of agency to the jury and to sustain the verdict for the plaintiff against Church. No useful purpose can be subserved by a discussion of the evidence, and the law applicable thereto, as no question would be decided which has not been announced by former decisions of this court and the supreme court of this state.
+The appellant further contends that there was a variance between the pleadings and the proof; that error occurred on the admission and in the exclusion of certain evidence; that the court erred in permitting an amendment of the complaint after the evidence was in, and that the assignments of the other claims to plaintiff were irregular, and the proof insufficient thereupon as to the same question of agency already disposed of; but it is concluded that there was no reversible error committed
+ix by tbe rulings of tbe'lower court upon-any of these matters.
+Decided December 8, A. D. 1913.
+Rehearing denied February 11, A. D. 1914.
+The. judgment is affirmed.
