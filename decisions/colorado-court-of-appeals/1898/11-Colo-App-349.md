@@ -1,0 +1,26 @@
+---
+court: "Colorado Court of Appeals"
+docket: "1376"
+decided: "1898-04"
+citations: ["11 Colo. App. 349"]
+reporter: "colo-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Carico v. Kling."]
+source_url: "https://static.case.law/colo-app/11/cases/0349-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4457839
+cites_cases: ["109 Ill. 585", "115 Ill. 403", "2 Ill. App. 449", "22 Colo. 223", "33 Ia. 318", "43 Ia. 293", "66 Cal. 286"]
+---
+
+# Carico v. Kling
+
+## Majority (Wilson, J.,)
+
+Wilson, J.,
+delivered the opinion of the court.
+This was an action of unlawful detainer. It was brought under the provisions of subdivision 6, section 3, of the forcible entry and detainer act, which defines unlawful detention. The subdivision in question reads as follows: “ When the property has been duly sold under any power of sale contained in any mortgage or trust deed which was executed by such person or any person under whom he or she claims, by title, subsequent to date of the recording of such mortgage, or trust deed, and the title under such sale has been duly perfected, and the purchaser at such sale or his assigns has duly demanded the possession thereof.” Plaintiff Kling claimed title and right to possession by virtue of a foreclosure sale under a deed of trust executed by defendant. Defendant answered, admitting the execution and delivery of the trust deed, and of a note which it was intended to secure. He denied, however, any default in any of the covenants of the trust deed, and set up several matters tending to show irregularities in and about the sale by reason of which he claimed that the proceedings were void, and that no title passed. Upon trial, plaintiff offered in evidence the deed of trust, and the deed of the trustee after sale, conveying the property to him. He also made proof that some days after the sale and the execution of the trustee’s deed, he had served upon defendant a written notice demanding possession of the premises. No testimony was offered on behalf of defendant, except that of one witness, his attorney, who testified to having paid several sums of money to the agent of the holder of the note secured by the trust deed. This testimony appears to have been offered with a view to sustaining the claim of defendant that he had paid interest. It did not sustain the claim, however. Upon request of plaintiff, the court instructed the jury to return a verdict for plaintiff, which was accordingly done. Judgment was rendered in his favor, and defendant appealed. There are numerous assignments of error, but the consideration of only a few controverted questions will be necessary to the determination of the appeal.
+The main contention of defendant is that the court erred in holding that the recitals in the trustee’s deed were in and of themselves prima facie evidence of their contents. He urges that independent of the trustee’s deed, the plaintiff should have been required to have proven by competent testimony all the prerequisites mentioned and described in the trust deed whereby a forfeiture could be declared by the beneficiary, and failing in this, the motion for nonsuit made by defendant should have been sustained. We cannot agree with him; the law as laid down by the authorities is clearly to the contrary. This- was an action at law, and in such case Mr. Jones expresses the well-settled doctrine when he says:. “No evidence aside from the deed to such purchaser and the recitals in it, is necessary to show title and right of possession in tiie plaintiff.” Even where the deed of trust does not provide that the recitals in the trustee’s deed shall be prima fade evidence of the facts therein stated, it is held that such recitals are prima fade proof of the matters stated in them. Beal v. Blair, 33 Ia. 318; Ingle v. Jones et al., 43 Ia. 293; Savings and Loan Soc'y v. Deering, 66 Cal. 286; Tartt v. Clayton, 109 Ill. 585.
+Defendant also insists that the written notice of plaintiff demanding possession was fatally defective in that it did not specify the time when it required possession to be surrendered. This was not an action between landlord and tenant, and therefore, under the statute the fixing of such time was not necessary. The plaintiff was entitled to and had a right to demand, as he did, immediate possession.
+There is another matter, however, which is conclusive of this case, and decisive of every other question raised by the defendant. This was exclusively a possessory action. It was a statutory action provided for the recovery of the possession of real property by the person rightfully entitled thereto. The title to the realty was not involved in it, and could not be inquired into. Kelly v. Hallack L. & M. Co., 22 Colo. 223; Wingett v. Hurlbut, 115 Ill. 403; Wheelan v. Fish, 2 Ill. App. 449. The matters set up in the answer of defendant tending to defeat the title of plaintiff were not a proper subject of inquiry in this action, and could only be so in a court of equity. The deed from the trustee vested the legal title in the plaintiff, and if defendant desired to defeat it, he should have attacked it by proceedings in equity. The court did not err, and the judgment will be affirmed.
+Affirmed.
