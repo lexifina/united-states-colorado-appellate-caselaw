@@ -1,0 +1,38 @@
+---
+court: "Colorado Court of Appeals"
+decided: "1893-09"
+citations: ["3 Colo. App. 475"]
+reporter: "colo-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Cash, Appellant, v. Thornton, Appellee."]
+source_url: "https://static.case.law/colo-app/3/cases/0475-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4467994
+cites_cases: ["6 Colo. 582"]
+---
+
+# Cash v. Thornton
+
+## Majority (Reed, J.,)
+
+Reed, J.,
+delivered the opinion of the court.
+The suit was brought hy appellee. In the- complaint it is alleged: . *
+That the plaintiff was the owner and in the occupancy of certain lands.
+That on the 14th day of April, 1888, he and his partner, one Smith, whose interest he bought prior to bringing the suit, commenced the construction of a ditch from Red creek to supply the land with water for irrigating purposes.
+•' That the construction of the ditch was diligently prosecuted.- (By the evidence it is shown that the ditch was completed in June following.) ■ ■ •
+That after its completion all the water of the creek was Carried by such ditch and applied-to plaintiff’s land and amounted to 8J- cubic feet of water per second.
+That about the first of June, 1891, while he was carrying it in the ditch and using it upon his crops, defendant diverted the water and uséd it upon his own land and crops, and that by reason of such diversion he was damaged $2,000.
+For a second cause of action it'was alleged one Shales, who owned and occupied the same land, appropriated and applied the waters of Red creek to the land in 1881; that the right sb' acquired was never abandoned by Shales, and passed by him to plaintiff with the land. That the defendant claimed the right to all the water in Red creek and had diverted and appropriated it to his own use. Praying an injunction restraining defendant from using the water, and damages of $2,000 for the diversion and injury.
+The defendant, in answer, after denjdng the allegations of the complaint, except as to the taking and use of the water in June, 1891, as alleged in the complaint, which was admitted, alleged “that he long prior to the 14th day of April, 1888, diverted all the waters out of Red creek and applied them to his own land; that he was the first appropriator and entitled to priority,” etc.
+A trial was had upon the issues made, over 600 folios of testimony taken, almost entirely’upon the alleged priorities and rights of the parties respectively to the water in question. The jury'was charged at length by the court' in regard to the question of priority of the respective claimants and the law controlling the case. The jury found for the plaintiff in the sum of $250 as damages for the diversion, but nothing as to priority or the rights of the parties to the water in controversy. A motion made to set aside the verdict and for a new trial, “ whereupon, plaintiff by his said attorneys, offers in open court to waive all rights to injunctive relief herein, and to remit $100 of the damages awarded the plaintiff by the verdiet of the jury herein, which were duly allowed by the court and accordingly done. Thereupon, the court being fully advised in the premises, and upon condition that plaintiff waive all contention that any specific right to priorities in water has been determined by said verdict, and the said waiver then and there made by plaintiff,, doth overrule said motion to set aside the verdict and for a new trial.”
+To all of which defendant duly excepted.
+The court caused the following judgment to be entered of, record:—
+“Whereupon the court, being now fully advised in the premises, doth now order, adjudge and decree that plaintiff, Daniel Thornton, do now have and recover of and from the said defendant, James Cash, the sum of one hundred and fifty dollars damages herein and his costs taxed at-dollars; and all claim for injunctive relief being waived by the plaintiff herein, it is now further ordered that the respective rights, of the plaintiff and defendant herein to the waters of Eed creek be deemed and held unaffected in any manner by this judgment; nor shall this judgment be taken or held to give the plaintiff any right to any specific waters of said Eed creek, nothing herein being determined respecting the appropriation or priorities of the waters of said Eed creek.”
+To which defendant excepted and prosecuted an appeal to this court.
+The result of the proceeding was such that it must be regarded as a mistrial. The only basis upon which a judgment for damages could be predicated was stipulated out of the, case by the plaintiff and expressly excluded by the judgment of the court. The right to the use of water for irrigating purposes is a right of property, the subject of ownership like any other property. Although the manner of acquiring the, right of property in the use of water is peculiar and different from that of other property, such right to use must be determined like any other property right- upon the ownership.
+It does not appear that there had been any former adjudk cation or decree defining the rights oí the parties to the water in controversy. It is declared in the State Constitution : “ Priority of appropriation shall give the better right as between those using the water for the same purpose.” The supreme court of this state, in Thomas v. Guiraud, 6 Colo. 582, declared, “ The true test of the appropriation of water is the successful application thereof to the beneficial use designed,” which decision has been since followed. The plaintiff in his complaint claims such priority; the earliest appropriation and application of the water. This is traversed in the answer, and the alleged priority of the defendant to the same water asserted. A lengthy trial was had to determine such priority and the right to the ownership of the use of the water, and the jury was elaborately charged upon the law involved. Such question of ownership or title was ignored by the jury, and no finding made, unless presumed to have been made incidentally for the purposes of the case and not declared. Were it not for the stipulation and judgment of the court, possibly this view might prevail and the verdict be allowed to stand. But when we find by the stipulation and judgment a declaration that nothing was adjudicated or determined in regard to the ownership, the presumption that might have been indulged is destroyed. A judgment for damages for the diversion of water could only be based upon the ownership or right of property in the water and the wrongful invasion of that right. Both claiming the ownership under the constitution and laws, unless such right of property was found, the effect of awarding damages for the diversion was quite likely to be against the owner for the lawful use of his own property.
+The ownership to the right to the use of the water not only having not been tried, but having been by the stipulation and judgment expressly so declared, there was no legal basis or foundation upon which a judgment for damages could rest. If A and B both claim to be the owners of the same horse and B gets the possession and puts him to work, and A brings suit for its recovery and damages for its detention, alleging ownership, and B answers, asserting his ownership, a verdict and judgment for the detention and damages could hardly stand, if it was expressly declared that nothing in regard to the ownership of the horse had been adjudicated or found, and thus allowing damages for the use of an animal that might belong to either, or to a neighbor.
+The judgment will be reversed and cause remanded for a new trial.
+Reversed.
