@@ -1,0 +1,33 @@
+---
+court: "Colorado Court of Appeals"
+decided: "1891-09"
+citations: ["1 Colo. App. 177"]
+reporter: "colo-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Louis Miller, Plaintiff in Error, v. W. J. Godfrey & Co., Defendants in Error."]
+source_url: "https://static.case.law/colo-app/1/cases/0177-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1768991
+cites_cases: ["30 Kan. 205"]
+---
+
+# Miller v. W. J. Godfrey & Co.
+
+## Majority (Reed, J.)
+
+Reed, J.
+The judgment of the district court must be affirmed.
+' After striking out of the affidavit the first alleged ground of attachment the only remaining ground was, “ That the defendant had failed to pay the price of articles delivered to him, which he should have paid for upon the delivery thereof.”
+This is fully and specifically traversed by the defendant, the language being, “ and he further denies that he has failed to pay the price of any article or articles delivered to him by the said plaintiff, which should have been paid for on the delivery thereof.” The issue thus formed was the only one to be tried, and was left untried. It is hard to gather either from the course or conduct of counsel for plaintiff upon the trial, or in his argument, what his theory was and is, upon which he founded his right to recover under the pleadings and circumstances. It must have been based upon a misapprehension of the statute controlling the action. He seemed to regard the admission of the account, showing an unpaid balance of $1,819.97, coupled with the statement of the defendant that it had not been paid because not yet due, as affording him a statutory right to a judgment.
+There was no evidence whatever of any agreement between the pai'ties for payment upon delivery, nor of any demand upon the delivery of each or any lot, or at the conclusion of the delivery,—the course of dealing, as shown by the statement of account admitted, negatives any such conclusion. The goods were delivered at intervals from April 22d to August 28th. The first delivery, made on April 22d, amounted to $357.66; one on June 20th, to $478.35 ; on July 17th, $690.21. The first payment of $200 was made twenty-two days after the delivery of the second lot. The next payment, on Juty 17th, the date of the delivery of the third lot; following this, on August 28th, there was a delivery amounting to $701.55, and at that date the amount paid but slightly exceeded the price of the first delivery, after an interval of over four months. This shows conclusively that there had never been a sale for cash on delivery, or that if there had heen, it was waived, and a course of time dealing substituted.
+The tenth ground of attachment, Civil Code, § 92, the one on which this attachment was predicated, was never intended to cover a course of dealing like the one under consideration; to support it there must be fraud; it must be the very foundation. It is intended to cover cases where goods are obtained and the possession of them acquired under the promise to pay simultaneously with the delivery, and a retention of the goods after demand of the payment. It must be a wrongful obtaining of the goods with intent to defraud. Fraud is never presumed, and must be established by a preponderance of evidence. It was imperative upon the plaintiff, under the traverse, to show an unconditional contract to pay on the delivery of each and every lot or parcel, and a demand for such payment.
+In Wade on Attach., § 109, it is said: “When the cause of attachment is that the action is for the price or.value of an article or thing sold and delivered, which, according to the contract of sale, was to be paid for on delivery, there must be a concurrence of three facts in addition to that of indebtedness: (1) The thing must have been delivered. (2) There must have been no credit given. (8) And the contract to pay on delivery must be unconditional. If there has been a credit of ever so short a time beyond the delivery; or if the payment depends upon any condition whatever, as a demand, the contract does not come within the operation of the statute.” See also Young v. Lynch, 30 Kan. 205; St. Louis T. F. Co. v. Union & P. P. Co., 3 Mo. Ct. of App. 142.
+Plaintiff having not only failed, but also having declined to establish the ground of his attachment by proof, the attachment was very properly discharged.
+The defense to the main action being that the money was not due, and that being the only issue to be tried, the plaintiff failing and declining to show that the balance was due at the time the suit was instituted, the action could not be maintained, and the judgment of dismissal was correct.
+We cannot understand the contention and reasoning of plaintiff’s counsel in his printed argument, where he attempts to bring the case under the provisions of sec. 94, Civil Code, which is:
+“Actions may be commenced, and writs of attachment issued, as prescribed in this chapter, upon debts and liabilities not yet due, if the affidavit states any of the causes mentioned, except the first, second, third and thirteenth subdivisions.”
+He claims that the ground upon which he based his attachment being the tenth, and not excepted in the section, he had a right to judgment if the money was not due. Although the tenth cause is not in terms excepted, the section can in no way be made to cover it. It probably never occurred to the legislature that any such attempt would be made. The proposition stands thus: A writ of attachment may issue and be sustained in a case where goods are sold and delivered on a contract to pay on delivery, eo instanti, on failure and refusal to pay, although the money “is not yet due ” at the time of bringing suit and suing out the attachment. The absurdity is too apparent to need comment.
+It is a well settled rule of construction of statutes to so construe them, if possible, as to give each part some meaning and effect, and allow the whole to stand. This is easily done in this case. There are several grounds of attachment stated, notably fourth to ninth, both inclusive, and the twelfth, where the attachment could be rightfully maintained when the money is not yet due. The eleventh is not excepted in sec. 94, and can no more be brought under the operation of the section than can the tenth ground. It provides for attachment where—“ the defendant has failed or refused to pay the price or value of any work or labor done * * * which should have been paid at the completion of such work.” The necessity of excepting those two clauses, probably, never occurred to the legislature.
+The judgment is affirmed.
+Affirmed.
