@@ -2,7 +2,8 @@
 court: "Colorado Court of Appeals"
 docket: "2773"
 decided: "1903-04"
-citations: ["19 Colo. App. 28", "18 Colo. App. 447"]
+decided_precision: "month"
+citations: ["19 Colo. App. 28"]
 reporter: "colo-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +11,7 @@ parties: ["The Lockhaven Trust and Safe Deposit Company v. The United States Mor
 source_url: "https://static.case.law/colo-app/19/cases/0028-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4523613
-cites_cases: ["11 Colo. 204", "121 Ill. 321", "13 Colo. App. 237", "16 Colo. 274", "17 Colo. App. 253", "17 Colo. App. 448", "18 Colo. 354", "18 Colo. App. 383", "2 Colo. 672", "2 Colo. 7", "27 Colo. 216", "4 Colo. 73", "5 Colo. 371", "5 Colo. App. 510", "6 Colo. 81", "67 Pac. 1020", "68 Pac. 1063", "70 Pac. 698", "9 Colo. App. 36", "9 Colo. App. 495"]
+cites_cases: ["11 Colo. 204", "13 Colo. App. 237", "16 Colo. 274", "17 Colo. App. 253", "17 Colo. App. 448", "18 Colo. 354", "18 Colo. App. 383", "2 Colo. 672", "2 Colo. 7", "27 Colo. 216", "4 Colo. 73", "5 Colo. App. 510", "6 Colo. 81", "67 Pac. 1020", "68 Pac. 1063", "70 Pac. 698", "9 Colo. App. 36", "9 Colo. App. 495"]
 ---
 
 # Lockhaven Trust & Safe Deposit Co. v. United States Mortgage & Trust Co.
