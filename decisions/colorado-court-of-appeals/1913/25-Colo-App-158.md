@@ -1,0 +1,30 @@
+---
+court: "Colorado Court of Appeals"
+docket: "3755"
+decided: "1913-09"
+citations: ["25 Colo. App. 158"]
+reporter: "colo-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Plank v. Maxwell et al."]
+source_url: "https://static.case.law/colo-app/25/cases/0158-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2320865
+cites_cases: ["10 Pac., 290", "114 Minn., 264", "131 N. W., 320", "15 Colo., 339", "2 Colo., 532", "21 L. R. A. (N. S.), 86", "22 Am. St. Rep., 407", "25 Pac., 704", "38 L. R. A. (N. S.), 301", "46 Pac., 11", "8 Colo. App., 223", "9 Colo., 33", "94 Miss., 46"]
+---
+
+# Plank v. Maxwell
+
+## Majority (Cunningham, Presiding Judge.)
+
+Cunningham, Presiding Judge.
+Since the opinion in this case was prepared, our attention has been called to the death of the appellee, Maxwell, and by proper order his widow and children have been substituted. With this preliminary explanation we do not deem it necessary to redraft the opinion.
+Plank, the appellant, who was plaintiff below, and who will hereinafter be referred to as plaintiff, sold a forty-acre tract of unimproved land to Maxwell, the appellee, defendant below, receiving $1,000 in cash and two notes for $500 each' in payment therefor. These' notes were secured by a trust deed on the land. Defendant defaulted in the payment of the notes, and plaintiff brought his action in the county court to foreclose the trust deed which defendant had given. Defendant answered, charging plaintiff with having misrepresented the land, the misrepresentations consisting in directing defendant to one tract of land, which plaintiff did not own, and selling an entirely different and vastly inferior tract. There is no attempt made by plaintiff to dispute the deception, but he bottoms his whole defense upon ignorance as to where the land he owned and was selling actually lay. Plaintiff had seen his land but once or twice before he sold it to defendant. It lay several miles from Grand Junction, and in an uncultivated and unimproved section of country. Before defendant went to look at the land, he and one Harris, who was showing the land for the purpose of inducing defendant to buy it, called upon plaintiff, who gave the two men explicit instructions as to the direction and distance they must go in order to find his (plaintiff’s) land. In addition to giving the direction and distance, plaintiff described a post or stake which he said stood at the northeast corner of the land he owned and was offering for sale. He also described certain natural objects near, such as a small butte, stone, etc. With these directions and descriptions deceived from plaintiff, Harris and the defendant, Maxwell, proceeded to the stake, finding it without trouble.
+The land that lay to the southwest of this stake, which they had been told by plaintiff was his, was a very fine tract, level and of splendid red soil. But the stake was not at the northeast corner of plaintiff’s land. It was a quarter of a mile distant from that point, and the land actually owned by plaintiff, and which he deeded to Maxwell, was rough, hilly and practically worthless. The evidence offered by defendant to support these statements was ample and practically uncontradicted.
+Upon returning from the supposed view of the land, Harris and Maxwell again called upon plaintiff, and told him they had found the stake, describing it and its surroundings with considerable minuteness. Again plaintiff stated to them that the stake was at the northeast corner of his land. Belying upon these statements, defendant bought the land as hereinabove stated. In his answer defendant counterclaimed for the $1,000 he had paid, with interest, expenses paid by him for a suryey, and perhaps other items. Both in the county and later in the district court to which the case was appealed, judgment went in favor of the defendant.
+That plaintiff falsely described the location of his land cannot be questioned; indeed, he admits it. If plaintiff had known that his statements .concerning the location of the stake were false, at the time he made them, there could be no possible doubt as to the correctness of the judgment, since it was shown that defendant was a man of no experience in the matter of locating lands, and liad no knowledge whatever as to section corners in the vicinity of the land. Bnt the authorities are ample in support of the proposition that it is not necessary that a vendor should have absolute or actual knowledge of the falsity of his statements under circumstances such as we have narrated. ■
+“If a person makes a positive and unqualified false statement of a fact which is susceptible of knowledge, an affirmation of knowledge is implied from the positive character of the statement, and if he has no knowledge, he is guilty of actual fraud.” — 14 Enc. Law (2nd-Ed.), 99.
+Other authorities sustaining this rule are: Lahay v. Bank, 15 Colo., 339, 25 Pac., 704, 22 Am. St. Rep., 407; Sellar v. Clelland, 2 Colo., 532; Gooddale v. Middaugh, 8 Colo. App., 223, 46 Pac., 11; Stimson v. Helps, 9 Colo., 33, 10 Pac., 290; Ballard v. Lyons, 114 Minn., 264, 131 N. W., 320, 38 L. R. A. (N. S.), 301; Vincent v. Corbett, 94 Miss., 46, 47 South., 641, 21 L. R. A. (N. S.), 86; 20 Cyc., 33.
+Under the foregoing authorities plaintiff having-stated unqualifiedly and as of his own knowledge where the land which he owned lay, he cannot now be heard to say that he had no such knowledge, or that defendant was so negligent in accepting his statement as to bar his right of recovery.
+It is urged on behalf of plaintiff in the opening- brief (no reply brief has been filed by him) that there was' never a meeting- of the minds of Plank and Maxwell because of the misdescription of the land. It is not entirely clear how this contention (which we are disposed to believe sound) can avail plaintiff in his attempt to collect the balance of the purchase price of the land. Two courts have found, properly as we think, for the defendant, the appellee here.
+Judgment Affirmed.
