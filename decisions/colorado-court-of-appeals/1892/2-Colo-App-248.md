@@ -1,0 +1,23 @@
+---
+court: "Colorado Court of Appeals"
+decided: "1892-04"
+citations: ["2 Colo. App. 248"]
+reporter: "colo-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Carson, Appellant, v. Baker, Appellee."]
+source_url: "https://static.case.law/colo-app/2/cases/0248-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4528421
+---
+
+# Carson v. Baker
+
+## Majority (Bissell, J.,)
+
+Bissell, J.,
+delivered the opinion of the court.
+Sometime in 1889 Edward Carson was interested in a dairy outfit which had its headquarters at Josephine and 81st streets in the city of Denver. Sometime prior to that date he had listed the property with Baker, the appellee, as a real estate agent, for the purposes of sale at a price named. Baker was not successful in his efforts to sell at that price, and he took out the advertisement which he had inserted in the paper to influence customers, and abandoned' the project. Subsequently, and about the time named, Carson reapproached him to renew his efforts at a reduced price. These efforts were not successful. Carson then sought to interest Baker in negotiating a trade of the outfit for some property which belonged to a man named Haynes. The trade which Carson suggested was the exchange of the dairy outfit and property for a small house and some lots which Haynes owned in the vicinity. Carson was willing, however, to pay boot to the extent of a thousand dollars if the trade could be made. At the time he made this proposition to Baker he had a conversation concerning what he would pay if the trade should ultimately be carried out. There is some discrepancy between the statements of the various witnesses as to what transpired when he and Baker concluded their agreement. According to the judgment which was rendered by the county court the trial judge concluded the agreement was that Carson should pay Baker $100, in case the trade should be consummated. He was fully justified in this conclusion by a fair preponderance of testimony, andhis judgment should not be disturbed unless under the facts no legal liability devolved on Carson by reason of the transaction.
+This cannot be said to be true. It has been argued with a good deal of force and considerable learning, that in order to entitle a broker to commissions for the sale of property he must produce a purchaser able, ready and willing to buy on the terms nominated when the property is put into his hands. This is true. It is equally true that the broker must be substantially the moving cause which leads to the sale when he asserts his claim for commission. The present controversy, however, does not involve any such 'inquiry. The original transaction between the parties undoubtedly contemplated a sale. If that had been the only thing which occurred between them Baker could not recover, since he produced no purchaser able and willing to buy upon the terms given to him. This deal however was subsequently abandoned, and Baker was specifically requested to enter into negotiations with Haynes and endeavor to bring about a trade between Haynes and Carson. His efforts in this direction seem to have been successful. The trade was made, and although the amount of the difference between the two properties was subsequently enlarged by Carson’s consent, who gave $160, and a barn in addition to the thousand which he originally offered to pay, the alteration of the terms of the trade cannot. be legally said to deprive Baker of his right to the compensation which Carson undertook to pay for his services. It is rarely in the contemplation of parties who undertake to trade properties, where one is to pay an estimated difference in the relative value of the two, that the trade shall be completed on the terms originally suggested by either. Matters of this sort always proceed by negotiation and mutual concession, and if the properties are ultimately exchanged by the consent of the one who employed the broker, and on terms satisfactory to him, he should not be permitted to escape liability to pay for the services which have been rendered him. In the present case the trade was made satisfactorily to the owner, who put the property in the broker’s hands, and the agent did that for which he had been hired, and for which the owner agreed to pay him a specified sum. Since the broker earned his wages, the owner ought not to complain if he is called upon to pay.
+The judgment of the county court is in accord with the principles here stated, and since it is supported by the evidence, it must be affirmed.
+Affirmed.
