@@ -1,0 +1,29 @@
+---
+court: "Colorado Court of Appeals"
+docket: "4122"
+decided: "1915-03-08"
+citations: ["27 Colo. App. 213"]
+reporter: "colo-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Equitable Surety Co. v. Conners."]
+source_url: "https://static.case.law/colo-app/27/cases/0213-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2319379
+cites_cases: ["13 Colo. App., 116", "14 Colo., 459", "15 Colo., 486", "24 Pac., 556", "24 Pac., 882", "57 Pac., 738"]
+---
+
+# Equitable Surety Co. v. Conners
+
+## Majority (King, J.,)
+
+King, J.,
+delivered the opinion of the court.
+Writ of error to review a judgment in favor of plaintiff below. The parties will be referred to as plaintiff and defendant.
+September 18, 1912, Peter F. Boese, hereinafter called the contractor, entered into a written agreement with plaintiff, whereby the contractor agreed to build a house accordingto the terms of the contract, on lots owned by himself, to be completed by December 1, 1912, and, when completed, to convey to plaintiff said lots, with all improvements thereon, by warranty deed, free from all liens and encumbrances. Defendant is a surety company. For the faithful performance of said-contract, the defendant company executed its bond as surety for the contractor, limiting its liability to the amount of $1,750. In accordance' with the terms of the contract, plaintiff paid the contractor $1,950 in money and property, at and prior to the.time the foundation of the house was completed, to-wit, on or about October 5, 1912. Fifteen hundred and fifty dollars, the balance of the contract price, was to be paid only when the contract was fully performed. November 18th, the contractor executed a warranty deed, whereby the lots were conveyed to plaintiff, and delivered the deed to a third person, with an escrow agreement signed by the contractor and plaintiff, which provided that the deed should be delivered to plaintiff upon completion of the building contract, and further provided that in the event of the failure of the contractor to complete the contract, the deed was to be delivered. The contractor failed to further perform the- contract; the deed was delivered to plaintiff, December 2nd, but a prior encumbrance, and liens subsequently filed, exceeded in amount the value of the lots with the improvements thereon. Judgment was rendered for the plaintiff for, the full penalty of the bond.
+Defendant contends (1) that the plaintiff received from the contractor full payment for all . damages sustained by failure to perform the contract, gave his receipt therefor, and is estopped by his receipt from claiming damage,' and (2) that the contract was materially changed by the parties thereto, to defendant’s damage, which alteration operated to discharge the surety. We cannot assent to either contention. The first is predicated on the warranty deed given by the qontractor to the plaintiff, which deed recited a consideration of - $1,750, and contained the usual acknowledgment of payment of the consideration by the grantee and receipt thereof by the grantor. But the evidence showed that the consideration, although recited in cash terms, was in fact the estimated value of real estate theretofore conveyed by plaintiff to the contractor, as an advance payment made on the contract at the time the bond was given, and the giving of which deed was the real consideration for the execution of the bond. Nothing in fact was paid by plaintiff at the time the deed was executed, and he received nothing thereby, except a worthless equity in the lots described in the deed. The deed did not, by its terms, purport to be given or accepted in satisfaction or discharge of plaintiff’s damages sustained by failure to perform the contract. The evidence shows that it was not so intended. If anything of value had passed to plaintiff by said deed, it would be held, to discharge the damage, pro tanto, but, as has been stated, the liens and encumbrances exceeded the contractor’s equity. If anything had been paid by plaintiff to the contractor at that time, or thereafter, defendant’s liability would have been reduced, to that extent, under the subrogation clause in the bond. The recitals in a deed, of consideration therefor, and the acknowledgment of payment of the consideration, or receipt thereof, are only prima facie, evidence of the amount, the payment or the receipt, and are open to explanation, and may be disproved, except that the law conclusively presumes a nominal consideration to support the validity of the deed. Further than that, they do not amount to an estoppel. Fechheimer v. Trounstine, 15 Colo., 486, 24 Pac., 882; Hubbard v. Mulligan, 13 Colo. App., 116, 57 Pac., 738; Guldager v. Rockwell, 14 Colo., 459, 24 Pac., 556.
+Decided March 8th, A. D. 1915.
+Rehearing denied April 12th, A. D. 1915.
+The second contention is based on the escrow agreement made when the aforesaid deed was executed and delivered as an escrow. The original agreement provided that the deed should be delivered when the contract should be completed. The escrow agreement made the same provision, but further provided that upon failure of the contractor to complete the contract, the deed should be delivered. This escrow agreement was made November 18th, after it became apparent that failure to perform the contract was probable, if not certain. We think this collateral or auxiliary agreement did not materially vary the terms of the original contract; but, in so far as it did vary therefrom, it was in no manner detrimental to defendant. It imposed no different liabilities nor additional burdens upon either the principal or the surety, and there is no reason why it should operate to discharge the surety.
+We find no error in the admission of testimony. The judgment is affirmed.
+Affirmed.
