@@ -1,0 +1,30 @@
+---
+court: "Colorado Court of Appeals"
+decided: "1893-01"
+citations: ["3 Colo. App. 223"]
+reporter: "colo-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Board of County Commissioners of Pitkin County, Plaintiff in Error, v. The Aspen Mining and Smelting Company, Defendant in Error."]
+source_url: "https://static.case.law/colo-app/3/cases/0223-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4470334
+cites_cases: ["11 Ind. 199", "14 Ind. 195", "14 Minn. 524", "16 Mich. 269", "22 Wall. 351", "42 Mo. 578", "47 Ind. 150"]
+---
+
+# Board of County Commissioners v. Aspen Mining & Smelting Co.
+
+## Majority (Reed, J.,)
+
+Reed, J.,
+delivered the opinion of the court.
+It is contended that section 3 of the amendatory act is not germane, not embraced in the title, and void under sec. 24, art. 5 of the state Constitution. The act is entitled “ An Act to amend sec. 29 * * * and to repeal secs. 30, 31, 32, and 33 thereof, and for other purposes.” The last clause, “ and for other purposes,” may first be disposed of. It is in such connection meaningless, of no legal significance — conveys no idea of any legislative intention whatever.
+It is said by Judge Cooley in his excellent work on Const. Lim. 175 (5th ed.): “ The words, ‘ and for other purposes/ must be laid out of consideration. They express nothing, and amount to nothing as a compliance with this constitutional requirement. Nothing which the act could not embrace without them can be brought in by their aid.” See Ryerson v. Utley, 16 Mich. 269: Town of Fishkill v. Plank Road Co., 22 Barb. (N. Y.) 634; St. Louis v. Tiefel, 42 Mo. 578.
+It will be observed that in the title the specific changes are-designated, the amendment of sec. 29 and the repeal of the four enumerated sections. Had the act been entitled, generally, as an act to amend chap. 94, any amendment germane and pertinent might have been made; but being specifically limited to the sections designated the interpolation of a new and different section was not permissible. Any further changes than those designated, were precluded by the specific enumeration of those named. See Woodson v. Murdock, 22 Wall. 351; State v. Bowers, 14 Ind. 195.
+In Cooley Const. Lim. 279 (5th ed.), it is said: “As the legislature may make the title to an act as restrictive as they please, it is obvious that they may sometimes so frame it as-to preclude many matters being included in the act which might with entire propriety have been embraced in one enactment with the matters indicated by the title, but which must now be excluded because the title has been made unnecessarily restrictive. The courts cannot enlarge the scope of the title; they are vested with no dispensing power; the> constitution has made the title the conclusive index to the-legislative intent as to what shall have operation ; it is no answer to say that the title might have been made more comprehensive, if in fact the legislature have not seen fit to make it so.” See Mewhorter v. Rice, 11 Ind. 199; State v. Young, 47 Ind. 150; Jones v. Thompson, 12 Bush (Ky.), 394; State v. Kinsella, 14 Minn. 524; Ryerson v. Utley (supra); Fishkill v. Plank Road Co. (supra).
+The subject-matter of the new section was not germane to the act it was intended to amend. It is a penal statute imposing onerous duties and new responsibilites upon parties in no way legally connected with the administration of county affairs, an attempt to delegate to outsiders duties cast bylaw upon certain officials who were to receive the pay, and imposing a penalty of $100 upon the parties who should refuse or decline to accept the responsibility and perform the services.
+It is sufficient that the subject-matter introduced as an amendment was not germane. If, within the legislative power, it should have been the basis of a new act — could not be incorporated as an amendment.
+The statute being penal and the action brought for the penalty for the refusal to comply with its provisions, strict and specific proof was required, as in criminal cases, to wax1rant a conviction. The evidence failed to make a case. The statute, if-valid, required the appellee to furnish to the road overseer, when employing ten or more men, the names of those who are or may be liable to a road tax under the provisions of the chapter. There was proof that from 150 to 170 mexi were employed in the various mines of the defendant, that the mines where they were employed were outside of the limits of the city of Aspen. There was no proof that any of the employees of the defexxdant were liable to pay road tax, that any were between the ages of twenty-one and fifty, or that any of them resided outside the corporate limits of a city or town. The fact of being employed outside the city limits, fixed no residence ; every individual might have resided within the city. The prosecution must have shown that some of them were legally liable to a road tax, otherwise, no violation of the statute could be established. The words of the statute are, “ who are or may be liable,” etc. The words “ may be ” can only be construed as meaning in the future, and impose an impossibility. How can any employer in the changes, shifting and mutations of miners, say who may be at any subsequent time liable to taxation at any particular place ? If an attempt at compliance was made, those words would have to be disregarded. If, under the statute, the employer assumed the duties imposed, and at the end of ten days made his report, not one of those returned might be accessible when the overseer attempted to collect.
+The statute is an indirect attempt to make an employer liable for the road tax of his employees, and in case he fails to respond to collect $100 in lieu of the taxes. If the law is not invalid, it is and must remain of no value to achieve the end sought — is ineffectual, and is open to severe criticism.
+The judgment of the county court must be affirmed.
+Affirmed.
