@@ -1,0 +1,46 @@
+---
+court: "Colorado Court of Appeals"
+docket: "1181"
+decided: "1897-04"
+citations: ["10 Colo. App. 41"]
+reporter: "colo-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Lustig v. McCulloch."]
+source_url: "https://static.case.law/colo-app/10/cases/0041-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4491503
+cites_cases: ["9 Tex. 610", "9 Wheat. 558"]
+---
+
+# Lustig v. McCulloch
+
+## Majority (Reed, P. J.,)
+
+Reed, P. J.,
+delivered the opinion of the court.
+Appellant was a dealer in liquors in the ci ty of Denver. In March, 1894, appellee was a distiller in the state of Kentucky and by his agent sold liquor to appellant to the amount of $1,166.87, 'which was delivered; a part was barrels of whiskey and part case goods.
+On the 7, day of March, appellee drew his draft upon appellant, payable to his own order at the Colorado National Bank in this city four months after date for the amount mentioned above — -winch upon presentation was accepted in writing by appellant.
+Although the draft was not yet due, the agent becoming afraid of a loss, brought suit for his principal, under the statute and also sued out an attachment upon an affidavit stating: “ That the said demand is upon contract, and that the said Joseph Lustig has conveyed, transferred and assigned, or is about to convey, transfer or assign his property, with intent to hinder, delay or defraud his creditors, or some one or more of them, and that the defendant fraudulently contracted the debt, or fraudulently incurred the liability respecting which the suit is brought, and by false representations or false pretenses or by fraudulent conduct procured the property of the plaintiff, and that the action is brought upon a written instrument for the direct and unconditional payment of money only.”
+Appellant traversed the affidavit; answered admitting the acceptance of the bill, but traversed the other allegations of the complaint. A trial was had to a jury, verdict for the plaintiff for the amount of the bill, interest and cost.
+The first supposed error relied upon was the refusal of the court to allow a full cross-examination of appellant by his counsel when he was called and testified as a witness for the plaintiff (appellee). Counsel wished to examine Mm in regard “ to the reasons and purposes of sales made by Mm to others and the consideration,” etc., which was refused, — the court stating that evidence could be put in upon defense.
+The order of the introduction of testimony is greatly in the discretion of the trial court and will not be reviewed in this court if the record shows that a party was not prejudiced; if in the course of the trial all the evidence was admitted, the time and circumstances are not important. Appellant was subsequently called on his own behalf and testified fully in regard -to all the facts and circumstances at great length, and the whole matter going to the jury, the fact that it was upon direct and not upon cross-examination cannot be ground for reversal. Had the court prevented appellant from getting his defense to the jury a different question would be presented.
+The evidence was full that appellant sold a greater part of the whiskey in barrels to two brothers-in-law engaged in the same business, also some case goods; there was also some evidence to show such sales to have been clandestine which was denied by appellant. It was also shown that the remainder of his stock in trade was sold as a whole to the firm of Neff Bros., and appellant went out of business and failed.
+Appellant testified to Ms reasons for the sales to the brothers-in-law and Neff Bros., his manner of doing business and that when the suit was brought, he was worth from $20,000 to $25,000.
+The second supposed error relied upon was the refusal of the court to grant a nonsuit. We cannot agree with comisel that it was erroneous. The case made by appellee was such that a nonsuit, taking the questions of fact from the jury, would have been clearly improper.
+The third assignment of error relied upon was to the instruction of the court.
+A careful examination of the instruction, fails to support the contention of counsel. They were brief, incisive and clear statements of the law of the case, impartially submitting to the jury the questions of fact for its determination.
+There was sufficient evidence of irregularity and fraud to warrant and authorize the verdict. The question having-been fairly submitted and determined the judgment should be affirmed.
+Affirmed,
+
+## Rehearing (Thomson, P. J.,)
+
+on rehearing.
+Thomson, P. J.,
+delivered the opinion of the court.
+We see no reason to modify the language of the foregoing opinion in respect to any of the propositions it discusses. But it is now brought to our attention that an important point made in the supplemental brief for the appellant was overlooked ; and it is urged that its due consideration will necessitate a reversal of the judgment. It does not appear from the record that the original acceptance upon which the suit was brought was produced at the trial, and no reason was given why it should not be produced. It is conceded in argument that there was in fact no production of the paper; and it is contended for the appellant that such production was necessary to show that the appellee was still the holder of the bill, and to protect the acceptor against the claim of some possible Iona fide assignee in possession. In a letter from the plaintiff to the defendant, concerning other matters of business, written after the draft had been accepted, the following occurs: “ On account of heavy withdrawals of whiskey, and the money required to run my distillery, I was compelled to discount your paper given for a previous bill.” This letter was introduced by the plaintiff as an answer to a letter in evidence, written a short time previously by the defendant to the plaintiff, upon the theory, apparently, that the two taken together had some bearing on the issue made upon the affidavit for attachment. If the paper mentioned in the plaintiff’s letter, was the acceptance upon which the suit was brought, — a qxiestion upon which the record throws no light, —then at the time the letter was written, the plaintiff was not the owner of the draft; and as there was no proof of re-transfer to the plaintiff, upon the presumption that a state of things once shown to exist, continues to exist, the plaintiff was not the owner of the paper when the suit was brought, and trial had.
+On the other side, however, it is argued that the ownership of the draft hy the appellant was admitted by the pleadings. We cannot assent to this. The complaint alleged the drawing of the bill by the plaintiff, its acceptance by the defendant, and its nonpayment. The answer admitted that the bill was drawn and accepted as alleged, and that it was not paid. The complaint is a sufficient complaint in an action by payee against acceptor, but its allegations might be true, and the title to the bill be outside of the payee. The ownership of the acceptance was not involved in either the allegations or the admissions.
+Certainly, upon payment of an acceptance, the acceptor is entitled to possession of the bill as his evidence that it was paid. And judgment upon it should not be entered against him until it is delivered up and filed in the cause, so that it may not afterwards rise up against him in the hands of some third person claiming to be the bona fide holder. Sebree v. Dorr, 9 Wheat. 558; Hansard v. Robinson, 7 B. & C. 50; Matossy v. Frosh, 9 Tex. 610.
+But the question upon the nonproduction of the bill is made for the first time here, and it now appears only in the argument. It was not suggested at the trial. A motion for a new trial was made, in which it was not alluded to ; and it is not presented to us by any assignment of error. Counsel for the appellee say that at the time of the trial it was, and ever since has been, in their possession, ready for delivery to the appellant; and that the latter has all along known that they had it, and were ready to deliver it. This statement is not disputed on behalf of the appellant. And from the fact that no point has ever been made upon its nonproduction until now, it would seem that it was understood by all parties, that the paper referred to in the letter was not the acceptance in suit, or that if it was, it had been retransferred to the plaintiff; and that there was no reason why it should not be forthcoming at the trial.
+But however all this may be, and notwithstanding the defendant did not insist upon his right below, he is entitled for his own protection to the surrender of his acceptance. But under the circumstances, if tire paper be now produced and delivered, we do not feel warranted in reversing the judgment and putting the parties to the expense of another trial. If within ten days from this date the appellee shall deliver the bill of exchange sued on to the clerk of this court, to be by him canceled and hied with the papers in the cause, our affirmance of the judgment will stand; otherwise a judgment of reversal will be entered.
+Wilson, J., not sitting.
