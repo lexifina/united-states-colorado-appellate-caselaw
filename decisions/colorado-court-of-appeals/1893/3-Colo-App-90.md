@@ -1,0 +1,26 @@
+---
+court: "Colorado Court of Appeals"
+decided: "1893-01"
+citations: ["3 Colo. App. 90"]
+reporter: "colo-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Jain, Appellant, v. Giffin, Appellee."]
+source_url: "https://static.case.law/colo-app/3/cases/0090-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4469143
+cites_cases: ["15 Pa. St. 27", "73 Ill. 343", "8 Cush. 154"]
+---
+
+# Jain v. Giffin
+
+## Majority (Bissell, J.,)
+
+Bissell, J.,
+delivered the opinion of the court.
+Early in 1886, W. S. Case and Miles Jain jointly executed to the order of S. B. Austin a promissory note for $650, payable at a date named and bearing a fixed rate of interest. It would appear from the record that Case was the borrower, and Giffin, the appellee, was the loaner of the money, Austin acting as the broker to procure it, and to accomplish the negotiation of the paper. Giffin declined to loan the money except upon the guaranty of Jain’s name, who was supposed to be financially good. Some chattel security seems to have been given, but with this we have no concern. After the paper matured, Case, who was apparently the principal debtor, failed to pay it, and the original broker Austin received from him another note in August, 1886, for $808.50, running for a like period, and for the same rate of interest, and secured in the same manner. This note bore date on the 6th of August. When it was presented at Giffin’s office with a request for an extension, he declined to receive it or surrender the original paper, stating that he relied on the financial security afforded by Jain’s name. Thereupon, and on the 18th of August, the appellant Jain indorsed on the back of the note “ For value received, I hereby guarantee $650.00 of the within note, and I hereby agree to pay $650.00 as aforesaid in case said Case fails to pay the same, together with interest thereon according to the tenor of this note,” and signed it. The note not having been paid at maturity this, suit was brought on the guaranty. Giffin recovered judgment, from which Jain prosecutes this appeal.
+There is really but one question in the record deserving much attention. In his answer Jain alleged that he was induced to sign the guaranty by the misrepresentations of the persons concerned in the transaction. He offered evidence touching this defence which the court excluded and properly declined to hear. The trouble- was, Jain failed to so allege fraud as to entitle him to introduce any evidence on the subject. The whole allegation respecting the fraud was in„a single sentence. Substantially it was that, misrepresenting the facts to him and intending to defraud him, Austin stated that his signature was desired by his brother-in-law Case. The well settled rule that fraud must be pleaded to warrant the introduction of evidence concerning it is too deeply rooted in all systems of jurisprudence to need either elucidation or anything more than a cursory statement of the rule itself. The defendant’s plea in no manner came within the requirements of the most lax decisions upon this question. Having failed to allege the fraud which he asserted, he should not have been permitted, as he was not, to introduce testimony on the subject.
+There are a number of collateral questions presented in the briefs of counsel which hardly arise on the record, but which present but little difficulty under the present circumstances. It is doubtless true that a guaranty executed subsequent to the original undertaking must rest on a new and adequate consideration in order to bind the guarantor, because his promise is a collateral one, whereby he undertakes to answer for the debt or default of another. It is equally true under some circumstances the principal debtor must be proceeded against before the guarantor can be compelled to pay. The present case however comes within the scope of none of these principles. Jain most certainly was an original promisor on the first note and bond for the entire sum. When he executed the guaranty upon the back of the present instrument, that note was still an outstanding obligation which the holder Giffin declined to surrender until Jain signed and became bound on the renewal note. When he signed it, and not till then, was the note accepted and the original note surrendered. Under these circumstances the guaranty must be held as having been executed concurrently with the original undertaking, and therefore a promise requiring no new consideration to support it. So too when the guaranty is examined, it will be found that on its face it is expressed to be for value received, and is the guaranty of a note due at a specified and fixed time, and is an undertaking to pay, and not that the original promise shall be collectible.
+Under those circumstances there is a sufficient recital of consideration, and it warrants a suit against the guarantor without any proceeding against the principal primarily. Brandt on Suretyship & Guaranty, Chap. 3, § 86; Campbell v. Knapp, 15 Pa. St. 27; Parkhurst v. Vail, 73 Ill. 343; Bickford v. Gibbs et al., 8 Cush. 154.
+No other questions have been urged by counsel for the appellant, and since the court below decided correctly as to all these propositions the judgment must be affirmed.
+Affirmed.
