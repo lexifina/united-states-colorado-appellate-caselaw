@@ -1,7 +1,8 @@
 ---
 court: "Colorado Court of Appeals"
 decided: "1897-01"
-citations: ["9 Colo. App. 339", "9 Colo. App. 338"]
+decided_precision: "month"
+citations: ["9 Colo. App. 339"]
 reporter: "colo-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
