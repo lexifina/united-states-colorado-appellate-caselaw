@@ -1,0 +1,24 @@
+---
+court: "Colorado Court of Appeals"
+docket: "1390"
+decided: "1898-09"
+citations: ["12 Colo. App. 268"]
+reporter: "colo-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["McLaughlin v. Martin."]
+source_url: "https://static.case.law/colo-app/12/cases/0268-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4459265
+---
+
+# McLaughlin v. Martin
+
+## Majority (Thomson, P. J.)
+
+Thomson, P. J.
+On the 21st day of December, 1878, John H. Martin, a commission merchant, doing business as Martin & Company in the city of Denver, delivered to the Denver, South Park & Pacific Railroad Company, for transportation over its line, a bill of goods, consigned to Joseph McCarter, at Leadville. The railroad company carried the goods to a point called Grant, where its track at that time terminated, and there delivered them to Matthew McLaughlin, a freighter, for transportation to Leadville. When the goods arrived at their destination, the consignee refused to receive them, for the alleged reason that they came too late, and not according to contract. McLaughlin paid the railroad freight charges when- he received the goods, and when the consignee refused to take them, the agent of McLaughlin in Leadville, on the advice of an attorney, to whom he represented the goods as perishable, sold them, realizing no more than the charges against them for transportation.
+Martin, upon being made acquainted with the situation, brought this suit against McLaughlin, alleging ownership in himself of the goods, their consignment to McCarter, their delivery by him to the railroad company and by it to the defendant, and their conversion by the latter to his own use. The defendant demurred to the complaint for want of facts, and the demurrer was sustained, and judgment rendered against the plaintiff. The case then went to the supreme court, where the judgment was reversed. The only question presented by the demurrer, was whether the complaint sufficiently alleged ownership of the goods in the plaintiff, and the court sustained the pleading. The defendant then put in issue the allegation of ownership and the charge of conversion, and a trial of the issues was had, which resulted in a verdict for the plaintiff. The court denied a motion by the defendant for a new trial, and entered judgment upon the verdict.
+The motion for a new trial should have been allowed, and the judgment vacated. The evidence, in so far as it showed anything, showed that the right of action for the conversion, —if there was a conversion, — was not in the plaintiff. The complaint alleged ownership in him, and the allegation was controverted by the answer. It' therefore devolved upon him to prove his averment. Not only did he not prove it, but if he proved anything, he proved that the goods belonged to McCarter. The only evidence concerning the transaction between the plaintiff and McCarter, was the testimony of the plaintiff himself, and that testimony, as copied from the abstract, was as follows : “ I am plaintiff in this case. Am a commission merchant. Know McCarter, who kept a butcher shop at Leadville. He traded with me. Shipped him goods on 21st of December, 1878. He ordered them shipped by South Park in care of defendant’s fast freight line. Goods consisted of oysters and poultry. Goods shipped according to directions. * * * The order for the goods in question came by telegram. Telegram stated, ‘ Ship so many pounds of turkey, chickens, so many quails, and so many different kinds of oysters.’ I shipped the goods he ordered. Filled the order to the letter, — I always do, because I have no right to do anything else. Telegram was addressed to Martin & Company, signed by Joseph McCarter, and dated on the 21st, the day I shipped the goods. Sent McCarter bill of the goods same day goods were shipped. Bill to McCarter was made out on company bill-heads, and sent to him by mail, either 21st or 22d. Joseph McCarter was named as the purchaser in the bill; Martin & Company as sellers. Goods were described and prices stated.”
+The only conclusion to be drawn from the foregoing testimony, is that the transaction was a sale by the plaintiff to McCarter. The goods sold were delivered for shipment in accordance with the instructions of the buyer, and when so delivered, they became the property of the latter. If there was a conversion by the defendant, it was the property of McCarter which was converted, and not that of the plaintiff. Upon the testimony of the plaintiff, he had a good cause of action against McCarter for the purchase price of the goods, but, the title having passed from him, he had no right of action for their conversion. The verdict was without support from the evidence, and the judgment entered upon it must be reversed.
+Reversed.
