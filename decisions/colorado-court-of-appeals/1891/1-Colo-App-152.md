@@ -1,0 +1,23 @@
+---
+court: "Colorado Court of Appeals"
+decided: "1891-09"
+citations: ["1 Colo. App. 152"]
+reporter: "colo-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The Colorado Midland Railway Company, Appellant, v. Gertrude Trevarthen, Appellee."]
+source_url: "https://static.case.law/colo-app/1/cases/0152-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1768982
+cites_cases: ["11 Colo. 247", "14 Colo. 387", "15 Colo. 579", "15 Colo. 583", "7 Colo. 113", "77 Ill. 275"]
+---
+
+# Colorado Midland Railway Co. v. Trevarthen
+
+## Majority (Bissell, J.)
+
+Bissell, J.
+The injury complained of was occasioned by the construction of the Midland Railway in one of the streets of the city of Aspen. The suit was brought by Mrs. Trevarthen, in the district court of Pitkin county. The company demurred to the complaint, and when the demurrer was overruled declined to plead further, and prosecuted this appeal from the final judgment. When it was entered evidence was introduced to show the extent and character of the damages which had been sustained by the building of the road, and this is set out in the record. The only purpose sought to be subserved by the production of that testimony is to support the alleged error committed by the court in refusing, to the counsel of the company, the right to cross-examine the witnesses at the time the proof was taken. Whatever may be the law as to the right to cross-examine witnesses introduced under such circumstances, and for such a purpose, the objection is untenable, since the record discloses the fact that the right to cross-examine was conceded. The court declined to state the legal effect of such action, but conceded the right of cross-examination to the fullest extent, leaving the matter of its effect open for subsequent consideration. There was no error in this proceeding, and what the court did was not done in such a manner as to be prejudicial to the appellant’s rights.
+The only error available is that predicated upon the ruling of the court on the demurrer to the complaint. It would not be advantageous to the profession to set out the complaint in extenso, to show its insufficiency, or to confirm the adequacy of the reasons assigned for the overruling of the action of the court. It is enough to say that in two particulars the complaint was radically defective. It is the law of this state, that a lot owner can only recover for those damages which he has sustained from the construction or operation of a road subsequent to the time when he acquired his title to the property. If the road has been constructed and is in operation at the time he gets title, he is supposed to have taken it cum onere, and to have paid the lesser price because of the disadvantages. The damages arising from the construction enure to the holder of the fee, and do not pass by the deed which transfers the title. This principle, which has been recognized in the previous adjudications of the state, in no manner affects the right to recover any damages which may be sustained from those acts of the company which may further diminish the value of the property. The allegation-of ownership with reference to the time of construction is essential, because it bears largely on the measure of recovery. It is a traversable fact on which the company has the right to‘take issue and be heard. It is equally true, that for the construction of a road along the streets of a city, when it is built under statutes which authorize its construction, and under ordinances which permit the use and occupation of the streets of the city, the abutting lot owner can only recover for the special damages which he sustains beyond what he suffers in common with the other denizens of the city. It is a necessary corollary, that if these special damages only are recoverable in this sort of an action, they must be averred, and averred in a traversable fashion, so that evidence may be taken upon the issue, and it submitted to the jury. The complaint was defective in these particulars, and since they are of the substance, the ruling of the court may be complained of on this appeal. City of Denver v. Bayer, 7 Colo. 113; Denver S. F. R. Co., et al., v. Domke, et al., 11 Colo. 247; Jackson v. Ackroyd, 15 Colo. 583; Town of Longmont v. Parker, 14 Colo. 387; Walley v. Platte & Denver Ditch Co., 15 Colo. 579; I. B. & W. R. Co. v. McLaughlin, 77 Ill. 275.
+Tor the error committed in overruling the demurrer, the cause must’ be reversed and remanded to the court below for further proceedings in conformity with this opinion.
+Reversed.
