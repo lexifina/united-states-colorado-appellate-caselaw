@@ -1,0 +1,27 @@
+---
+court: "Colorado Court of Appeals"
+decided: "1894-04"
+citations: ["4 Colo. App. 506"]
+reporter: "colo-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Kiefer, Appellant, v. Kiefer, Appellee."]
+source_url: "https://static.case.law/colo-app/4/cases/0506-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4473594
+cites_cases: ["10 Colo. 540", "21 Neb. 387", "22 Neb. 711", "51 Iowa, 565", "9 Colo. 133"]
+---
+
+# Kiefer v. Kiefer
+
+## Majority (Bissell, P. J.,)
+
+Bissell, P. J.,
+delivered the opinion of the court.
+Maggie Kiefer sued Edward Kiefer to obtain a divorce. She alleged a marriage in 1884, charged adultery in 1892 with Christine Glade, and set up all other matters requisite to the statement of her cause of action. She prayed alimony. The adulterous intercourse 'stated was with the one with whom Kiefer was then living as his wife. The answer admitted the marriage, and then set up a'judgment of divorce between the defendant Edward and his wife Maggie rendered in Hitchcock county, Nebraska, in June, 1891. The plaintiff replied and attacked the judgment on two principal grounds. One of the matters relates to the lack of a sufficient residence by Kiefer in the state of Nebraska to entitle that court to proceed ; and the other, to a failure to proceed according to the statute to obtain service by publication on the present plaintiff. These are the only things that need be referred to for the purposes of rendering plain the present controversy. On these' pleadings, aided by sundry affidavits concerning the pecuniary condition of the defendant and his residence in Nebraska, application was made to the court below for alimony pendente lite. The court rendered judgment for one hundred and fifty dollars attorney’s fees, and fifty dollars a month for the plaintiff’s maintenance. The defendant appealed.
+The sole question here concerns the power of the district court to render a decree adjudging alimony to the plaintiff prior to a final hearing, and while the marriage is still a subject-matter of dispute. If slrown to have been regularly rendered by a court having jurisdiction of the parties, the judgment of the state court of Nebraska would be a valid adjudication severing the marital relation between these parties. It may be true, should the plaintiff be able ultimately to maintain her contention, that the court did not acquire jurisdiction for the purposes of the decree, 'the judgment is voidable, and it may be within the legal possibilities that she can attack it in the present suit. It would be neither wise nor proper for us to consider whether the plaintiff can in this suit and in this collateral way contest its validity. There is nothing in the record to warrant it. Under some circumstances, a party otherwise than by prosecuting an appeal or error in the original suit, or by a bill in that jurisdiction, can assail a judgment rendered by- a court of general powers. Freeman on Judgments, § 555; Herman on Estoppel, § 365; Vanfleet’s Collateral Attack, § 689.
+The mode of obtaining service seems to have been entirely regular under the Nebraska statute, and according to the judgments of the court of our sister state, the affidavit on which the publication was made and the form of the order and its contents are abundantly sufficient to uphold the judgment. Shedanhelm v. Shedanhelm, 21 Neb. 387; Armstrong v. Middlestadt, 22 Neb. 711; Vanfleet’s Collateral Attack, § 330.
+For the purposes then of this interlocutory application, Maggie and Edward were divorced before the present suit i was instituted. This is an end of 'the present application and the decree should not have been entered. The right to alimony can only result from the existence of the marital relation. Unless it be either proved or admitted, alimony pendente lite may not be decreed. The admission in the answer that the parties had been married in 1884 is not the proof nor the admission which is sufficient to warrant the judgment —for this admission was coupled with affirmative matter which destroyed its force and effect. Although the parties had been married the relation did not exist at the time the bill was filed, and the former husband was under no moral or legal liability to furnish the funds to enable the former wife to coutest the validity of the judgment, and obtain a decree of divorce on the ground of adultery. We do n ot say whether, if it be shown that the judgment of the district court of Hitchcock county was void and therefore inoperative, the relations between the defendant and his second wife would not bring the case within the scope of our divorce statute. It will be time enough to cross the bridge when the main case reaches this court and all the facts are before us. We simply decide that there can be no decree granting alimony where it is not shown by the record that the marital relation exists at the time the application is made. Bishop on Marriage and Divorce, vol. 2, §§ 386-402, et seq.; McFarland v. McFarland, 51 Iowa, 565; Cowan v. Cowan, 10 Colo. 540; Daniels v. Daniels, 9 Colo. 133.
+Until the original judgment in Hitchcock county, Nebraska, shall be either set aside, reversed or modified, or shall be adjudged in this suit to be unavailable as a defense, the plaintiff may not have a decree compelling the defendant to pay her alimony.
+The present judgment was entered in violation of these principles, and must therefore be set aside.
+Reversed.
