@@ -1,0 +1,27 @@
+---
+court: "Colorado Court of Appeals"
+docket: "1629"
+decided: "1900-01"
+citations: ["14 Colo. App. 236"]
+reporter: "colo-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Schweizer v. Mansfield et al."]
+source_url: "https://static.case.law/colo-app/14/cases/0236-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2358282
+cites_cases: ["26 Colo. 462"]
+---
+
+# Schweizer v. Mansfield
+
+## Majority (Bissell, P. J.)
+
+Bissell, P. J.
+It would be worse than folly to discuss a multitude of immaterial errors and objections to this appeal which are urged by the appellees, or to consider any other question suggested by the appellant than the one which goes to the fundamentals of the action. The question involved has been recently decided by the supreme court. We shall only state so much of the facts as are necessary to bring the case within that decision, and then disposing of one question for the purpose of settling the practice, we shall dismiss the matter from further consideration.
+Mansfield, Eaton and Lipp brought suit against Schweizer, Baty, Tuttle, Galloway and the Teutonic Gold Mining & Milling Company to foreclose a lien which they claimed to have secured on the property. According to the allegations of their complaint the lode mining claim was owned by Miss Schweizer. She leased the property to Galloway who thereafter in conjunction with Baty and Tuttle, employed the plaintiffs to work on the claim as miners. The plaintiffs further alleged the rendition of service, its value, and then set up the filing of a mechanic’s lien on the prope^ to secure the payment of the wages which the employers left unpaid, and then prayed a personal judgment against everybody, the Teutonic Gold Mining & Milling Company and the various lessees, and the foreclosure of the lien. This is all we need state about the complaint. Answers were filed by some of the parties, though a default was taken as to the appellant Schweizer which she attempted to set aside by a motion for a new trial, tendered for filing in apt time, but which for some inscrutable reason the clerk declined to file. It was afterwards filed, but too late and Miss Schweizer prosecutes this appeal. The judgment being entered without trial there was little testimony offered, but a personal judgment was entered against all the defendants and a decree rendered for a foreclosure of the lien.
+This simple statement disposes of the case. We are wholly unconcerned with the rights or remedies of any of the defendants except the appellant Schweizer who was the owner.
+The complaint stated no cause of action against her, nor were the plaintiffs, on the proof, entitled either to a personal judgment against Miss Schweizer or to a decree foreclosing the lien. Wilkins et al. v. Abell et al., 26 Colo. 462. Since this is true, and there is an assignment of error which challenges the regularity of the judgment, the appellant has a right to be heard regardless of errors in the prosecution of her proceedings to set aside the judgment. The pleading and the proof are wholly insufficient to support the judgment or to entitle the plaintiffs to the lien. It necessarily follows, whatever irregularities may have been otherwise committed, the judgment cannot stand.
+There is another somewhat unimportant matter to which we desire to call attention because it exhibits such a gross abuse of power on the part of the clerk that it ought to be rebuked, that the practice may not again occur. It appears that Miss Schweizer had deposited with the clerk money for the payment of the costs which should accrue against her. By some misadventure her counsel failed to appear when the case was set for trial and the proceeding was as upon a default. Thereafter a motion was made for a new trial which the clerk refused to file, on the hypothesis that the money which the defendant Schweizer had deposited to pay her costs belonged to plaintiffs because they had obtained judgment. In other words, the clerk took it upon himself to appropriate the money deposited for the payment of the costs, and to apply it, without execution or order, to the liquidation of the judgment prior to final entry or the disposition of any appeal. Manifestly he had no right to pursue this course, and we are only surprised that the matter was not rectified by the lower court by an order which should direct the clerk as to his duty in the premises. Clerks are without the right to attempt to pass upon, or adjust the rights of parties, or to appropriate money in courts otherwise than to apply it on execution or to dispose of it according to some order of the court. In the eyes of the law, the appellant, Schweizer, had money in the hands of the clerk sufficient to pay the costs of filing a motion for a new trial, and it was the duty of the clerk to file it when it was tendered. We only mention this incidental matter, lest a practice so vicious, once being conceded, should grow into an established rule, which in the end would prove prejudicial to the rights of litigants.
+The complaint stated no cause of action against Miss Schweizer nor any facts to support a mechanic’s lien, and the decree giving a personal judgment against her and foreclosing the lien on her property was'not only irregular but void, and it will therefore be reversed and set aside, and the case sent back for further proceedings in conformity with this opinion.
+Reversed.
